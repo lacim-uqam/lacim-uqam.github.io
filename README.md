@@ -1,1 +1,0 @@
-# lacim-uqam.github.io
