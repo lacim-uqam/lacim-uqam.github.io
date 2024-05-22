@@ -1,0 +1,14 @@
+<div class="banner">
+
+    <img class="banner-image" src="../images/banner.jpg" />
+
+    <div class="text-section">
+        <h1 class="title" style={color:"red";}>
+            {{ site.title }}
+        </h1>
+    </div>
+
+    {% capture language_link %}../{{page.other_language.path}}{% endcapture%}
+    <a href="{{ language_link }}" data-lang-key="{{page.other_language.path}}" class="language-link">{{ page.other_language.name }}</a>
+
+</div>

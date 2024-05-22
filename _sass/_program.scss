@@ -1,0 +1,50 @@
+.fancy-list-page .main-content {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin-bottom: 3em;
+
+        li {
+            padding: 0.5em 10px;
+            @include box-sizing(border-box);
+
+            &:nth-child(2n) {
+                background: $lighter_grey;
+            }
+        }
+    }
+}
+
+.fancy-list-time {
+    font-weight: 400;
+    font-family: $heading_font;
+    display: block;
+}
+
+.fancy-list-item {
+    display: block;
+}
+
+@media #{$desktop} {
+    .fancy-list-time, .fancy-list-item  {
+        display: inline-block;
+    }
+
+    .program-page {
+        .fancy-list-time {
+            width: 7em;
+        }
+    }
+
+    .participants-page {
+        .fancy-list-time {
+            width: 100%;
+            // width: 50%;
+        }
+
+        .fancy-list-item {
+            width: 100%;
+            // width: 50%;
+        }
+    }
+}

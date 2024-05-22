@@ -1,0 +1,35 @@
+.primary-nav {
+    background: $dark_grey;
+    text-align: center;
+    @include cf;
+
+    a {
+        font-family: $heading_font;
+        font-size: 0.8em;
+        // font-weight: 700;
+        color: white;
+        text-decoration: none;
+        padding: 5px 0;
+        @include col(4/12, $cycle: 3);
+
+        &.active {
+            background: lighten($dark_grey, 20%);
+        }
+
+        &:hover {
+            background: rgba(white, 0.1);
+        }
+    }
+
+    @media #{$desktop} {
+        a {
+            font-size: 1em;
+            @include col(2/12, $cycle: 6, $uncycle: 3, $gutter: 0);
+
+            &.active {
+                background: white;
+                color: $dark_grey;
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+.banner {
+    $text_overlay_colour: rgba($dark_grey, 0.8);
+    position: relative;
+
+    .banner-image {
+        width: 100%;
+        display: block;
+    }
+
+    .text-section {
+        @include padded;
+    }
+
+    .organization-name {
+        @include title-3;
+        font-family: $heading_font;
+        font-weight: 400;
+        margin: 0;
+    }
+
+    .language-link {
+        background: $text_overlay_colour;
+        position: absolute;
+        top: 50px;
+        right: 0;
+        font-family: $heading_font;
+        color: white;
+        text-decoration: none;
+        text-shadow: 0 0 1px black;
+        font-size: 0.8em;
+        padding: 6px 16px;
+    }
+
+    @media #{$desktop} {
+        .text-section {
+            position: absolute;
+            left: 0;
+            bottom: 30px;
+            width: 100%;
+            background: $text_overlay_colour;
+            color: white;
+        }
+
+        .organization-name {
+            @include title-2;
+            margin: 0;
+            text-shadow: 0 0 3px black;
+        }
+    }
+}

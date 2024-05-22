@@ -1,0 +1,21 @@
+{% include header.html %}
+
+
+<div class="content-sidebar-wrapper">
+    <div class="main-content">
+        {{ content }}
+
+        <p class="contact-phone-email">
+            <b>{{ page.contact.title }}</b>
+            <br />
+            {{ page.contact.name }}
+            <br />
+            <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
+            <br />
+            {{ page.contact.phone }}
+        </p>
+    </div>
+
+</div>
+
+{% include footer.html %}

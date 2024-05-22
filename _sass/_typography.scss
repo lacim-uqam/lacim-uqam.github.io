@@ -1,0 +1,68 @@
+// TypeScale
+// http://type-scale.com/?size=18&scale=1.200&text=A%20Visual%20Type%20Scale&webfont=Libre+Baskerville&font-family=&font-weight=&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333
+
+html {
+    font-size: 1.125em;
+}
+
+body {
+    line-height: 1.45;
+}
+
+p {
+    margin-bottom: 1.3em;
+}
+
+
+@mixin heading-margins {
+    margin: 1.414em 0 0.5em;
+}
+
+@mixin title-1 {
+    margin-top: 0;
+    font-size: 2.074em;
+    line-height: 1.2;
+}
+
+@mixin title-2 {
+    font-size: 1.728em;
+    line-height: 1.2;
+}
+
+@mixin title-3 {
+    font-size: 1.44em;
+    line-height: 1.2;
+}
+
+@mixin title-4 {
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+
+.font_small {
+    font-size: 0.833em;
+    line-height: 1.2;
+}
+
+// Typography
+body {
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: none;
+    font-family: $body_font;
+    color: $dark_grey;
+}
+
+.content-sidebar-wrapper {
+    h1, h2, h3, h4 {
+        font-family: $heading_font;
+        font-weight: 400;
+    }
+}
+
+dt {
+    margin-top: 0.75em;
+}
+
+dd {
+    margin-left: 0;
+}

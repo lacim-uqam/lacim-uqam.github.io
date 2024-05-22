@@ -1,0 +1,25 @@
+# actual_url property required to ensure active class added to the link when on that page
+
+- name: Accueil
+  url: index.html
+  actual_url: /
+
+- name: Activit&eacute;s
+  url: activities.html
+  actual_url: /activites.html
+
+- name: Membres et visiteurs
+  url: membres.html
+  actual_url: /memebres.html
+
+- name: Publications
+  url: publications.html
+  actual_url: /publications.html
+
+- name: Bourses et s&eacute;jours
+  url: bourses_et_sejours.html
+  actual_url: bourses_et_sejours.html
+
+- name: Contact
+  url: contact.html
+  actual_url: /contact.html

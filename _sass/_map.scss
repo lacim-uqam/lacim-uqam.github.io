@@ -1,0 +1,16 @@
+.map {
+    background: #efefef;
+    height: 300px;
+
+    @media #{$desktop} {
+        height: 400px;
+    }
+}
+
+.venue-address {
+    span {
+        &:first-child {
+            font-weight: 700;
+        }
+    }
+}
