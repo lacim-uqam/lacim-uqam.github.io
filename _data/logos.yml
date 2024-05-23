@@ -1,0 +1,18 @@
+- uqam:
+  name: UQAM
+  url: https://www.uqam.ca
+  image_url: /images/UQAM_coul_numerique.png
+  width: 200px
+
+- crm:
+  name: CRM
+  url: https://crmath.ca
+  image_url: /images/crm_logo.jpg
+  width: 200px
+
+- crc:
+  name: CRC
+  url: https://www.chairs-chaires.gc.ca/
+  image_url: /images/CRC_RGB_Device.png
+  width: 100px
+
