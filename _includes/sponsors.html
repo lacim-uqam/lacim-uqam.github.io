@@ -1,0 +1,12 @@
+<div class="sponsors">
+    <h3>{{ site.data[page.lang].headings.logos }}</h3>
+
+    <dl>
+        {% for logo in site.data.logos %}
+        <dt align='center'>
+            <!-- <a href="{{logo.url}}" target="_blank">{{ logo.name }}</a> -->
+            <a href="{{ logo.url }}"><img class="{{ logo.name }}" src="{{ logo.image_url }}" width={{ logo.width }}/></a>
+        </dt>
+        {% endfor %}
+    </dl>
+</div>
