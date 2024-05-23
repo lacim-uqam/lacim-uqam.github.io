@@ -4,21 +4,25 @@
   url: index.html
   actual_url: /
 
-- name: Activit&eacute;s
-  url: activities.html
-  actual_url: /activites.html
-
-- name: Membres et visiteurs
+- name: Membres
   url: membres.html
   actual_url: /memebres.html
+
+- name: Sémainaires
+  url: seminaires.html
+  actual_url: /seminaires.html
+
+- name: Activit&eacute;s
+  url: activites.html
+  actual_url: /activites.html
 
 - name: Publications
   url: publications.html
   actual_url: /publications.html
 
-- name: Bourses et s&eacute;jours
-  url: bourses_et_sejours.html
-  actual_url: bourses_et_sejours.html
+- name: Stages et &eacute;tudes
+  url: stages.html
+  actual_url: /stages.html
 
 - name: Contact
   url: contact.html
