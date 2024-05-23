@@ -11,7 +11,7 @@
         @include padded;
     }
 
-    .organization-name {
+    .title {
         @include title-3;
         font-family: $heading_font;
         font-weight: 400;
@@ -34,17 +34,18 @@
     @media #{$desktop} {
         .text-section {
             position: absolute;
-            left: 0;
+            right: 0;
             bottom: 30px;
-            width: 100%;
+            width: 70%;
             background: $text_overlay_colour;
             color: white;
         }
 
-        .organization-name {
+        .title {
             @include title-2;
             margin: 0;
-            text-shadow: 0 0 3px black;
+            text-shadow: 3px 3px 3px gray;
         }
+
     }
 }
