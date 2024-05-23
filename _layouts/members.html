@@ -1,0 +1,46 @@
+{% include header.html %}
+
+<div class="content-sidebar-wrapper fancy-list-page">
+    <div class="main-content">
+        <h2>Members réguliers</h2>
+        <ul>
+        {% for member in site.data.members %}
+        {% if member.member_status == "regulier" %}
+          <li>
+            <strong class="fancy-list-item">
+                <a href="{{ member.website }}">{{ member.name }}</a>,
+                {{ member.affiliation }} <br>
+                <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+                <strong class="fancy-list-item">
+                    <em>{{ member.research_interests }}</em>
+                </strong>
+            </strong>
+          </li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+        <h2>Members collaborateurs</h2>
+        <ul>
+        {% for member in site.data.members %}
+        {% if member.member_status == "collaborateur" %}
+          <li>
+            <strong class="fancy-list-item">
+                <a href="{{ member.website }}">{{ member.name }}</a>,
+                {{ member.affiliation }} <br>
+                <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+                <strong class="fancy-list-item">
+                    <em>{{ member.research_interests }}</em>
+                </strong>
+            </strong>
+          </li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+    </div>
+</div>
+
+
+{% include footer.html %}
+

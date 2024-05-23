@@ -1,0 +1,24 @@
+- name: Franco Saliola
+  member_status: regulier
+  affiliation: UQAM
+  email: saliola.franco@uqam.ca
+  website: https://saliola.github.io
+  research_interests: combinatoire algébrique, théorie de la représentation
+  photo:
+
+- name: François Bergeron
+  affiliation: UQAM
+  website: https://bergeron.math.uqam.ca
+
+- name: Franco Saliola
+  member_status: collaborateur
+  affiliation: UQAM
+  email: saliola.franco@uqam.ca
+  website: https://saliola.github.io
+  research_interests: combinatoire algébrique, théorie de la représentation
+  photo:
+
+- name: François Bergeron
+  affiliation: UQAM
+  member_status: collaborateur
+  website: https://bergeron.math.uqam.ca
