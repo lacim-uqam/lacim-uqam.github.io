@@ -1,18 +1,37 @@
 {% include header.html %}
 
-
 <div class="content-nosidebar-wrapper padded">
     <div class="main-content">
         {{ content }}
 
-        <p class="contact-phone-email">
-            <b>{{ page.contact.title }}</b>
-            <br />
-            {{ page.contact.name }}
+        <h3>{{ page.contact.title }}</h3>
+        <p class="contact-info">
+            <b> {{ page.contact.name }} </b>
             <br />
             <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
             <br />
             {{ page.contact.phone }}
+        </p>
+
+        <h3>Adresse postale</h3>
+        <p class="contact-info">
+            {{ page.postal-address.name }} <br />
+            {{ page.postal-address.address1 }} <br />
+            {{ page.postal-address.address2 }} <br />
+            {{ page.postal-address.city }},
+            {{ page.postal-address.province }},
+            {{ page.postal-address.postal-code }}
+            <br />
+        </p>
+
+        <h3>Adresse physique</h3>
+        <p class="contact-info">
+            {{ page.physical-address.address1 }} <br />
+            {{ page.physical-address.address2 }} <br />
+            {{ page.physical-address.city }},
+            {{ page.physical-address.province }},
+            {{ page.physical-address.postal-code }}
+            </div>
         </p>
     </div>
 

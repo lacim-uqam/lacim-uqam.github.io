@@ -1,25 +1,27 @@
 ---
 layout: contact
 custom_body_class: contact-page
+
 contact:
     name: Alexandra Haedrich
     title: Coordonnatrice scientifique
     email: lacim@uqam.ca
     phone: (514) 987-3000 poste 1811
+
+postal-address:
+    name: Laboratoire d'Algèbre, de Combinatoire et d’informatique Mathématique (LACIM)
+    address1: Université du Québec à Montréal
+    address2: Case postale 8888, Succursale centre-ville
+    city: Montréal
+    province: Québec
+    postal-code: H3C 3P8
+
+physical-address:
+    name: Laboratoire d'Algèbre, de Combinatoire et d’informatique Mathématique (LACIM)
+    address1: Pavillon Président Kennedy (Local PK-4211)
+    address2: 201 avenue du Président Kennedy
+    city: Montréal
+    province: Québec
+    postal-code: H2X 3Y7
+
 ---
-
-# Nous joindre
-
-Nos locaux se trouvent au 4e étage du Pavillon Président-Kennedy de l’UQAM.
-
-**Adresse postale** \
-Laboratoire d'Algèbre, de Combinatoire et d’informatique Mathématique (LACIM) \
-Université du Québec à Montréal \
-Case postale 8888, Succursale centre-ville \
-Montréal (Québec) \
-H3C 3P8
-
-**Adresse physique** \
-Pavillon Président Kennedy (Local PK-4211) \
-201 avenue du Président Kennedy \
-Montréal, Québec, H2X 3Y7
