@@ -40,11 +40,26 @@
     @include cf;
     padding-top: 1em;
 
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
     a {
         font-family: $heading_font;
         font-size: 1.0em;
         // color: black;
         // padding: 5px 0;
+    }
+
+    li {
+      display: inline-block;
+
+      &:not(:last-child):after{
+        content: " | ";
+      }
+
     }
 
     @media #{$desktop} {

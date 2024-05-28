@@ -8,12 +8,14 @@
 </div>
 
 <div class="secondary-nav">
+    <ul>
     {% for link in site.data[page.lang].navigation %}
-    {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
-    {% if actual_url_with_lang == page.url %}
-    {% for subfolder in link.subfolderitems %}
-    <a href=""> {{ subfolder.heading }} </a> |
+        {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
+        {% if actual_url_with_lang == page.url %}
+            {% for subfolder in link.subfolderitems %}
+            <li> <a href="#{{ subfolder.heading }}"> {{ subfolder.heading }} </a> </li>
+            {% endfor %}
+        {% endif %}
     {% endfor %}
-    {% endif %}
-    {% endfor %}
+    </ul>
 </div>
