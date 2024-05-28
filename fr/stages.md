@@ -3,14 +3,12 @@ layout: default
 custom_body_class: stages-page
 ---
 
-# Bourses et études au LACIM
+## Bourses et études au LACIM
 
-## Bourses relève CIRGET-LACIM
+### Bourses relève CIRGET-LACIM
 
-## Stages postdoctoraux
+### Stages postdoctoraux
 
-## Stages de recherche de premier cycle
+### Stages de recherche de premier cycle
 
-## Stage de recherche pré-universitaire
-
-
+### Stage de recherche pré-universitaire
