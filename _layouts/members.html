@@ -2,36 +2,36 @@
 
 <div class="content-sidebar-wrapper fancy-list-page">
     <div class="main-content">
-        <h2>Members réguliers</h2>
+        <h2>Membres réguliers</h2>
         <ul>
         {% for member in site.data.members %}
-        {% if member.member_status == "regulier" %}
+        {% if member.category == "Membre régulier" %}
           <li>
             <strong class="fancy-list-item">
                 <a href="{{ member.website }}">{{ member.name }}</a>,
                 {{ member.affiliation }} <br>
                 <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
-                <strong class="fancy-list-item">
+                <div class="fancy-list-item">
                     <em>{{ member.research_interests }}</em>
-                </strong>
+                </div>
             </strong>
           </li>
         {% endif %}
         {% endfor %}
         </ul>
 
-        <h2>Members collaborateurs</h2>
+        <h2>Membres collaborateurs / collaboratrices</h2>
         <ul>
         {% for member in site.data.members %}
-        {% if member.member_status == "collaborateur" %}
+        {% if member.category == "Membre collaborateur" %}
           <li>
             <strong class="fancy-list-item">
                 <a href="{{ member.website }}">{{ member.name }}</a>,
                 {{ member.affiliation }} <br>
                 <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
-                <strong class="fancy-list-item">
+                <div class="fancy-list-item">
                     <em>{{ member.research_interests }}</em>
-                </strong>
+                </div>
             </strong>
           </li>
         {% endif %}

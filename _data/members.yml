@@ -1,24 +1,279 @@
+- name: Alain Goupil
+  affiliation: UQTR
+  email: Alain.Goupil@uqtr.ca
+  website: https://oraprdnt.uqtr.uquebec.ca/portail/genw050.afficher_fiche_perso?owa_cd_secteur=1800&owa_cd_fonction=57&owa_no_personne=456131&owa_contexte=$1645-73
+  category: Membre régulier
+
+- name: Alejandro Morales
+  affiliation: UQAM
+  email: morales_borrero.alejandro@uqam.ca
+  website: https://professeurs.uqam.ca/professeur/morales_borrero.alejandro/
+  category: Membre régulier
+
+- name: Alexandre Blondin-Massé
+  affiliation: UQAM / Hydro Québec
+  email: blondin_masse.alexandre@uqam.ca
+  website: https://github.com/ablondin
+  category: Membre régulier
+
+- name: Anne Bergeron
+  affiliation: UQAM
+  email: bergeron.anne@uqam.ca
+  website: http://www.lacim.uqam.ca/~anne/
+  category: Membre régulier
+
+- name: Benoît Larose
+  affiliation: Collège Champlain à St-Lambert / UQAM
+  email: larose.benoit.2@uqam.ca
+  website: https://benoitlarose.ca/
+  category: Membre régulier
+
+- name: Christophe Hohlweg
+  affiliation: UQAM
+  email: hohlweg.christophe@uqam.ca
+  website: https://hohlweg.math.uqam.ca/
+  category: Membre régulier
+
+- name: Christophe Reutenauer
+  affiliation: UQAM
+  email: reutenauer.christophe@uqam.ca
+  website: http://www.lacim.uqam.ca/~christo/
+  category: Membre régulier
+
 - name: Franco Saliola
-  member_status: regulier
   affiliation: UQAM
   email: saliola.franco@uqam.ca
-  website: https://saliola.github.io
-  research_interests: combinatoire algébrique, théorie de la représentation
-  photo:
+  website: https://saliola.github.io/saliola
+  category: Membre régulier
+  research_interests: combinatoire algébrique; théorie de la représentation de groupes et monoïdes
 
 - name: François Bergeron
   affiliation: UQAM
-  website: https://bergeron.math.uqam.ca
+  email: bergeron.francois@uqam.ca
+  website: http://bergeron.math.uqam.ca/
+  category: Membre régulier
 
-- name: Franco Saliola
-  member_status: collaborateur
+- name: Gilbert Labelle
   affiliation: UQAM
-  email: saliola.franco@uqam.ca
-  website: https://saliola.github.io
-  research_interests: combinatoire algébrique, théorie de la représentation
-  photo:
+  email: labelle.gilbert@uqam.ca
+  website: http://www.lacim.uqam.ca/~gilbert/
+  category: Membre régulier
 
-- name: François Bergeron
+- name: Hugh Thomas
   affiliation: UQAM
-  member_status: collaborateur
-  website: https://bergeron.math.uqam.ca
+  email: thomas.hugh_r@uqam.ca
+  website: http://www.lacim.uqam.ca/~hugh/
+  category: Membre régulier
+
+- name: Ibrahim Assem
+  affiliation: Université de Sherbrooke
+  email: Ibrahim.Assem@USherbrooke.ca
+  website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/ibrahim-assem/
+  category: Membre régulier
+
+- name: Jake Levinson
+  affiliation: Université de Montréal
+  email: jake.levinson@umontreal.ca
+  website: https://dms.umontreal.ca/~levinsonj/
+  category: Membre régulier
+
+- name: Jean-Philippe Labbé
+  affiliation: ETS Montréal
+  email: jean-philippe.labbe@etsmtl.ca
+  website: https://jplab.github.io/
+  category: Membre régulier
+
+- name: Ryan Kavanagh
+  affiliation: UQAM
+  email: kavanagh.ryan@uqam.ca
+  website: https://rak.ac/fr/
+  category: Membre régulier
+
+- name: Samuele Giraudo
+  affiliation: UQAM
+  email: giraudo.samuele@uqam.ca
+  website: http://igm.univ-mlv.fr/~giraudo/Home.html
+  category: Membre régulier
+
+- name: Shiping Liu
+  affiliation: Université de Sherbrooke
+  email: Shiping.Liu@usherbrooke.ca
+  website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/shiping-liu/
+  category: Membre régulier
+
+- name: Srečko Brlek
+  affiliation: UQAM
+  email: brlek.srecko@uqam.ca
+  website: http://www.lacim.uqam.ca/~brlek/
+  category: Membre régulier
+
+- name: Sylvie Hamel
+  affiliation: Université de Montréal
+  email: hamelsyl@iro.umontreal.ca
+  website: http://www.iro.umontreal.ca/~hamelsyl/
+  category: Membre régulier
+
+- name: Thomas Brüstle
+  affiliation: Université de Sherbrooke
+  email: Thomas.Brustle@USherbrooke.ca
+  website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/thomas-bruestle/
+  category: Membre régulier
+
+- name: Véronique Bazier-Matte
+  affiliation: Université Laval
+  email: veronique.bazier-matte.1@ulaval.ca
+  website: https://sites.google.com/view/veronique-bazier-matte
+  category: Membre régulier
+
+- name: Vladimir Makarenkov
+  affiliation: UQAM
+  email: makarenkov.vladimir@uqam.ca
+  website: http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html
+  category: Membre régulier
+
+- name: Vladimir Reinharz
+  affiliation: UQAM
+  email: reinharz.vladimir@uqam.ca
+  website: https://cbe.uqam.ca/
+  category: Membre régulier
+
+- name: Abdoulaye Banire Diallo
+  affiliation: UQAM
+  email: diallo.abdoulaye@uqam.ca
+  website: http://labo.bioinfo.uqam.ca/index.php?action=members
+  category: Membre collaborateur
+
+- name: Adriano Garsia
+  affiliation: Université de Californie à San Diefo
+  email:
+  website: http://math.ucsd.edu/~garsia/
+  category: Membre collaborateur
+
+- name: Camille Coti
+  affiliation: ETS Montréal
+  email: camille.coti@etsmtl.ca
+  website: https://www.etsmtl.ca/programmes-et-formations/corps-enseignant/ccoti/
+  category: Membre collaborateur
+
+- name: Claudia Malvenuto
+  affiliation: Université La Sapienza
+  email: http://claudia@mat.uniroma1.it/
+  website: https://en.wikipedia.org/wiki/Claudia_Malvenuto
+  category: Membre collaborateur
+
+- name: Gabriel Frieden
+  affiliation: McGill Desautels
+  email: gabefri@gmail.com
+  website: https://sites.google.com/a/umich.edu/gfrieden/
+  category: Membre collaborateur
+
+- name: Janosch Ortmann
+  affiliation: UQAM
+  email: ortmann.janosch@uqam.ca
+  website: https://professeurs.uqam.ca/professeur/ortmann.janosch
+  category: Membre collaborateur
+
+- name: Luc Bélair
+  affiliation: UQAM
+  website: http://profmath.uqam.ca/~belair/
+  category: Membre collaborateur
+
+- name: Luc Lapointe
+  affiliation: Université de Talca (Chili)
+  category: Membre collaborateur
+
+- name: Marcelo Aguiar
+  affiliation: Cornell University
+  website: http://pi.math.cornell.edu/~maguiar/
+  category: Membre collaborateur
+
+- name: Mark Haiman
+  affiliation: Université de Californie à Berkeley
+  website: https://math.berkeley.edu/~mhaiman/
+  category: Membre collaborateur
+
+- name: Mathieu Guay-Paquet
+  affiliation: LACIM
+  website: https://github.com/mguaypaq
+  category: Membre collaborateur
+
+- name: Nadia Lafrenière
+  affiliation: Concordia
+  email: nadia.lafreniere@concordia.ca
+  website: https://nadialafreniere.github.io/home.html
+  category: Membre collaborateur
+
+- name: Nantel Bergeron
+  affiliation: York University
+  website: http://www.math.yorku.ca/Who/Faculty/Bergeron/menu.html
+  category: Membre collaborateur
+
+- name: Nathan Williams
+  affiliation: UT Dallas
+  website: https://personal.utdallas.edu/~nxw170830/index.html
+  category: Membre collaborateur
+
+- name: Pierre-Guy Plamondon
+  affiliation: Université de Versailles
+  category: Membre collaborateur
+
+- name: Simon Plouffe
+  affiliation: IUT Nantes
+  website: https://fr.wikipedia.org/wiki/Simon_Plouffe
+  category: Membre collaborateur
+
+- name: Timothy Walsh
+  affiliation: UQAM
+  category: Membre associé
+
+- name: Vincent Pilaud
+  affiliation: Universitat de Barcelona
+  email: vincent.pilaud@ub.edu
+  website: https://www.lix.polytechnique.fr/Labo/Vincent.Pilaud/
+  category: Membre collaborateur
+
+- name: Viviane Pons
+  affiliation: Université d'Orsay
+  email: viviane.pons@lri.fr
+  website: https://www.lri.fr/~pons/
+  category: Membre collaborateur
+
+- name: Yann Palu
+  affiliation: Université d'Amiens
+  category: Membre collaborateur
+
+- name: GaYee Park
+  email: park.ga_yee@uqam.ca
+  website: https://sites.google.com/view/gayeepark/home
+  category: postdoc
+
+- name: Jose Bastidas
+  email: jdb394@cornell.edu
+  website: https://sites.google.com/view/bastidas/
+  category: postdoc
+
+- name: Sarah Brauner
+  email: sarahbrauner@gmail.com
+  website: https://www.sarahbrauner.com/
+  category: postdoc
+
+- name: 
+  affiliation: 
+  email: 
+  website: 
+  category: 
+
+- name: 
+  affiliation: 
+  email: 
+  website: 
+  category: 
+
+- name: 
+  affiliation: 
+  email: 
+  website: 
+  category: 
+
+
+
