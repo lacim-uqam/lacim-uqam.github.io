@@ -11,6 +11,16 @@ body {
     background: $uqam-blue;
     margin: 0;
     padding: 10px;
+
+    a {
+        color: $blue;
+        // font-weight: 700;
+        text-decoration: none;
+
+        &:hover {
+            color: $green;
+        }
+    }
 }
 
 .container {
@@ -41,20 +51,15 @@ body {
     }
 }
 
-
-// Main content and sidebar
-.content-sidebar-wrapper {
+.content-nosidebar-wrapper {
     @include cf;
 
-    a {
-        color: $blue;
-        font-weight: 700;
-        text-decoration: none;
-
-        &:hover {
-            color: $green;
-        }
+    @media #{$desktop} {
     }
+}
+
+.content-sidebar-wrapper {
+    @include cf;
 
     .sidebar {
         @include padded;
@@ -71,39 +76,10 @@ body {
     }
 }
 
-.fancy-list-page ul {
-  list-style: none;
-  padding: 0;
-  margin-bottom: 5em;
-}
-
-.fancy-list-page ul li {
-  padding: 0.5em 10px;
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-}
-
-.fancy-list-page ul li:nth-child(2n) {
-  background: #f8f8f8;
-}
-
-.fancy-list-time {
-  font-weight: 400;
-  font-family: "Montserrat", "Helvetica Neue", "Arial", sans-serif;
-  display: block;
-}
-
-.fancy-list-item {
-  display: block;
-}
-
-
 // Modules
 @import "_forms";
 @import "_banner";
 @import "_navigation";
 @import "_map";
-@import "_program";
-
+@import "_members";
 

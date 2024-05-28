@@ -1,28 +1,21 @@
-.members {
+.membres-liste {
+    ul {
+        list-style: none;
+        margin-bottom: 3em;
+        margin-right: 40px;
 
-  .fancy-list-page ul {
+        li {
+            padding: 0.5em 10px;
+            @include box-sizing(border-box);
 
-    list-style: none;
+            background: $lighter_grey;
 
-    padding: 0;
+            &:nth-child(2n) {
+                background: $white;
+            }
 
-    margin-bottom: 5em; }
-
-    .fancy-list-page .main-content ul li {
-
-      padding: 0.5em 10px;
-      box-sizing: border-box;
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box; }
-      .fancy-list-page .main-content ul li:nth-child(2n) {
-        background: #f8f8f8; }
-
-  .fancy-list-time {
-  font-weight: 400;
-  font-family: "Montserrat", "Helvetica Neue", "Arial", sans-serif;
-  display: block; }
-
-  .fancy-list-item {
-  display: block; }
-
+            font-family: $heading_font;
+            display: block;
+        }
+    }
 }

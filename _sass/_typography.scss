@@ -59,6 +59,13 @@ body {
     }
 }
 
+.content-nosidebar-wrapper {
+    h1, h2, h3, h4 {
+        font-family: $heading_font;
+        font-weight: 400;
+    }
+}
+
 dt {
     margin-top: 0.75em;
 }

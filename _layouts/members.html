@@ -1,46 +1,24 @@
 {% include header.html %}
 
-<div class="content-sidebar-wrapper fancy-list-page">
-    <div class="main-content">
+<div class="content-nosidebar-wrapper">
+    <div class="membres-liste">
         <h2>Membres réguliers</h2>
         <ul>
-        {% for member in site.data.members %}
-        {% if member.category == "Membre régulier" %}
-          <li>
-            <strong class="fancy-list-item">
-                <a href="{{ member.website }}">{{ member.name }}</a>,
-                {{ member.affiliation }} <br>
-                <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
-                <div class="fancy-list-item">
+            {% for member in site.data.members %}
+            {% if member.category == "Membre régulier" %}
+            <li>
+                <div class="member">
+                    <a href="{{ member.website }}">{{ member.name }}</a>,
+                    {{ member.affiliation }} <br>
+                    <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
                     <em>{{ member.research_interests }}</em>
                 </div>
-            </strong>
-          </li>
-        {% endif %}
-        {% endfor %}
+            </li>
+            {% endif %}
+            {% endfor %}
         </ul>
-
-        <h2>Membres collaborateurs / collaboratrices</h2>
-        <ul>
-        {% for member in site.data.members %}
-        {% if member.category == "Membre collaborateur" %}
-          <li>
-            <strong class="fancy-list-item">
-                <a href="{{ member.website }}">{{ member.name }}</a>,
-                {{ member.affiliation }} <br>
-                <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
-                <div class="fancy-list-item">
-                    <em>{{ member.research_interests }}</em>
-                </div>
-            </strong>
-          </li>
-        {% endif %}
-        {% endfor %}
-        </ul>
-
     </div>
 </div>
-
 
 {% include footer.html %}
 
