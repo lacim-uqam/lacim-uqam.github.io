@@ -13,6 +13,14 @@ p {
     margin-bottom: 1.3em;
 }
 
+a {
+    color: $blue;
+    text-decoration: none;
+
+    &:hover {
+        color: $green;
+    }
+}
 
 @mixin heading-margins {
     margin: 1.414em 0 0.5em;

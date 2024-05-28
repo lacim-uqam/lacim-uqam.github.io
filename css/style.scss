@@ -11,16 +11,6 @@ body {
     background: $uqam-blue;
     margin: 0;
     padding: 10px;
-
-    a {
-        color: $blue;
-        // font-weight: 700;
-        text-decoration: none;
-
-        &:hover {
-            color: $green;
-        }
-    }
 }
 
 .container {
