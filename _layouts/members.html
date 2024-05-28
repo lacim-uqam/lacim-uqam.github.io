@@ -10,7 +10,40 @@
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
                     {{ member.affiliation }} <br>
-                    <a href="mailto:{{ member.email }}">{{ member.email }}</a><br>
+                    <em>{{ member.research_interests }}</em>
+                </div>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="membres-liste">
+        <h2>Membres collaborateurs</h2>
+        <ul>
+            {% for member in site.data.members %}
+            {% if member.category == "Membre collaborateur" %}
+            <li>
+                <div class="member">
+                    <a href="{{ member.website }}">{{ member.name }}</a>,
+                    {{ member.affiliation }} <br>
+                    <em>{{ member.research_interests }}</em>
+                </div>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="membres-liste">
+        <h2>Membres postdoctoraux</h2>
+        <ul>
+            {% for member in site.data.members %}
+            {% if member.category == "postdoc" %}
+            <li>
+                <div class="member">
+                    <a href="{{ member.website }}">{{ member.name }}</a>,
+                    {{ member.affiliation }} <br>
                     <em>{{ member.research_interests }}</em>
                 </div>
             </li>
