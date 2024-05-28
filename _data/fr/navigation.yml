@@ -6,21 +6,22 @@
 
 - name: Membres
   url: membres.html
-  actual_url: /memebres.html
+  actual_url: /membres.html
+  subfolderitems:
+    - heading: Membres réguliers
+    - heading: Membres collaborateurs
+    - heading: Membres étudiants
+    - heading: Membres postdoctoraux
 
-- name: Sémainaires
+- name: Séminaires & Activités
   url: seminaires.html
   actual_url: /seminaires.html
-
-- name: Activit&eacute;s
-  url: activites.html
-  actual_url: /activites.html
 
 - name: Publications
   url: publications.html
   actual_url: /publications.html
 
-- name: Stages et &eacute;tudes
+- name: Stages & Études
   url: stages.html
   actual_url: /stages.html
 

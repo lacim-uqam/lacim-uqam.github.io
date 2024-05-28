@@ -1,8 +1,19 @@
 <div class="primary-nav">
     {% for link in site.data[page.lang].navigation %}
     {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
-    <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="{{ link.url }}">
+        <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="{{ link.url }}">
         {{ link.name }}
-    </a>
+        </a>
+    {% endfor %}
+</div>
+
+<div class="secondary-nav">
+    {% for link in site.data[page.lang].navigation %}
+    {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
+    {% if actual_url_with_lang == page.url %}
+    {% for subfolder in link.subfolderitems %}
+    <a href=""> {{ subfolder.heading }} </a> |
+    {% endfor %}
+    {% endif %}
     {% endfor %}
 </div>

@@ -33,3 +33,20 @@
         }
     }
 }
+
+.secondary-nav {
+    background: $white;
+    text-align: center;
+    @include cf;
+    padding-top: 1em;
+
+    a {
+        font-family: $heading_font;
+        font-size: 1.0em;
+        // color: black;
+        // padding: 5px 0;
+    }
+
+    @media #{$desktop} {
+    }
+}
