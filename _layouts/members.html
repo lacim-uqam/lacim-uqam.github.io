@@ -2,7 +2,7 @@
 
 <div class="content-sidebar-wrapper padded">
     <div class="membres-liste">
-        <h2 id="Membres réguliers">Membres réguliers</h2></a>
+        <h2 id="membres-réguliers">Membres réguliers</h2></a>
         <ul>
             {% for member in site.data.members %}
             {% if member.category == "Membre régulier" %}
@@ -19,7 +19,7 @@
     </div>
 
     <div class="membres-liste">
-        <h2 id="Membres collaborateurs">Membres collaborateurs</h2>
+        <h2 id="collaborateurs">Membres collaborateurs</h2>
         <ul>
             {% for member in site.data.members %}
             {% if member.category == "Membre collaborateur" %}
@@ -36,7 +36,7 @@
     </div>
 
     <div class="membres-liste">
-        <h2 id="Membres postdoctoraux">Membres postdoctoraux</h2>
+        <h2 id="posdocs">Membres postdoctoraux</h2>
         <ul>
             {% for member in site.data.members %}
             {% if member.category == "postdoc" %}

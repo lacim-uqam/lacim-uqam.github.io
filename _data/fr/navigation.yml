@@ -7,14 +7,25 @@
 - name: Membres
   url: membres.html
   actual_url: /membres.html
-  subfolderitems:
+  submenuitems:
     - heading: Membres réguliers
+      link: membres.html#membres-réguliers
     - heading: Membres collaborateurs
-    - heading: Membres postdoctoraux
+      link: membres.html#collaborateurs
+    - heading: Postdocs
+      link: membres.html#collaborateurs
 
-- name: Séminaires & Activités
-  url: seminaires.html
-  actual_url: /seminaires.html
+- name: Activités
+  url: activités.html
+  actual_url: /activités.html
+  submenuitems:
+    - heading: Séminaire du LACIM
+      link: seminaire.html
+    - heading: Café du LACIM
+      link: activités.html#café-du-lacim
+    - heading: Conférences
+      link: conferences.html
+
 
 - name: Publications
   url: publications.html

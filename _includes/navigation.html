@@ -6,8 +6,8 @@
             {{ link.name }}
             </a>
             <div class="dropdown-content">
-            {% for subfolder in link.subfolderitems %}
-                <a href="{{ link.url }}#{{ subfolder.heading }}"> {{ subfolder.heading }} </a> </li>
+            {% for submenuitem in link.submenuitems %}
+                <a href="{{ submenuitem.link }}"> {{ submenuitem.heading }} </a> </li>
             {% endfor %}
             </div>
         </div>
