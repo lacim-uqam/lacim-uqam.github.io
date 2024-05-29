@@ -1,9 +1,16 @@
-<div class="primary-nav">
+<div class="primary-navigation-menu">
     {% for link in site.data[page.lang].navigation %}
     {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
-        <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="{{ link.url }}">
-        {{ link.name }}
-        </a>
+        <div class="dropdown navigation-menu-item {% if actual_url_with_lang == page.url %} active{% endif %}">
+            <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="{{ link.url }}">
+            {{ link.name }}
+            </a>
+            <div class="dropdown-content">
+            {% for subfolder in link.subfolderitems %}
+                <a href="{{ link.url }}#{{ subfolder.heading }}"> {{ subfolder.heading }} </a> </li>
+            {% endfor %}
+            </div>
+        </div>
     {% endfor %}
 </div>
 
