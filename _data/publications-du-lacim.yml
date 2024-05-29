@@ -1,0 +1,404 @@
+- volume: "01"
+  title: "Parallélisme: modèles et complexité (Actes de colloque, ACFAS 89, 1990)"
+  author: S. Brlek (éd.)
+  year: 1990
+  copyright: LACIM, CRIM
+  copyright_long: LACIM, Montréal; CRIM, Montréal, Juin 1990
+  type: Proceedings
+  ISBN: 2-89276-077-1 LACIM Montréal
+
+- volume: "02"
+  title: Séries indicatrices d'espèces pondérées et q-analogues
+  author: H. Décoste
+  year: 1990
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Novembre 1990
+  type: Thèse PhD (UdM)
+  ISBN: 2-89276-080-1 LACIM Montréal
+
+- volume: "03"
+  title: Étude des arbres hyper-quaternaires
+  author: Louise Laforest
+  year: 1990
+  Copyright: Louise Laforest
+  copyright_long: Copyright 1990 par Louise Laforest
+  type: Thèse PhD (McGill)
+  ISBN: 2-89276-080-X
+
+- volume: "04"
+  title: Contribution à l'étude des empilements
+  author: P. Lalonde
+  year: 1991
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "05"
+  title: Calcul combinatoire de séries indicatrices de cycles
+  author: I. Constantineau
+  year: 1991
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "06"
+  title: Notes On Schubert Polynomials
+  author: I. G. Macdonald
+  year: 1991
+  copyright: "?"
+  copyright_long: "?"
+  type: Book
+  ISBN: "?"
+
+- volume: "07"
+  title: Combinatoire des tableaux oscillants et des polynômes de Bessel
+  author: L. Favreau
+  year: 1991
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Septembre 1991
+  type: Thèse PhD (Bordeaux I)
+  ISBN: 2-89276-093-3 LACIM Montréal
+
+- volume: "08"
+  title: Réécritures dans l'algèbre de Lie libre, le groupe libre et l'algèbre associative libre
+  author: G. Melançon
+  year: 1991
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Septembre 1991
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-094-1
+
+- volume: "09"
+  title: q-énumération de polyominos convexes
+  author: M. Bousquet-Mélou
+  year: 1991
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Janvier 1991
+  type: Thèse PhD (Bordeaux I)
+  ISBN: 2-89276-095-x LACIM Montréal
+
+- volume: "10"
+  title: "Atelier de combinatoire franco-québecois : actes de l'atelier, 6-7 mai 1991"
+  author: J. Labelle, J.-G. Penaud (éds.)
+  year: 1992
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Mai 1992
+  type: Proceedings
+  ISBN: 2-89276-101-8 LACIM Montréal
+
+- volume: "11"
+  title: "Séries formelles et combinatoire algébrique : actes, 4e colloque, 15-19 juin 1992"
+  author: P. Leroux, C. Reutenauer (éds.)
+  year: 1992
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Juin 1992
+  type: Proceedings
+  ISBN: 2-89276-103-4 LACIM Montréal
+
+- volume: "12"
+  title: Structures combinatoires et calcul symbolique
+  author: Y. Chiricota
+  year: 1993
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Mars 1993
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-113-1 LACIM Montréal
+
+- volume: "13"
+  title: Aspects combinatoires des nombres de Stirling, des polynômes orthogonaux de Sheffer et de leurs q-analogues
+  author: A. de Medicis
+  year: 1993
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "14"
+  title: A theory of noncommutative determinants and characteristic functions of graphs, I. M. Gelfand and V. S. Retakh; Matroids on chamber systems
+  author: I. M. Gelfand, A. V. Borovik
+  year: 1993
+  copyright: "?"
+  copyright_long: "?"
+  type: Book"?"
+  ISBN: "?"
+
+- volume: "15"
+  title: "BMW-94, 16-18 mai 1994 : méthodes mathématiques pour la synthèse des systèmes informatiques : actes du colloque ACFAS 94"
+  author: S. Brlek (éd.)
+  year: 1994
+  copyright: LACIM
+  copyright_long: LACIM, Montréal; CRIM, Montréal, Mai 1994
+  type: Proceedings
+  ISBN: 2-89276-129-8 LACIM Montréal
+
+- volume: "16"
+  title: Produits et coproduits des fonctions quasi-symétriques et de l'algèbre des descentes
+  author: Claudia Malvenuto
+  year: 1994
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "17"
+  title: Une interprétation combinatoire des approximants de Padé
+  author: Emmanuel Roblet
+  year: 1994
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Octobre 1994
+  type: Thèse PhD (Bordeaux I)
+  ISBN: 2-89276-133-6 LACIM Montréal
+
+- volume: "18"
+  title: "Hyperbinomiales: doubles suites satisfaisant à des équations aux différences partielles de dimension et d'ordre deux de la forme H(n,k)=p(n,k)H(n-1,k)+q(n,k)H(n-1,k-1)"
+  author: Pierre Théoret
+  year: 1994
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "19"
+  title: Théorie des espèces et combinatoire des structures arborescentes
+  author: François Bergeron, Gilbert Labelle, Pierre Leroux
+  year: 1994
+  copyright: "?"
+  copyright_long: "?"
+  type: Book
+  ISBN: "?"
+
+- volume: "20"
+  title: "Axel Thue's papers on repetitions in words: a translation"
+  author: Jean Berstel
+  year: 1995
+  copyright: "?"
+  copyright_long: "?"
+  type: Book
+  ISBN: "?"
+
+- volume: "21"
+  title: Une généralisation des séries indicatrices d'espèces de structures
+  author: Kathleen Pineau
+  year: 1995
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "22"
+  title: Fonctions symétriques, ensembles de descentes et classes de conjugaison dans les produits en couronne
+  author: Stéphane Poirier
+  year: 1996
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Mai 1996
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-150-6 LACIM Montréal
+
+- volume: "23"
+  title: Combinatoire des systèmes d'équations différentielles et aux dérivées partielles
+  author: Benjamin Randrianirina
+  year: 1998
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "24"
+  title: Espèces de structures et applications du dénombrement de cartes et de cactus planaires
+  author: Michel Bousquet
+  year: 1998
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "25"
+  title: Contribution à l'étude des mots sturmiens
+  author: Bruno Parvaix
+  year: 1998
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Mai 1999
+  type: Thèse PhD (Limoges)
+  ISBN: 2-89276-173-5 LACIM Montréal
+
+- volume: "26"
+  title: Analyse d'équations combinatoires en théorie des espèces 
+  author: Pierre Auger
+  year: 2000
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Mai 2000
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-177-8 LACIM Montréal
+
+- volume: "27"
+  title: "Colloque LACIM 2000: Combinatoire, Informatique et Applications"
+  author: Pierre Leroux (éd.)
+  year: 2000
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Septembre 2000
+  type: Proceedings
+  ISBN: 2-89276-179-4 LACIM Montréal
+
+- volume: "28"
+  title: Fonctions de Bessel et combinatoire 
+  author: Francis Gascon
+  year: 2002
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "29"
+  title: The Saga of Reduced Factorizations of Elements of the Symmetric Group
+  author: Adriano Garsia
+  year: 2002
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Août 2002
+  type: Book
+  ISBN: 2-89276-299-5 LACIM Montréal
+
+- volume: "30"
+  title: Variétés de carquois et homologie d'intersection
+  author: Ralf Schiffler
+  year: 2003
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Avril 2003
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-302-9 LACIM Montréal
+
+- volume: "31"
+  title: Algorithmes vectoriels et bioinformatique
+  author: Sylvie Hamel
+  year: 2004
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Février 2004
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-303-7 LACIM Montréal
+
+- volume: "32"
+  title: Conjecture n! et généralisations
+  author: Jean-Christophe Aval
+  year: 2004
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Juin 2004
+  type: Thèse PhD ("?")
+  ISBN: 2-89276-304-5 LACIM Montréal
+
+- volume: "33"
+  title: Spécification de classes de structures arborescentes
+  author: Cédric Lamathe
+  year: 2004
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Octobre 2004
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-348-7 LACIM Montréal
+
+- volume: "34"
+  title: A Holonomic Systems Approach to Algebraic Combinatorics
+  author: Marni Mishna
+  year: 2005
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Janvier 2005
+  type: Thèse PhD (UQAM)
+  ISBN: 2-89276-349-5 LACIM Montréal
+
+- volume: "35"
+  title: Une famille d'algorithmes à balayage circulaire pour le calcul de diagrammes de Voronoï de points ou de cercles pondérés
+  author: Axel Pavillet
+  year: 2004
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "36"
+  title: Words 2005 5th International Conference on Words
+  author: Srecko Brlek, Christophe Reutenauer (éds.)
+  year: 2005
+  copyright: LACIM
+  copyright_long: LACIM, Montréal, Septembre 2005
+  type: Proceedings
+  ISBN: 2-89276-376-2 LACIM Montréal
+
+- volume: "37"
+  title: Étude d'espaces de polynômes harmoniques généralisés
+  author: François Lamontagne
+  year: 2003
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "38"
+  title: Treillis enveloppant des fonctions partielles injectives
+  author: Marc Fortin
+  year: 2007
+  copyright: "?"
+  copyright_long: "?"
+  type: "?"
+  ISBN: "?"
+
+- volume: "39"
+  title: Mots équilibrés et mots lisses
+  author: Geneviève Paquin
+  year: 2008
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "40"
+  title: Contributions à l'analyse de figures discrètes en dimension quelconque
+  author: Annie Lacasse
+  year: 2008
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "41"
+  title: Combinatoire des mots, géométrie discrète et pavages
+  author: Xavier Provençal
+  year: 2008
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "42"
+  title: Invariants de graphes liés aux gaz imparfaits
+  author: Amel Kaouche
+  year: 2009
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "43"
+  title: Séries rationnelles et matrices génératrices non commutatives
+  author: Sylvain Lavallée
+  year: 2009
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "44"
+  title: Structures arborescentes et développements moléculaires
+  author: Martin Ducharme
+  year: 2009
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
+
+- volume: "45"
+  title: Efficient generation of the ideals of a poset in gray code order
+  author: Mohamed Abdo
+  year: 2010
+  copyright: "?"
+  copyright_long: "?"
+  type: Thèse PhD (UQAM)
+  ISBN: "?"
