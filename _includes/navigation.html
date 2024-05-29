@@ -19,8 +19,8 @@
     {% for link in site.data[page.lang].navigation %}
         {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
         {% if actual_url_with_lang == page.url %}
-            {% for subfolder in link.subfolderitems %}
-            <li> <a href="#{{ subfolder.heading }}"> {{ subfolder.heading }} </a> </li>
+            {% for submenuitem in link.submenuitems %}
+            <li> <a href="{{ submenuitem.link }}"> {{ submenuitem.heading }} </a> </li>
             {% endfor %}
         {% endif %}
     {% endfor %}
