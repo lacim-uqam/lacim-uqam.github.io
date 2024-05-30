@@ -1,5 +1,5 @@
 .banner {
-    $text_overlay_colour: rgba($dark_grey, 0.8);
+    $text_overlay_colour: rgba($dark_grey, 0.9);
     position: relative;
 
     .banner-image {
@@ -35,8 +35,8 @@
         .text-section {
             position: absolute;
             right: 0;
-            bottom: 30px;
-            width: 70%;
+            bottom: 0px;
+            width: 100%;
             background: $text_overlay_colour;
             color: white;
         }
@@ -44,7 +44,7 @@
         .title {
             @include title-2;
             margin: 0;
-            text-shadow: 3px 3px 3px gray;
+            // text-shadow: 3px 3px 3px gray;
         }
 
     }
