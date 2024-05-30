@@ -5,11 +5,11 @@
   actual_url: /
   submenuitems:
     - heading: À propos du LACIM
-      link: apropos.html
-    - heading: Research
-      link: apropos.html#research
+      link: about.html
+    - heading: Research Areas
+      link: about.html#research-areas
     - heading: History of LACIM
-      link: apropos.html#history-of-lacim
+      link: about.html#history
 
 - name: Members
   url: members.html
@@ -26,8 +26,8 @@
   url: activities.html
   actual_url: /activities.html
   submenuitems:
-    - heading: Séminaire du LACIM
-      link: seminaire.html
+    - heading: LACIM Seminar
+      link: seminar.html
     - heading: Café du LACIM
       link: activities.html#café-du-lacim
     - heading: Conferences
@@ -41,10 +41,10 @@
   url: internships.html
   actual_url: /internships.html
   submenuitems:
-    - heading: Postdoctoral positions
-      link: internships.html#postdoctoral-training
-    - heading: Undergraduate Research Projects
-      link: internships.html#undergraduate-research-projects
+    - heading: Postdoctoral Fellowships
+      link: internships.html#postdoctoral-fellowships
+    - heading: Undergraduate Summer Research Programs
+      link: internships.html#undergraduate-summer-research-programs
 
 - name: Contact
   url: contact.html

@@ -3,23 +3,23 @@
   email: Alain.Goupil@uqtr.ca
   website: https://oraprdnt.uqtr.uquebec.ca/portail/genw050.afficher_fiche_perso?owa_cd_secteur=1800&owa_cd_fonction=57&owa_no_personne=456131&owa_contexte=$1645-73
   category: Membre régulier
-  research_interests: combinatoire, algèbre, groupe symétrique, énumération
+  interets_de_recherche: combinatoire, algèbre, groupe symétrique, énumération
 
 - name: Alejandro Morales
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: morales_borrero.alejandro@uqam.ca
   website: https://sites.google.com/view/ahmorales
   category: Membre régulier
-  research_interests: combinatoire algébrique et énumérative
+  interets_de_recherche: combinatoire algébrique et énumérative
 
 - name: Alexandre Blondin-Massé
-  affiliation: UQAM / Hydro Québec
+  affiliation: UQAM (Informatique) / Hydro Québec
   email: blondin_masse.alexandre@uqam.ca
   website: https://github.com/ablondin
   category: Membre régulier
 
 - name: Anne Bergeron
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: bergeron.anne@uqam.ca
   website: http://www.lacim.uqam.ca/~anne/
   category: Membre régulier
@@ -31,40 +31,41 @@
   category: Membre régulier
 
 - name: Christophe Hohlweg
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: hohlweg.christophe@uqam.ca
   website: https://hohlweg.math.uqam.ca/
   category: Membre régulier
-  research_interests: groupes de Coxeter, groupes de réflexions, et leurs structures connexes
+  interets_de_recherche: groupes de Coxeter, groupes de réflexions, et leurs structures connexes
 
 - name: Christophe Reutenauer
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: reutenauer.christophe@uqam.ca
   website: http://www.lacim.uqam.ca/~christo/
   category: Membre régulier
 
 - name: Franco Saliola
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: saliola.franco@uqam.ca
   website: https://saliola.github.io/saliola
   category: Membre régulier
-  research_interests: combinatoire algébrique; théorie de la représentation de groupes et monoïdes
+  interets_de_recherche: combinatoire algébrique; théorie de la représentation de groupes et monoïdes
+  research_interests: algebraic combinatorics, representation theory of finite groups and monoiods
 
 - name: François Bergeron
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: bergeron.francois@uqam.ca
   website: http://bergeron.math.uqam.ca/
   category: Membre régulier
-  research_interests: Les recherches de François Bergeron concernent diverses interactions entre structures algébriques (espaces de polynômes harmoniques, représentation de groupes de réflexions, etc.) et objets combinatoires (arbres, partitions d’entiers, permutations, structures énumérées par les nombres de Catalan, fonctions parking, etc.). 
+  interets_de_recherche: Les recherches de François Bergeron concernent diverses interactions entre structures algébriques (espaces de polynômes harmoniques, représentation de groupes de réflexions, etc.) et objets combinatoires (arbres, partitions d’entiers, permutations, structures énumérées par les nombres de Catalan, fonctions parking, etc.). 
 
 - name: Gilbert Labelle
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: labelle.gilbert@uqam.ca
   website: http://www.lacim.uqam.ca/~gilbert/
   category: Membre régulier
 
 - name: Hugh Thomas
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   email: thomas.hugh_r@uqam.ca
   website: http://www.lacim.uqam.ca/~hugh/
   category: Membre régulier
@@ -80,23 +81,23 @@
   email: jake.levinson@umontreal.ca
   website: https://dms.umontreal.ca/~levinsonj/
   category: Membre régulier
-  research_interests: Jake Levinson s'intéresse principalement à la géométrie algébrique et à la combinatoire algébrique. Ses recherches portent sur les espaces de modules de courbes stables, le calcul de Schubert, les variétés toriques et les résolutions libres équivariantes.
+  interets_de_recherche: Jake Levinson s'intéresse principalement à la géométrie algébrique et à la combinatoire algébrique. Ses recherches portent sur les espaces de modules de courbes stables, le calcul de Schubert, les variétés toriques et les résolutions libres équivariantes.
 
 - name: Jean-Philippe Labbé
   affiliation: ETS Montréal
   email: jean-philippe.labbe@etsmtl.ca
   website: https://jplab.github.io/
   category: Membre régulier
-  research_interests: groupes de Coxeter, géométrie convexe, géométrie et algèbre computationnelle
+  interets_de_recherche: groupes de Coxeter, géométrie convexe, géométrie et algèbre computationnelle
 
 - name: Ryan Kavanagh
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: kavanagh.ryan@uqam.ca
   website: https://rak.ac/fr/
   category: Membre régulier
 
 - name: Samuele Giraudo
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: giraudo.samuele@uqam.ca
   website: http://igm.univ-mlv.fr/~giraudo/Home.html
   category: Membre régulier
@@ -108,7 +109,7 @@
   category: Membre régulier
 
 - name: Srečko Brlek
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: brlek.srecko@uqam.ca
   website: http://www.lacim.uqam.ca/~brlek/
   category: Membre régulier
@@ -132,19 +133,19 @@
   category: Membre régulier
 
 - name: Vladimir Makarenkov
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: makarenkov.vladimir@uqam.ca
   website: http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html
   category: Membre régulier
 
 - name: Vladimir Reinharz
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: reinharz.vladimir@uqam.ca
   website: https://cbe.uqam.ca/
   category: Membre régulier
 
 - name: Abdoulaye Banire Diallo
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   email: diallo.abdoulaye@uqam.ca
   website: http://labo.bioinfo.uqam.ca/index.php?action=members
   category: Membre collaborateur
@@ -174,13 +175,13 @@
   category: Membre collaborateur
 
 - name: Janosch Ortmann
-  affiliation: UQAM
+  affiliation: UQAM (AOTI)
   email: ortmann.janosch@uqam.ca
   website: https://professeurs.uqam.ca/professeur/ortmann.janosch
   category: Membre collaborateur
 
 - name: Luc Bélair
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   website: http://profmath.uqam.ca/~belair/
   category: Membre collaborateur
 
@@ -229,7 +230,7 @@
   category: Membre collaborateur
 
 - name: Timothy Walsh
-  affiliation: UQAM
+  affiliation: UQAM (Informatique)
   category: Membre associé
 
 - name: Vincent Pilaud

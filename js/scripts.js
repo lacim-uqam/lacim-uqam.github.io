@@ -67,16 +67,16 @@
 
                 // unique
                 en : {
-                    apropos:     'about',
-                    members:     'membres',
-                    seminair:    'seminaire',
+                    about:     'apropos',
                     internships: 'stages',
+                    members:     'membres',
+                    seminar:    'seminaire',
                 },
 
                 fr : {
-                    about:     'apropos',
+                    apropos:     'about',
                     membres:   'members',
-                    seminaire: 'seminair',
+                    seminaire: 'seminar',
                     stages:    'internships',
                 }
             };

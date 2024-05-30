@@ -3,14 +3,16 @@ layout: default
 custom_body_class: seminar-page
 ---
 
-# Séminaire du LACIM
+## LACIM Seminar
 
-Le *Séminaire du LACIM*, créé au début des années 80, a lieu chaque semaine de septembre à juin (et parfois l’été) les vendredi de 11h à midi au Pavillon Président-Kennedy de l’UQAM (PK-4323).
+The *LACIM Seminar*, created in the early 80s,
+takes place every Friday at 11h from September to June (and sometimes during the summer)
+in room PK-4323 of UQAM's Président-Kennedy Building.
 
-Pour toute information, veuillez contacter l’un des organisateurs :
+#### Seminar organizers
 - Samuele Giraudo (UQAM)
 - GaYee Park (UQAM)
 - Christophe Reutenauer (UQAM)
 
-## Exposés à venir
+## Upcoming Talks
 

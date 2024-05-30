@@ -4,16 +4,13 @@
     <div class="main-content">
         {{ content }}
 
-        <h2>{{ site.data.common.director.title }}</h2>
-        <p class="contact-info">
-            <b> {{ site.data.common.director.name }} </b>
-            <br />
-            <a href="mailto:{{ site.data.common.director.email }}">{{ site.data.common.director.email }}</a>
-            <br />
-            {{ site.data.common.contact.phone }}
-        </p>
-
-        <h2>{{ site.data.common.coordinator.title }}</h2>
+        <h2>
+        {% if page.lang == "en" %}
+            Scientific Coordinator
+        {% elsif page.lang == "fr" %}
+            Coordonnatrice Scientifique
+        {% endif %}
+        </h2>
         <p class="contact-info">
             <b> {{ site.data.common.coordinator.name }} </b>
             <br />
@@ -22,7 +19,28 @@
             {{ site.data.common.coordinator.phone }}
         </p>
 
-        <h2>Adresse postale</h2>
+        <h2>
+        {% if page.lang == "en" %}
+            Director of LACIM
+        {% elsif page.lang == "fr" %}
+            Directeur du LACIM
+        {% endif %}
+        </h2>
+        <p class="contact-info">
+            <b> {{ site.data.common.director.name }} </b>
+            <br />
+            <a href="mailto:{{ site.data.common.director.email }}">{{ site.data.common.director.email }}</a>
+            <br />
+            {{ site.data.common.contact.phone }}
+        </p>
+
+        <h2>
+        {% if page.lang == "en" %}
+            Mailing address
+        {% elsif page.lang == "fr" %}
+            Adresse postale
+        {% endif %}
+        </h2>
         <p class="contact-info">
             {{ site.data.common.postal-address.name }} <br />
             {{ site.data.common.postal-address.address1 }} <br />
@@ -33,7 +51,13 @@
             <br />
         </p>
 
-        <h2>Adresse physique</h2>
+        <h2>
+        {% if page.lang == "en" %}
+            Physical address
+        {% elsif page.lang == "fr" %}
+            Adresse physique
+        {% endif %}
+        </h2>
         <p class="contact-info">
             {{ site.data.common.physical-address.address1 }} <br />
             {{ site.data.common.physical-address.address2 }} <br />

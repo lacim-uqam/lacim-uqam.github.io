@@ -21,12 +21,12 @@ avec qui ils aimeraient travailler. Les demandes de bourses postdoctorales
 CRM-ISM sont automatiquement prises en considération pour des bourses financées
 par le LACIM, les chaires de recherche, et les subventions de recherche
 individuelles.
+Les citoyens et résident permanents du Canada sont également invités à poser
+leur candidature à une:
 
-Les citoyens et résidents
-permanents du Canada peuvent également poser leur candidature à une
-[bourse postdoctorale du CRSNG](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_fra.asp),
-et les résidents du Québec sont également admissibles au
-[bourse de formation postdoctorale du FRQNT](https://frq.gouv.qc.ca/programme/bourse-de-formation-postdoctorale/).
+- [bourse postdoctorale du CRSNG](http://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/index_fra.asp)
+- [bourse de formation postdoctorale du FRQNT](https://frq.gouv.qc.ca/programme/bourse-de-formation-postdoctorale/)
+- [bourse postdoctorale CRM-ISM](https://www.crmath.ca/bourses-et-sejours/bourses-postdoctorales-crm-ism/)
 
 
 ## Stages de recherche de premier cycle

@@ -2,7 +2,13 @@
 
 <div class="contact-wrapper-nosidebar padded">
     <div class="membres-liste">
-        <h2 id="membres-réguliers">Membres réguliers</h2></a>
+        <h2 id="membres-réguliers">
+        {% if page.lang == "en" %}
+            Regular members
+        {% elsif page.lang == "fr" %}
+            Membres réguliers
+        {% endif %}
+        </h2>
         <ul>
             {% for member in site.data.members %}
             {% if member.category == "Membre régulier" %}
@@ -25,10 +31,16 @@
     </div>
 
     <div class="membres-liste">
-        <h2 id="collaborateurs">Membres collaborateurs</h2>
+        <h2 id="postdocs">
+        {% if page.lang == "en" %}
+            Postdoctoral Fellows
+        {% elsif page.lang == "fr" %}
+            Membres postdoctoraux
+        {% endif %}
+        </h2>
         <ul>
             {% for member in site.data.members %}
-            {% if member.category == "Membre collaborateur" %}
+            {% if member.category == "postdoc" %}
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
@@ -48,10 +60,16 @@
     </div>
 
     <div class="membres-liste">
-        <h2 id="postdocs">Membres postdoctoraux</h2>
+        <h2 id="collaborateurs">
+        {% if page.lang == "en" %}
+            Research Collaborators
+        {% elsif page.lang == "fr" %}
+            Membres collaborateurs
+        {% endif %}
+        </h2>
         <ul>
             {% for member in site.data.members %}
-            {% if member.category == "postdoc" %}
+            {% if member.category == "Membre collaborateur" %}
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,

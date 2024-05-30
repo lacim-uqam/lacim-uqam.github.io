@@ -5,7 +5,7 @@ sidebar: true
 
 # Publications du LACIM (1990-2010)
 
-Les *publications du LACIM* ont été éditées de 1990 à 2010.
-Si vous souhaitez une publication en format papier, veuillez écrire à
-[{{ site.email }}](mailto:{{ site.email }}).
+The *LACIM Publications* series ran from 1990 to 2010.
+If you are interested in obtaining a paper copy of any publications,
+write to [{{ site.email }}](mailto:{{ site.email }}).
 
