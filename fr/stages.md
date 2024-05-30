@@ -1,6 +1,7 @@
 ---
 layout: default
 custom_body_class: stages-page
+sidebar: true
 ---
 
 # Stages au LACIM

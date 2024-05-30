@@ -1,6 +1,7 @@
 ---
 layout: default
 custom_body_class: default
+sidebar: true
 ---
 
 ## Séminaire du LACIM

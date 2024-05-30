@@ -8,7 +8,7 @@
 
 
 body {
-    background: #2e52bc;
+    background: $blue;
     margin: 0;
     padding: 10px;
 }
@@ -41,14 +41,14 @@ body {
     }
 }
 
-.content-nosidebar-wrapper {
+.content-wrapper-nosidebar {
     @include cf;
 
     @media #{$desktop} {
     }
 }
 
-.content-sidebar-wrapper {
+.content-wrapper-sidebar {
     @include cf;
 
     .sidebar {

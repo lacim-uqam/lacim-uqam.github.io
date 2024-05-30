@@ -1,5 +1,6 @@
 ---
 layout: publications
+sidebar: true
 ---
 
 # Publications du LACIM (1990-2010)

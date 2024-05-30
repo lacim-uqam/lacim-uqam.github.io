@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: default
 custom_body_class: home-page
-sidebar-image: /images/Tamari42_dec-251x300.jpeg
+sidebar:
+    image: /images/Tamari42_dec-251x300.jpeg
 ---
 
 # Bienvenue au LACIM!

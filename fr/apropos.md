@@ -1,6 +1,8 @@
 ---
 layout: default
 custom_body_class: home-page
+sidebar:
+    image: /images/Tamari42_dec-251x300.jpeg
 ---
 
 # À propos du LACIM
