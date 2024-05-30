@@ -8,7 +8,7 @@
         @include col(4/12, $cycle: 3);
 
         &.active {
-            background: lighten($dark_grey, 20%);
+            background: #f9f9f9;
         }
 
         &:hover {
@@ -18,8 +18,8 @@
 
     a {
         font-family: $heading_font;
-        font-size: 0.8em;
-        color: white;
+        font-size: 1em;
+        color: $white;
         text-decoration: none;
 
         &.active {

@@ -53,6 +53,7 @@ body {
 
     .sidebar {
         @include padded;
+        width: 40%;
     }
 
     @media #{$desktop} {
