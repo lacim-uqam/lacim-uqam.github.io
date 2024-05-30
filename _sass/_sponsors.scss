@@ -1,0 +1,31 @@
+hr {
+  border: 2px solid $uqam-blue;
+}
+
+.sponsors-container {
+  display: table;
+  width: 100%;
+}
+
+.sponsor {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width: 35%;
+}
+
+.sponsor-CRM {
+  height: 80px;
+}
+
+.sponsor-CRC {
+  padding: 10px;
+  height: 80px;
+}
+
+.sponsor-UQAM {
+  height: 60px;
+}
+
+.sponsor-FRQNT {
+}

@@ -14,3 +14,4 @@ l’un des laboratoires associés du
 [Chaire de Recherche du Canada en algèbre, combinatoire et informatique mathématique](https://recherche.uqam.ca/unites_de_recherche/chaire-de-recherche-du-canada-en-algebre-combinatoire-et-informatique-mathematique/)
 de l'UQAM est associée au LACIM.
 
+# Actualités

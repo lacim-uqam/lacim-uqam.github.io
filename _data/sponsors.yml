@@ -1,7 +1,7 @@
 - uqam:
   name: UQAM
   url: https://www.uqam.ca
-  image_url: /images/UQAM_coul_numerique.png
+  image_url: /images/UQAM_coul_numerique_cropped.png
   width: 200px
 
 - crm:
