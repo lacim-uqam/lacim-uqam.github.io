@@ -3,6 +3,13 @@
 - name: Accueil
   url: index.html
   actual_url: /
+  submenuitems:
+    - heading: À propos du LACIM
+      link: apropos.html
+    - heading: Axes de recherches
+      link: apropos.html#axes-de-recherches
+    - heading: Historique
+      link: apropos.html#historique
 
 - name: Membres
   url: membres.html
@@ -39,10 +46,6 @@
       link: stages.html#stages-postdoctoraux
     - heading: Stages de recherche de premier cycle
       link: stages.html#stages-de-recherche-de-premier-cycle
-    - heading: Bourses relève CIRGET-LACIM
-      link: stages.html#bourses-relève-cirget-lacim
-    - heading: Stage de recherche pré-universitaire
-      link: stages.html#stage-de-recherche-pré-universitaire
 
 - name: Contact
   url: contact.html
