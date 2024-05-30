@@ -60,21 +60,24 @@
          */
         var appendCurrentPageToLanguageLink = function () {
             var pageMap = {
-                index        : 'index',
-                participants : 'participants',
-                contact      : 'contact',
+                activities:   'activities',
+                contact:      'contact',
+                index:        'index',
+                publications: 'publications',
 
                 // unique
                 en : {
-                    venue        : 'lieu',
-                    program      : 'programme',
-                    registration : 'inscription',
+                    apropos:     'about',
+                    members:     'membres',
+                    seminair:    'seminaire',
+                    internships: 'stages',
                 },
 
                 fr : {
-                    lieu        : 'venue',
-                    programme   : 'program',
-                    inscription : 'registration'
+                    about:     'apropos',
+                    membres:   'members',
+                    seminaire: 'seminair',
+                    stages:    'internships',
                 }
             };
 

@@ -4,33 +4,42 @@
     <div class="main-content">
         {{ content }}
 
-        <h2>{{ page.contact.title }}</h2>
+        <h2>{{ site.data.common.director.title }}</h2>
         <p class="contact-info">
-            <b> {{ page.contact.name }} </b>
+            <b> {{ site.data.common.director.name }} </b>
             <br />
-            <a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
+            <a href="mailto:{{ site.data.common.director.email }}">{{ site.data.common.director.email }}</a>
             <br />
-            {{ page.contact.phone }}
+            {{ site.data.common.contact.phone }}
+        </p>
+
+        <h2>{{ site.data.common.coordinator.title }}</h2>
+        <p class="contact-info">
+            <b> {{ site.data.common.coordinator.name }} </b>
+            <br />
+            <a href="mailto:{{ site.data.common.coordinator.email }}">{{ site.data.common.coordinator.email }}</a>
+            <br />
+            {{ site.data.common.coordinator.phone }}
         </p>
 
         <h2>Adresse postale</h2>
         <p class="contact-info">
-            {{ page.postal-address.name }} <br />
-            {{ page.postal-address.address1 }} <br />
-            {{ page.postal-address.address2 }} <br />
-            {{ page.postal-address.city }},
-            {{ page.postal-address.province }},
-            {{ page.postal-address.postal-code }}
+            {{ site.data.common.postal-address.name }} <br />
+            {{ site.data.common.postal-address.address1 }} <br />
+            {{ site.data.common.postal-address.address2 }} <br />
+            {{ site.data.common.postal-address.city }},
+            {{ site.data.common.postal-address.province }},
+            {{ site.data.common.postal-address.postal-code }}
             <br />
         </p>
 
         <h2>Adresse physique</h2>
         <p class="contact-info">
-            {{ page.physical-address.address1 }} <br />
-            {{ page.physical-address.address2 }} <br />
-            {{ page.physical-address.city }},
-            {{ page.physical-address.province }},
-            {{ page.physical-address.postal-code }}
+            {{ site.data.common.physical-address.address1 }} <br />
+            {{ site.data.common.physical-address.address2 }} <br />
+            {{ site.data.common.physical-address.city }},
+            {{ site.data.common.physical-address.province }},
+            {{ site.data.common.physical-address.postal-code }}
         </p>
     </div>
 </div>

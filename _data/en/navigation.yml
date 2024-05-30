@@ -3,28 +3,49 @@
 - name: LACIM
   url: index.html
   actual_url: /
-  # subfolderitems:
-  #   - name: test
-  #   - url: test.html
-  #   - actual_url: test.html
+  submenuitems:
+    - heading: À propos du LACIM
+      link: apropos.html
+    - heading: Research
+      link: apropos.html#research
+    - heading: History of LACIM
+      link: apropos.html#history-of-lacim
+
+- name: Members
+  url: members.html
+  actual_url: /members.html
+  submenuitems:
+    - heading: Regular members
+      link: members.html#membres-réguliers
+    - heading: Postdocs
+      link: members.html#postdocs
+    - heading: Collaborators
+      link: members.html#collaborateurs
 
 - name: Activities
   url: activities.html
   actual_url: /activities.html
-
-- name: Members and visitors
-  url: members.html
-  actual_url: /members.html
+  submenuitems:
+    - heading: Séminaire du LACIM
+      link: seminaire.html
+    - heading: Café du LACIM
+      link: activities.html#café-du-lacim
+    - heading: Conferences
+      link: conferences.html
 
 - name: Publications
   url: publications.html
   actual_url: /publications.html
 
-- name: Fellowships
-  url: 
-  actual_url: 
+- name: Research Training
+  url: internships.html
+  actual_url: /internships.html
+  submenuitems:
+    - heading: Postdoctoral positions
+      link: internships.html#postdoctoral-training
+    - heading: Undergraduate Research Projects
+      link: internships.html#undergraduate-research-projects
 
 - name: Contact
   url: contact.html
   actual_url: /contact.html
-

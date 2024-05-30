@@ -1,6 +1,6 @@
 # actual_url property required to ensure active class added to the link when on that page
 
-- name: Accueil
+- name: LACIM
   url: index.html
   actual_url: /
   submenuitems:
@@ -32,7 +32,6 @@
       link: activities.html#café-du-lacim
     - heading: Conférences
       link: conferences.html
-
 
 - name: Publications
   url: publications.html

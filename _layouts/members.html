@@ -10,7 +10,13 @@
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
                     {{ member.affiliation }} <br>
-                    <em>{{ member.research_interests }}</em>
+                    <em>
+                    {% if page.lang == "en" %}
+                        {{ member.research_interests }}
+                    {% elsif page.lang == "fr" %}
+                        {{ member.interets_de_recherche }}
+                    {% endif %}
+                    </em>
                 </div>
             </li>
             {% endif %}
@@ -27,7 +33,13 @@
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
                     {{ member.affiliation }} <br>
-                    <em>{{ member.research_interests }}</em>
+                    <em>
+                    {% if page.lang == "en" %}
+                        {{ member.research_interests }}
+                    {% elsif page.lang == "fr" %}
+                        {{ member.interets_de_recherche }}
+                    {% endif %}
+                    </em>
                 </div>
             </li>
             {% endif %}
@@ -44,7 +56,13 @@
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
                     {{ member.affiliation }} <br>
-                    <em>{{ member.research_interests }}</em>
+                    <em>
+                    {% if page.lang == "en" %}
+                        {{ member.research_interests }}
+                    {% elsif page.lang == "fr" %}
+                        {{ member.interets_de_recherche }}
+                    {% endif %}
+                    </em>
                 </div>
             </li>
             {% endif %}
