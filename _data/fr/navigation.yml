@@ -23,13 +23,13 @@
       link: membres.html#postdocs
 
 - name: Activités
-  url: activités.html
-  actual_url: /activités.html
+  url: activities.html
+  actual_url: /activities.html
   submenuitems:
     - heading: Séminaire du LACIM
       link: seminaire.html
     - heading: Café du LACIM
-      link: activités.html#café-du-lacim
+      link: activities.html#café-du-lacim
     - heading: Conférences
       link: conferences.html
 
