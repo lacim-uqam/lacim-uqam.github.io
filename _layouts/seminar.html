@@ -1,0 +1,41 @@
+{% include header.html %}
+
+<div class="contact-wrapper-nosidebar padded">
+
+    {{ content }}
+
+    <div class="membres-liste">
+        <ul>
+            {% for seminar_talk in site.data.lacim-seminar %}
+
+            <li>
+                <strong class="fancy-list-time">
+                    {{ seminar_talk.date }}
+                </strong>
+                <span class="fancy-list-item">
+                    {{ seminar_talk.speaker }},
+                    {{ seminar_talk.affiliation }}
+                    <br>
+                    <em>{{ seminar_talk.title }}</em>
+                    <div class="abstract">
+                    <details>
+                        <summary>
+                        {% if page.lang == "en" %}
+                            Abstract (click to expand)
+                        {% elsif page.lang == "fr" %}
+                            Résumé (cliquer pour ouvrir)
+                        {% endif %}
+                        </summary>
+                        {{ seminar_talk.abstract }}
+                        </div>
+                    </details>
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% include sponsors.html %}
+
+{% include footer.html %}

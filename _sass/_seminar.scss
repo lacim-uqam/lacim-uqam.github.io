@@ -7,9 +7,10 @@
         li {
             padding: 0.5em 10px;
             @include box-sizing(border-box);
+            background: $lighter_grey;
 
             &:nth-child(2n) {
-                background: $lighter_grey;
+                background: $white;
             }
         }
     }
@@ -25,15 +26,30 @@
     display: block;
 }
 
+.seminar-page {
+
+    details > summary {
+      list-style-type: '»';
+    }
+
+    details[open] > summary {
+      list-style-type: '«';
+    }
+
+    .abstract {
+      font-size: 0.75em;
+      width: 500px;
+    }
+
+    .fancy-list-time {
+        width: 8em;
+        vertical-align: top;
+    }
+}
+
 @media #{$desktop} {
     .fancy-list-time, .fancy-list-item  {
         display: inline-block;
-    }
-
-    .program-page {
-        .fancy-list-time {
-            width: 7em;
-        }
     }
 
     .participants-page {
