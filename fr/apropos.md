@@ -57,4 +57,4 @@ Les directeurs du LACIM furent
 - Christophe Reutenauer (1998-1999, 2002-2005)
 - Srecko Brlek (2014-2016)
 - Christophe Hohlweg (2016-2023)
-- Franco Saliola (2023-2024)
+- Franco Saliola (2022-2024)
