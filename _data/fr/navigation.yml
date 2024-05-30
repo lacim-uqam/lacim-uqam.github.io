@@ -31,7 +31,7 @@
     - heading: Café du LACIM
       link: activities.html#café-du-lacim
     - heading: Conférences
-      link: conferences.html
+      link: activities.html#conférences
 
 - name: Publications
   url: publications.html
