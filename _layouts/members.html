@@ -10,8 +10,7 @@
         {% endif %}
         </h2>
         <ul>
-            {% for member in site.data.members %}
-            {% if member.category == "Membre régulier" %}
+            {% for member in site.data.members.regular %}
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
@@ -25,7 +24,6 @@
                     </em>
                 </div>
             </li>
-            {% endif %}
             {% endfor %}
         </ul>
     </div>
@@ -39,8 +37,7 @@
         {% endif %}
         </h2>
         <ul>
-            {% for member in site.data.members %}
-            {% if member.category == "postdoc" %}
+            {% for member in site.data.members.postdocs %}
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
@@ -54,7 +51,27 @@
                     </em>
                 </div>
             </li>
-            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="membres-liste">
+        <h2 id="étudiants">
+        {% if page.lang == "en" %}
+            Graduate Students
+        {% elsif page.lang == "fr" %}
+            Membres étudiants
+        {% endif %}
+        </h2>
+        <ul>
+            {% for student in site.data.members.students %}
+            <li>
+                <div class="member">
+                    <a href="{{ student.website }}">{{ student.name }}</a>,
+                    {{ student.degree }} à {{ student.affiliation }} <br>
+                    <em>Direction de recherche: {{ student.supervisor }}</em>
+                </div>
+            </li>
             {% endfor %}
         </ul>
     </div>
@@ -68,8 +85,7 @@
         {% endif %}
         </h2>
         <ul>
-            {% for member in site.data.members %}
-            {% if member.category == "Membre collaborateur" %}
+            {% for member in site.data.members.collaborators %}
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
@@ -83,7 +99,6 @@
                     </em>
                 </div>
             </li>
-            {% endif %}
             {% endfor %}
         </ul>
     </div>

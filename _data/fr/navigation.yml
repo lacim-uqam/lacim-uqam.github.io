@@ -17,10 +17,12 @@
   submenuitems:
     - heading: Membres réguliers
       link: membres.html#membres-réguliers
-    - heading: Membres collaborateurs
-      link: membres.html#collaborateurs
     - heading: Postdocs
       link: membres.html#postdocs
+    - heading: Étudiants
+      link: membres.html#étudiants
+    - heading: Collaborateurs
+      link: membres.html#collaborateurs
 
 - name: Activités
   url: activities.html
