@@ -41,7 +41,8 @@
             <li>
                 <div class="member">
                     <a href="{{ member.website }}">{{ member.name }}</a>,
-                    {{ member.affiliation }} <br>
+                    PhD ({{ member.phd_institution }}, {{ member.phd_year }})
+                    <br>
                     <em>
                     {% if page.lang == "en" %}
                         {{ member.research_interests }}
