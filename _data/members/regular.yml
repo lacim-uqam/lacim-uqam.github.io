@@ -87,6 +87,21 @@
   email: jean-philippe.labbe@etsmtl.ca
   website: https://jplab.github.io/
   category: Membre régulier
+  research_interests: >
+    Jean-Philippe Labbé's research is at the intersection of combinatorics,
+    discrete geometry and group theory.
+    His research merges abstract modelizations and computational
+    experimentations to tackle open problems related to Coxeter groups,
+    polytopes (in particular permutahedra, associahedra, and their applications
+    to quantum physics), triangulations, and simplicial complexes.
+  interets_de_recherche: >
+    Les recherches de Jean-Philippe Labbé se situent à l’intersection de la
+    combinatoire algébrique, de la géométrie disctrète et de la théorie des
+    groupes. Ses recherches fusionnent des modélisations abstraites et des
+    approches expérimentales pour aborder des problèmes ouverts liés aux
+    groupes de Coxeter, aux polytopes (en particulier les permutaèdres, les
+    associaèdres et leurs applications en physique quantique), aux
+    triangulations et aux complexes simpliciaux.
 
 - name: Ryan Kavanagh
   affiliation: UQAM (Informatique)
