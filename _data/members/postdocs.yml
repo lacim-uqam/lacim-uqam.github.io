@@ -4,7 +4,6 @@
   phd_supervisor: Alejandro Morales
   email: park.ga_yee@uqam.ca
   website: https://sites.google.com/view/gayeepark/home
-  category: postdoc
   research_interests: >
     Dr. Park works with tableaux and posets in connection with symmetric
     functions and \(GL(n,q)\). She is currently studying generalized Catalan
@@ -23,7 +22,6 @@
   phd_supervisor: Marcelo Aguiar
   email: jdb394@cornell.edu
   website: https://sites.google.com/view/bastidas/
-  category: postdoc
   research_interests: >
     Dr. Bastidas's research interests lie in algebraic combinatorics with
     a particular focus on the interplay between Hopf monoids in the category of
@@ -39,7 +37,6 @@
   phd_supervisor: Vic Reiner
   email: sarahbrauner@gmail.com
   website: https://www.sarahbrauner.com/
-  category: postdoc
   research_interests: >
     Dr. Brauner is interested in the intersection of algebraic combinatorics
     with representation theory, algebraic topology, algebraic geometry and
@@ -51,3 +48,20 @@
     algébrique et les probabilités. Quelques mots-clés d'intérêt: arrangements
     d'hyperplans; espaces de configuration; bandes régulières à gauche; marches
     aléatoires.
+
+- name: Luis Scoccola
+  phd_institution: University of Western Ontario
+  phd_year: 2020
+  phd_supervisor: Daniel J. Christensen
+  email: luis.scoccola@maths.ox.ac.uk
+  website: https://luisscoccola.com/
+  research_interests: >
+    Dr. Scoccola's reseach lies at the intersection of mathematics and computer
+    science: computational topology & geometry, representation theory, and
+    machine learning.
+  interets_de_recherche: >
+    Dr. Scoccola travaille à l'intersection de l'informatique et les
+    mathématiques, notamment dans les domaines de la géométrie et la topologie
+    computationnelles, la théorie de la représentation, et l'apprentissage
+    automatique.
+
