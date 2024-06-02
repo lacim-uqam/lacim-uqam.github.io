@@ -1,21 +1,3 @@
-- name: GaYee Park
-  phd_institution: University of Massachusetts Amherst
-  phd_year: 2022
-  phd_supervisor: Alejandro Morales
-  email: park.ga_yee@uqam.ca
-  website: https://sites.google.com/view/gayeepark/home
-  research_interests: >
-    Dr. Park works with tableaux and posets in connection with symmetric
-    functions and \(GL(n,q)\). She is currently studying generalized Catalan
-    combinatorics and parking functions, and combinatorial appraoches to
-    plethysm in symmetric functions.
-  interets_de_recherche: >
-    Les recherches de Dr. Park portent sur la combinatoire algébrique et
-    énumérative. Elle étudie les tableau et les posets et leurs applications
-    aux fonctions symétriques et \(GL(n,q)\). Elle étudie actuellement la
-    combinatoire catalane généralisée, les fonctions de stationnement, et des
-    approches combinatoires au pléthysme de fonctions symétriques.
-
 - name: Jose Bastidas
   phd_institution: Cornell University
   phd_year: 2021
@@ -48,6 +30,24 @@
     algébrique et les probabilités. Quelques mots-clés d'intérêt: arrangements
     d'hyperplans; espaces de configuration; bandes régulières à gauche; marches
     aléatoires.
+
+- name: GaYee Park
+  phd_institution: University of Massachusetts Amherst
+  phd_year: 2022
+  phd_supervisor: Alejandro Morales
+  email: park.ga_yee@uqam.ca
+  website: https://sites.google.com/view/gayeepark/home
+  research_interests: >
+    Dr. Park works with tableaux and posets in connection with symmetric
+    functions and \(GL(n,q)\). She is currently studying generalized Catalan
+    combinatorics and parking functions, and combinatorial appraoches to
+    plethysm in symmetric functions.
+  interets_de_recherche: >
+    Les recherches de Dr. Park portent sur la combinatoire algébrique et
+    énumérative. Elle étudie les tableau et les posets et leurs applications
+    aux fonctions symétriques et \(GL(n,q)\). Elle étudie actuellement la
+    combinatoire catalane généralisée, les fonctions de stationnement, et des
+    approches combinatoires au pléthysme de fonctions symétriques.
 
 - name: Luis Scoccola
   phd_institution: University of Western Ontario
