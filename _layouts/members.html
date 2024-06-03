@@ -77,7 +77,7 @@
         </ul>
     </div>
 
-    <div class="membres-liste">
+    <div class="membres-liste membres-liste-deux-colonnes">
         <h2 id="collaborateurs">
         {% if page.lang == "en" %}
             Research Collaborators
@@ -89,15 +89,8 @@
             {% for member in site.data.members.collaborators %}
             <li>
                 <div class="member">
-                    <a href="{{ member.website }}">{{ member.name }}</a>,
-                    {{ member.affiliation }} <br>
-                    <em>
-                    {% if page.lang == "en" %}
-                        {{ member.research_interests }}
-                    {% elsif page.lang == "fr" %}
-                        {{ member.interets_de_recherche }}
-                    {% endif %}
-                    </em>
+                    <a href="{{ member.website }}">{{ member.name }}</a> <br>
+                    {{ member.affiliation }}
                 </div>
             </li>
             {% endfor %}
