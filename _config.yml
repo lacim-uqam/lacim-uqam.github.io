@@ -34,23 +34,25 @@ github_username:  lacim-uqam
 #######################################################################
 
 defaults:
-  -
-    scope:
+  - scope:
       path: en
     values:
       lang: en
       other_language:
         name: Français
         path: fr
-  -
-    scope:
+  - scope:
       path: fr
     values:
       lang: fr
       other_language:
         name: English
         path: en
-
+  - scope:
+      path: _posts
+    values:
+      lang: fr
+      layout: post
 
 #######################################################################
 #                           Build Settings                            #

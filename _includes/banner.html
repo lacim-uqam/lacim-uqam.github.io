@@ -1,6 +1,6 @@
 <div class="banner">
 
-    <img class="banner-image" src="../images/dyck-path.jpeg" />
+    <img class="banner-image" src="/images/dyck-path.jpeg" />
 
     <div class="text-section">
         <h1 class="title">
@@ -10,7 +10,9 @@
         </h1>
     </div>
 
-    {% capture language_link %}../{{page.other_language.path}}{% endcapture%}
+    {% if page.other_language.path %}
+    {% capture language_link %}/{{page.other_language.path}}{% endcapture %}
     <a href="{{ language_link }}" data-lang-key="{{page.other_language.path}}" class="language-link">{{ page.other_language.name }}</a>
+    {% endif %}
 
 </div>

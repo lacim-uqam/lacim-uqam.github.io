@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 custom_body_class: home-page
 sidebar:
     image: /images/Tamari42_dec-251x300.jpeg
@@ -14,5 +14,3 @@ computer science.
 LACIM is also a [CRM research laboratory](https://www.crmath.ca) and the
 [Canada Research Chair in Algebra, Combinatorics, and Mathematical Computer Science](https://recherche.uqam.ca/unites_de_recherche/chaire-de-recherche-du-canada-en-algebre-combinatoire-et-informatique-mathematique/)
 is associated with LACIM.
-
-# Announcements

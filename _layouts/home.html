@@ -1,14 +1,37 @@
 {% include header.html %}
 
-<div class="content-sidebar-wrapper padded">
+{% if page.sidebar %}
+    {% assign content_wrapper_class = "content-wrapper-sidebar" %}
+{% else %}
+    {% assign content_wrapper_class = "content-wrapper-nosidebar" %}
+{% endif %}
+<div class="{{ content_wrapper_class }} padded">
     <div class="main-content">
         {{ content }}
+
+        <h2>
+        {% if page.lang == "en" %}
+            Announcements
+        {% elsif page.lang == "fr" %}
+            Annonces
+        {% endif %}
+        </h2>
+        <ul>
+            {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
     </div>
 
+    {% if page.sidebar %}
     <div class="sidebar">
-        <img src="{{ page.sidebar-image }}" width="100%" />
+        <img src="{{ page.sidebar.image }}" width="100%" />
     </div>
-
+    {% endif %}
 </div>
+
+{% include sponsors.html %}
 
 {% include footer.html %}

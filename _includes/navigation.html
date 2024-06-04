@@ -1,13 +1,13 @@
 <div class="primary-navigation-menu">
     {% for link in site.data[page.lang].navigation %}
-    {% capture actual_url_with_lang %}/{{ page.lang }}{{link.actual_url}}{% endcapture %}
+    {% capture actual_url_with_lang %}/{{ page.lang }}{{ link.actual_url }}{% endcapture %}
         <div class="dropdown navigation-menu-item {% if actual_url_with_lang == page.url %} active{% endif %}">
-            <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="{{ link.url }}">
+            <a {% if actual_url_with_lang == page.url %} class="active"{% endif %} href="/{{ page.lang }}/{{ link.url }}">
             {{ link.name }}
             </a>
             <div class="dropdown-content">
             {% for submenuitem in link.submenuitems %}
-                <a href="{{ submenuitem.link }}"> {{ submenuitem.heading }} </a> </li>
+                <a href="/{{ page.lang }}/{{ submenuitem.link }}"> {{ submenuitem.heading }} </a> </li>
             {% endfor %}
             </div>
         </div>
