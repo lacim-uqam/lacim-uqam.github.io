@@ -64,8 +64,18 @@
   email: bergeron.francois@uqam.ca
   website: http://bergeron.math.uqam.ca/
   category: Membre régulier
-  interets_de_recherche: Les recherches de François Bergeron concernent diverses interactions entre structures algébriques (espaces de polynômes harmoniques, représentation de groupes de réflexions, etc.) et objets combinatoires (arbres, partitions d’entiers, permutations, structures énumérées par les nombres de Catalan, fonctions parking, etc.).
-  research_interests: François Bergeron's research involves the study of interesting interactions between algebraic structures (spaces of diagonal harmonic polynomials, representations of reflection groups, etc.) and combinatorial objects (trees, integer partitions, permutations, Catalan structures, parking functions, etc.).
+  interets_de_recherche: >
+    Les recherches de François Bergeron concernent diverses interactions entre
+    structures algébriques (espaces de polynômes harmoniques, représentation de
+    groupes de réflexions, etc.) et objets combinatoires (arbres, partitions
+    d’entiers, permutations, structures énumérées par les nombres de Catalan,
+    fonctions parking, etc.).
+  research_interests: >
+    François Bergeron's research involves the study of interesting interactions
+    between algebraic structures (spaces of diagonal harmonic polynomials,
+    representations of reflection groups, etc.) and combinatorial objects
+    (trees, integer partitions, permutations, Catalan structures, parking
+    functions, etc.).
 
 - name: Gilbert Labelle
   affiliation: UQAM (Mathématiques)
@@ -90,8 +100,15 @@
   email: jake.levinson@umontreal.ca
   website: https://dms.umontreal.ca/~levinsonj/
   category: Membre régulier
-  interets_de_recherche: Jake Levinson s'intéresse principalement à la géométrie algébrique et à la combinatoire algébrique. Ses recherches portent sur les espaces de modules de courbes stables, le calcul de Schubert, les variétés toriques et les résolutions libres équivariantes.
-  research_interests: Jake Levinson is primarily interested in algebraic geometry and algebraic combinatorics. His current research involves moduli of stable curves, Schubert calculus, toric varieties and equivariant free resolutions.
+  interets_de_recherche: >
+    Jake Levinson s'intéresse principalement à la géométrie algébrique et à la
+    combinatoire algébrique. Ses recherches portent sur les espaces de modules
+    de courbes stables, le calcul de Schubert, les variétés toriques et les
+    résolutions libres équivariantes.
+  research_interests: >
+    Jake Levinson is primarily interested in algebraic geometry and algebraic
+    combinatorics. His current research involves moduli of stable curves,
+    Schubert calculus, toric varieties and equivariant free resolutions.
 
 - name: Jean-Philippe Labbé
   affiliation: ETS Montréal
