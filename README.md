@@ -1,4 +1,4 @@
-# How to configure macOS to be able to locally test and develop the website
+# Configuring macOS for local development of the website
 
 Reference: https://jekyllrb.com/docs/installation/macos/
 
@@ -41,7 +41,7 @@ Install the Ruby dependencies::
 Point your web browser to [http://localhost:4000](http://localhost:4000).
 
 
-# How to configure Ubuntu to be able to locally test and develop the website
+# Configuring Ubuntu (22.04) for local development of the website
 
 Reference: https://jekyllrb.com/docs/installation/ubuntu/
 
