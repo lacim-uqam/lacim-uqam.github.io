@@ -43,10 +43,21 @@
 - name: Franco Saliola
   affiliation: UQAM (Mathématiques)
   email: saliola.franco@uqam.ca
-  website: https://saliola.github.io/saliola
+  website: https://saliola.github.io
   category: Membre régulier
-  interets_de_recherche: combinatoire algébrique; théorie de la représentation de groupes et monoïdes
-  research_interests: algebraic combinatorics, representation theory of finite groups and monoiods
+  interets_de_recherche: >
+    Les recherches de Franco Saliola portent sur la combinatoire algébrique.
+    Son programme de recherche s'est développé à partir d'explorations de
+    structures algébriques issues de marches aléatoires sur les regions des
+    arrangements d'hyperplans; et s'est naturellement élargie pour inclure la
+    théorie des représentations des groupes symétriques et des groupes
+    linéaires généraux.
+  research_interests: >
+    Franco Saliola's area of research is algebraic combinatorics.
+    His research program developed from explorations into algebraic structures
+    arising from random walks on the chambers of hyperplane arrangements;
+    and has naturally expanded to include the representation theory of
+    symmetric groups and general linear groups.
 
 - name: François Bergeron
   affiliation: UQAM (Mathématiques)
