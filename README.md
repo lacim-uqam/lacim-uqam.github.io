@@ -2,8 +2,10 @@ Below you wi
 
 # Table of contents
 
+<!--ts-->
     * [Configuring macOS for local website editing](#configuring-macos-for-local-website-editing)
     * [Configuring Ubuntu (22.04) for local website editing](#configuring-ubuntu-(22.04)-for-local-website-editing)
+<!--te-->
 
 
 # Configuring macOS for local website editing
