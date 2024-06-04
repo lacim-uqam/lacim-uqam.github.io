@@ -1,7 +1,7 @@
 # Table of contents
 
  * [Configuring macOS for local website editing](#configuring-macos-for-local-website-editing)
- * [Configuring Ubuntu (22.04) for local website editing](#configuring-ubuntu-(22.04)-for-local-website-editing)
+ * [Configuring Ubuntu (22.04) for local website editing](#configuring-ubuntu-2204-for-local-website-editing)
 
 
 # Configuring macOS for local website editing
