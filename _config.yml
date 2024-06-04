@@ -33,6 +33,8 @@ github_username:  lacim-uqam
 #                        Localization Settings                        #
 #######################################################################
 
+date_locale: fr
+
 defaults:
   - scope:
       path: en

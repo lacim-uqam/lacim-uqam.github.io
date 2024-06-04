@@ -122,6 +122,8 @@ GEM
       jekyll (~> 3.9.0)
       jekyll-commonmark (~> 1.4.0)
       rouge (>= 2.0, < 5.0)
+    jekyll-date-localization (0.0.6)
+      i18n (~> 1.0)
     jekyll-default-layout (0.1.5)
       jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.17.0)
@@ -284,6 +286,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 231)
   http_parser.rb (~> 0.6.0)
+  jekyll-date-localization
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
