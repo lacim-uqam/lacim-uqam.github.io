@@ -1,0 +1,17 @@
+.post-info-date {
+    color: #5e5e5e;
+    font-size: 0.8em;
+    font-style: italic;
+    ::before {
+        content: "(";
+    }
+}
+
+.post-info-date::before {
+    content: "(";
+}
+
+.post-info-date::after {
+    content: ")";
+}
+

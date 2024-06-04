@@ -5,8 +5,9 @@
 {% else %}
     {% assign content_wrapper_class = "content-wrapper-nosidebar" %}
 {% endif %}
-<div class="{{ content_wrapper_class }} padded">
+<div class="{{ content_wrapper_class }} padded posts">
     <div class="main-content">
+        <div class='post-info-date'>publié le {{ page.date | localize: "%-d %B %Y", page.lang }}</div>
         {{ content }}
     </div>
 

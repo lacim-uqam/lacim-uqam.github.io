@@ -1,10 +1,10 @@
 ---
 title: "Bienvenue sur le nouveau site web du LACIM"
 sidebar:
-    image: https://lh4.googleusercontent.com/KKkRS1QfEDJnxHaronytPfGeBnkFEmgvKNSxV__pqWkVclqtPODJj2FZCpuRlrzJq2pASA=w1280
+    image: /images/LogoLacim.jpeg
 ---
 
-# Bienvenue sur le nouveau site web du LACIM
+## Bienvenue sur le nouveau site web du LACIM
 
 Voici le nouveau site web du LACIM. J'espère qu'il vous plaira.
 
