@@ -1,4 +1,12 @@
-# Configuring macOS for local development of the website
+Below you wi
+
+# Table of contents
+
+    * [Configuring macOS for local website editing](#configuring-macos-for-local-website-editing)
+    * [Configuring Ubuntu (22.04) for local website editing](#configuring-ubuntu-(22.04)-for-local-website-editing)
+
+
+# Configuring macOS for local website editing
 
 Reference: https://jekyllrb.com/docs/installation/macos/
 
@@ -28,12 +36,12 @@ Test: launch a new terminal and run `ruby -v`; it should show 3.1.3.
 
 Clone the repository using `git clone [...]`.
 
-Install the Ruby dependencies::
+Install the Ruby dependencies
 
     cd lacim-uqam.github.io
     bundle install
 
-## Serving the website locally::
+## Serving the website locally
 
     cd lacim-uqam.github.io
     bundle exec jekyll serve
@@ -41,13 +49,13 @@ Install the Ruby dependencies::
 Point your web browser to [http://localhost:4000](http://localhost:4000).
 
 
-# Configuring Ubuntu (22.04) for local development of the website
+# Configuring Ubuntu (22.04) for local website editing
 
 Reference: https://jekyllrb.com/docs/installation/ubuntu/
 
 ## Install Ruby
 
-Uninstall the system version of Jekyll::
+Uninstall the system version of Jekyll
 
     sudo apt remove jekyll
     sudo apt autoremove
@@ -64,7 +72,7 @@ which tells Ruby to install gems in `~/gems`:
 
 ## Install Jekyll
 
-Install jekyll and bundler as gems::
+Install jekyll and bundler as gems
 
     gem install jekyll bundler
 
@@ -72,7 +80,7 @@ Install jekyll and bundler as gems::
 
 Clone the repository using `git clone [...]`.
 
-Install the Ruby dependencies::
+Install the Ruby dependencies
 
     cd lacim-uqam.github.io
     bundle install
