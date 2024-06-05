@@ -5,7 +5,7 @@ sidebar:
     image: /images/Tamari42_dec-251x300.jpeg
 ---
 
-# Bienvenue au LACIM!
+## Bienvenue au LACIM!
 
 Le **LACIM** est un centre de recherche institutionnel de l'[UQAM](http://www.uqam.ca)
 regroupant chercheurs, stagiaires postdoctoraux et
