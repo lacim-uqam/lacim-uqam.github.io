@@ -1,4 +1,4 @@
-.membres-liste {
+.fancy-list {
     ul {
         list-style: none;
         padding-left: 0px;
@@ -26,7 +26,7 @@
     }
 }
 
-.membres-liste-deux-colonnes > ul {
+.fancy-list-two-columns > ul {
   columns: 1;
   -webkit-columns: 1;
   -moz-columns: 1;
@@ -36,4 +36,16 @@
     -webkit-columns: 2;
     -moz-columns: 2;
   }
+}
+
+.fancy-list-date {
+    font-family: $heading_font;
+    font-size: 0.9em;
+    width: 8em;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.fancy-list-item {
+    display: inline-block;
 }

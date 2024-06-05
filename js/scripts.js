@@ -5,39 +5,6 @@
         var isTablet = Modernizr.mq('only all and (max-width: 55em)');
 
         /**
-         * Styles the Program page list
-         * Requires `==` to be present to split the
-         */
-        var styleProgramAndParticipantsPagesLists = function () {
-            var $page = $('.fancy-list-page');
-
-            if (!$page.length) {
-                return;
-            }
-
-            $page.find('li').each(function (item) {
-                $(this).html(function (index, text) {
-                    var timeDividerPosition = text.indexOf('==');
-
-                    if (timeDividerPosition <= 0) {
-                        return text;
-                    }
-
-                    var timeItemArr = text.replace(/\s*==\s*/, '==').split('==');
-
-                    var output = '<strong class="fancy-list-time">';
-                    output += timeItemArr[0];
-                    output += '</strong> <span class="fancy-list-item">';
-                    output += timeItemArr[1];
-                    output += timeItemArr[2] || '';
-                    output += '</span>';
-
-                    return output;
-                });
-            });
-        }();
-
-        /**
          * Make all links in the content area open in a new window
          * Local links open in the same window
          */

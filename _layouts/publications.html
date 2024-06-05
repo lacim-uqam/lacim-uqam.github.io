@@ -4,15 +4,16 @@
     <div class="main-content">
         {{ content }}
 
-        <div class="publications-du-lacim">
+        <div class="fancy-list">
             <ul>
                 {% for publication in site.data.publications-du-lacim %}
                 <li>
                     <div class="publication">
-                        {{ publication.author }},
-                        <em><a href="/les-parutions/LACIM-Publications-Volume-{{ publication.volume }}.pdf">{{ publication.title }}</a></em>,
-                        Publications du LACIM, volume {{ publication.volume }},
-                        {{ publication.year }}.
+                        <a href="/les-parutions/LACIM-Publications-Volume-{{ publication.volume }}.pdf">{{ publication.title }}</a>
+                        <br>
+                        {{ publication.author }}
+                        <br>
+                        <em>Publications du LACIM, volume {{ publication.volume }} ({{ publication.year }})</em>
                     </div>
                 </li>
                 {% endfor %}

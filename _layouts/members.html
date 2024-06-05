@@ -1,14 +1,14 @@
 {% include header.html %}
 
 <div class="contact-wrapper-nosidebar padded">
-    <div class="membres-liste">
-        <h2 id="membres-réguliers">
-        {% if page.lang == "en" %}
-            Regular members
-        {% elsif page.lang == "fr" %}
-            Membres réguliers
-        {% endif %}
-        </h2>
+    <h2 id="membres-réguliers">
+    {% if page.lang == "en" %}
+        Regular members
+    {% elsif page.lang == "fr" %}
+        Membres réguliers
+    {% endif %}
+    </h2>
+    <div class="fancy-list">
         <ul>
             {% for member in site.data.members.regular %}
             <li>
@@ -28,14 +28,14 @@
         </ul>
     </div>
 
-    <div class="membres-liste">
-        <h2 id="postdocs">
-        {% if page.lang == "en" %}
-            Postdoctoral Fellows
-        {% elsif page.lang == "fr" %}
-            Membres postdoctoraux
-        {% endif %}
-        </h2>
+    <h2 id="postdocs">
+    {% if page.lang == "en" %}
+        Postdoctoral Fellows
+    {% elsif page.lang == "fr" %}
+        Membres postdoctoraux
+    {% endif %}
+    </h2>
+    <div class="fancy-list">
         <ul>
             {% for member in site.data.members.postdocs %}
             <li>
@@ -56,14 +56,14 @@
         </ul>
     </div>
 
-    <div class="membres-liste">
-        <h2 id="étudiants">
-        {% if page.lang == "en" %}
-            Graduate Students
-        {% elsif page.lang == "fr" %}
-            Membres étudiants
-        {% endif %}
-        </h2>
+    <h2 id="étudiants">
+    {% if page.lang == "en" %}
+        Graduate Students
+    {% elsif page.lang == "fr" %}
+        Membres étudiants
+    {% endif %}
+    </h2>
+    <div class="fancy-list">
         <ul>
             {% for student in site.data.members.students %}
             <li>
@@ -77,14 +77,14 @@
         </ul>
     </div>
 
-    <div class="membres-liste membres-liste-deux-colonnes">
-        <h2 id="collaborateurs">
-        {% if page.lang == "en" %}
-            Research Collaborators
-        {% elsif page.lang == "fr" %}
-            Membres collaborateurs
-        {% endif %}
-        </h2>
+    <h2 id="collaborateurs">
+    {% if page.lang == "en" %}
+        Research Collaborators
+    {% elsif page.lang == "fr" %}
+        Membres collaborateurs
+    {% endif %}
+    </h2>
+    <div class="fancy-list fancy-list-two-columns">
         <ul>
             {% for member in site.data.members.collaborators %}
             <li>

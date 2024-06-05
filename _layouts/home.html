@@ -9,21 +9,28 @@
     <div class="main-content">
         {{ content }}
 
-        <h2>
+        <h3>
         {% if page.lang == "en" %}
             Announcements
         {% elsif page.lang == "fr" %}
             Annonces
         {% endif %}
-        </h2>
-        <ul>
-            {% for post in site.posts reversed limit:10%}
-            <li>
-                {{ post.date | localize: "%-d %B %Y", page.lang }}:
-                <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
+        </h3>
+        <div class="fancy-list">
+            <ul>
+                {% for post in site.posts reversed limit:10%}
+                <li>
+                    <span class="fancy-list-item">
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </span>
+                    <br>
+                    <div class="fancy-list-date">
+                        ({{ post.date | date: "%Y-%m-%d" }})
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 
     {% if page.sidebar %}

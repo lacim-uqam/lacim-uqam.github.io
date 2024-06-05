@@ -4,14 +4,14 @@
 
     {{ content }}
 
-    <div class="membres-liste">
+    <div class="fancy-list">
         <ul>
             {% for seminar_talk in site.data.lacim-seminar %}
 
             <li>
-                <strong class="fancy-list-time">
+                <div class="fancy-list-date">
                     {{ seminar_talk.date }}
-                </strong>
+                </div>
                 <span class="fancy-list-item">
                     {{ seminar_talk.speaker }},
                     {{ seminar_talk.affiliation }}
