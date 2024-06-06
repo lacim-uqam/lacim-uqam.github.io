@@ -1,5 +1,6 @@
 ---
 title: Programme de Lecture dirigée / DREAMS de l'ISM
+date: 2024-06-05
 sidebar:
     image: http://ism.uqam.ca/site/templates/images/ism-logo.svg
 ---

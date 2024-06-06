@@ -7,8 +7,8 @@
 {% endif %}
 <div class="{{ content_wrapper_class }} padded posts">
     <div class="main-content">
-        <div class='post-info-date'>publié le {{ page.date | localize: "%-d %B %Y", page.lang }}</div>
         {{ content }}
+        <div class='post-info-date'>publié le {{ page.date | date: "%Y-%m-%d" }}</div>
     </div>
 
     {% if page.sidebar %}
