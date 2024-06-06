@@ -2,49 +2,63 @@
   affiliation: UQTR
   email: Alain.Goupil@uqtr.ca
   website: https://oraprdnt.uqtr.uquebec.ca/portail/genw050.afficher_fiche_perso?owa_cd_secteur=1800&owa_cd_fonction=57&owa_no_personne=456131&owa_contexte=$1645-73
-  category: Membre régulier
+  interets_de_recherche: >
+    Domaines de recherche: Combinatoire, algèbre, groupe symétrique, énumération
+  research_interests: >
+    Research areas: Combinatorics, algebra, symmetric groups, enumeration
 
 - name: Alejandro Morales
   affiliation: UQAM (Mathématiques)
   email: morales_borrero.alejandro@uqam.ca
   website: https://sites.google.com/view/ahmorales
-  category: Membre régulier
+  interets_de_recherche: >
+    Domaines de recherche: Combinatoire énumérative et algébrique
+  research_interests: >
+    Research areas: Enumerative and Algebraic Combinatorics
 
 - name: Alexandre Blondin-Massé
   affiliation: UQAM (Informatique) / Hydro Québec
   email: blondin_masse.alexandre@uqam.ca
   website: https://github.com/ablondin
-  category: Membre régulier
 
 - name: Anne Bergeron
   affiliation: UQAM (Informatique)
   email: bergeron.anne@uqam.ca
   website: http://www.lacim.uqam.ca/~anne/
-  category: Membre régulier
 
 - name: Benoît Larose
   affiliation: Collège Champlain à St-Lambert / UQAM
   email: larose.benoit.2@uqam.ca
   website: https://benoitlarose.ca/
-  category: Membre régulier
+  interets_de_recherche: >
+    Domaines de recherche: Mathémaiques et Informatique théorique
+  research_interests: >
+    Research areas: Mathematics and theoretical computer science
 
 - name: Christophe Hohlweg
   affiliation: UQAM (Mathématiques)
   email: hohlweg.christophe@uqam.ca
   website: https://hohlweg.math.uqam.ca/
-  category: Membre régulier
+  interets_de_recherche: >
+    Christophe Hohlweg travaille en théorie des groupes et ses thèmes de
+    recherche favoris sont les groupes de Coxeter, les groupes de réflexions et
+    leurs structures connexes. Son program de recherche est situé à l'interface
+    de la combinatoire algébrique et géométrique.
+  research_interests: >
+    Christophe Hohlweg's primary area of research is combinatorial group
+    theory, and his favorite themes are Coxeter groups, reflections groups and
+    their related structures. His research program sits at the interface of
+    algebraic and geometric combinatorics.
 
 - name: Christophe Reutenauer
   affiliation: UQAM (Mathématiques)
   email: reutenauer.christophe@uqam.ca
   website: http://www.lacim.uqam.ca/~christo/
-  category: Membre régulier
 
 - name: Franco Saliola
   affiliation: UQAM (Mathématiques)
   email: saliola.franco@uqam.ca
   website: https://saliola.github.io
-  category: Membre régulier
   interets_de_recherche: >
     Les recherches de Franco Saliola portent sur la combinatoire algébrique.
     Son programme de recherche s'est développé à partir d'explorations de
@@ -63,7 +77,6 @@
   affiliation: UQAM (Mathématiques)
   email: bergeron.francois@uqam.ca
   website: http://bergeron.math.uqam.ca/
-  category: Membre régulier
   interets_de_recherche: >
     Les recherches de François Bergeron concernent diverses interactions entre
     structures algébriques (espaces de polynômes harmoniques, représentation de
@@ -81,25 +94,21 @@
   affiliation: UQAM (Mathématiques)
   email: labelle.gilbert@uqam.ca
   website: http://www.lacim.uqam.ca/~gilbert/
-  category: Membre régulier
 
 - name: Hugh Thomas
   affiliation: UQAM (Mathématiques)
   email: thomas.hugh_r@uqam.ca
   website: http://www.lacim.uqam.ca/~hugh/
-  category: Membre régulier
 
 - name: Ibrahim Assem
   affiliation: Université de Sherbrooke
   email: Ibrahim.Assem@USherbrooke.ca
   website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/ibrahim-assem/
-  category: Membre régulier
 
 - name: Jake Levinson
   affiliation: Université de Montréal
   email: jake.levinson@umontreal.ca
   website: https://dms.umontreal.ca/~levinsonj/
-  category: Membre régulier
   interets_de_recherche: >
     Jake Levinson s'intéresse principalement à la géométrie algébrique et à la
     combinatoire algébrique. Ses recherches portent sur les espaces de modules
@@ -114,7 +123,6 @@
   affiliation: ETS Montréal
   email: jean-philippe.labbe@etsmtl.ca
   website: https://jplab.github.io/
-  category: Membre régulier
   research_interests: >
     Jean-Philippe Labbé's research is at the intersection of combinatorics,
     discrete geometry and group theory.
@@ -135,52 +143,99 @@
   affiliation: UQAM (Informatique)
   email: kavanagh.ryan@uqam.ca
   website: https://rak.ac/fr/
-  category: Membre régulier
+  interets_de_recherche: >
+    L’objectif de la recherche de Ryan Kavanagh est de développer des outils et
+    des techniques qui permettent de spécifier, implémenter et raisonner au
+    sujet des systèmes concurrents. Présentement, il travaille sur la
+    conception des langages de programmation concurrente fondés sur une base
+    logique.
+  research_interests: >
+    Ryan Kavanagh aims to develop tools and techniques that help practitioners
+    correctly specify, implement, and reason about concurrent and communicating
+    systems. His current work involves designing and reasoning about the
+    logical foundations of programming languages for concurrency.
 
 - name: Samuele Giraudo
   affiliation: UQAM (Informatique)
   email: giraudo.samuele@uqam.ca
   website: http://igm.univ-mlv.fr/~giraudo/Home.html
-  category: Membre régulier
+  interets_de_recherche: >
+    Les recherches de Samuele Giraudo se situent à l'intersection de la
+    combinatoire, de l'algèbre et de l'informatique théorique. L'objectif
+    principal de ses recherches est de développer de nouvelles méthodes pour
+    compter et énumérer un vaste spectre d'objets combinatoires, y compris les
+    arbres, les permutations, les mots et les empilements de pièces.
+  research_interests: >
+    Samuele Giraudo's research is centered at the intersection of
+    combinatorics, algebra, and theoretical computer science. The primary goal
+    of his research is to develop novel methods for counting and enumerating a
+    wide range of combinatorial objects, including trees, permutations, words,
+    and heaps of pieces.
 
 - name: Shiping Liu
   affiliation: Université de Sherbrooke
   email: Shiping.Liu@usherbrooke.ca
   website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/shiping-liu/
-  category: Membre régulier
+  interets_de_recherche: 
+  research_interests: 
 
 - name: Srečko Brlek
   affiliation: UQAM (Informatique)
   email: brlek.srecko@uqam.ca
   website: http://www.lacim.uqam.ca/~brlek/
-  category: Membre régulier
+  interets_de_recherche: 
+  research_interests: 
 
 - name: Sylvie Hamel
   affiliation: Université de Montréal
   email: hamelsyl@iro.umontreal.ca
   website: http://www.iro.umontreal.ca/~hamelsyl/
-  category: Membre régulier
+  interets_de_recherche: >
+    Domaines de recherche: Bioinformatique, théorie des langages et des
+    automates, combinatoire des mots, polynômes de Macdonald et fonctions
+    symétriques
+  research_interests: >
+    Research areas: Bioinformatics, languages and automata theory,
+    combinatorics on words, Macdonald polynomials and symmetric functions
 
 - name: Thomas Brüstle
   affiliation: Université de Sherbrooke
   email: Thomas.Brustle@USherbrooke.ca
   website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/thomas-bruestle/
-  category: Membre régulier
+  interets_de_recherche: 
+  research_interests: 
 
 - name: Véronique Bazier-Matte
   affiliation: Université Laval
   email: veronique.bazier-matte.1@ulaval.ca
   website: https://sites.google.com/view/veronique-bazier-matte
-  category: Membre régulier
+  interets_de_recherche: >
+    Domaines de recherche: Algèbres amassées, théorie de la représentation des
+    algèbres, théorie des noeuds, triangulations de surface
+  research_interests: >
+    Research areas: Cluster algebras, representation theory of algebras, knot
+    theory, triangulation of marked surfaces
 
 - name: Vladimir Makarenkov
   affiliation: UQAM (Informatique)
   email: makarenkov.vladimir@uqam.ca
   website: http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html
-  category: Membre régulier
+  interets_de_recherche: >
+    Les recherches de Vladimir Makarenkov portent principalement sur
+    la bioinformatique, l'analyse des données et l'apprentissage automatique.
+  research_interests: >
+    Vladimir Makarenkov's research focuses mainly on bioinformatics, data
+    analysis, and machine learning.
 
 - name: Vladimir Reinharz
   affiliation: UQAM (Informatique)
   email: reinharz.vladimir@uqam.ca
   website: https://cbe.uqam.ca/
-  category: Membre régulier
+  interets_de_recherche: >
+    Les recherches de Vladimir Reinharz portent sur la biologie informatique et
+    l'évolution, en particulier sur la conception de nouveaux algorithmes pour
+    étudier les molécules d'ARN et les infections virales.
+  research_interests: >
+    Vladimir Reinharz's research focuses on Computational Biology and
+    Evolution, particularly the design of new algorithms to study RNA molecules
+    and viral infections.
