@@ -9,6 +9,12 @@
 
     .text-section {
         @include padded;
+        background: $dark_grey;
+        color: white;
+    }
+
+    .text-section img {
+        height: 80px;
     }
 
     .title {
@@ -37,14 +43,16 @@
             right: 0;
             bottom: 21px;
             width: 49%;
-            background: $text_overlay_colour;
-            color: white;
+        }
+
+        .text-section img {
+          height: 100%;
+          width: 100%;
         }
 
         .title {
             @include title-2;
             margin: 0;
-            // text-shadow: 3px 3px 3px gray;
         }
 
     }
