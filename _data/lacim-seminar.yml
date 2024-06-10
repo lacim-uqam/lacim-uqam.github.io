@@ -1,3 +1,12 @@
+- speaker: Louis Marin
+  affiliation: UQAM
+  title: Énumération de polyominos dans un rectangle b x h
+  date: 2024-06-14
+  abstract: >
+    Dans cet exposé, on s'attaque à un sous-problème de l'énumeration des polyominos qui est un problème étudié depuis son introduction par Goulomb.
+    On énumère les polyominos qui sont inscrits dans un rectangle d'une certaine taille. Si on fixe la base b et varie la hauteur, le nombre de polyominos inscrits dans ces rectangles suit une récurrence linéaire. L'objectif est de construire des automates qui reconnaissent ces polyominos pour obtenir les séries génératrice.
+    En adaptant des méthodes décrites dans des travaux de Zeilberger et de Bousquet-Mélou et Brak, on développe une construction systématique de ces automates pour chaque valeur de b.
+  
 - speaker: Nicole Lemire
   affiliation: University of Western Ontario (professeure visiteure au LACIM)
   title: Demazure Models of Algebraic Tori
