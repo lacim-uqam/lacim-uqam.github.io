@@ -201,7 +201,19 @@
 - name: Christophe Reutenauer
   affiliation: UQAM (Mathématiques)
   email: reutenauer.christophe@uqam.ca
-  website: http://www.lacim.uqam.ca/~christo/
+  website: /u/christo/
+  interets_de_recherche: >
+    Combinatoire algébrique, automates finis, théorie des codes à longueur
+    variable, algèbres de Lie libres, algèbre non commutative, corps libres,
+    algèbre de descentes, fonctions symétriques et quasi-symétriques,
+    combinatoire des mots, suites Sturmiennes, mots de Christoffel, séries
+    rationnelles non commutatives, schémas de Hilbert, nombres de Markoff
+  research_interests: >
+    Algebraic Combinatorics, finite automata, variable-length codes, free Lie
+    algebras, non commutative algebra, free fields, descent algebras, symmetric
+    and quasi-symmetric functions, combinatorics on words, Sturmian sequences,
+    Christoffel words, non commutative rational series, Hilbert schemes,
+    Markoff numbers
 
 - name: Vladimir Reinharz
   affiliation: UQAM (Informatique)

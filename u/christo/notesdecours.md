@@ -1,6 +1,7 @@
 ---
 title: notes de cours -- Christophe Reutenauer
 layout: blank
+redirect_from: /~christo/notesdecours.html
 ---
 
 [Retour à la page principale](index.html)

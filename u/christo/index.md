@@ -3,8 +3,10 @@ title: Site web du Christophe Reutenauer
 layout: blank
 redirect_from:
   - "/~christo/"
-  - "/~hristo/index.html"
+  - "/~christo/index.html"
 ---
+
+<img align="Right" src="images/DSC03933petit.jpg">
 
 ## Reutenauer, Christophe
 
@@ -41,4 +43,4 @@ Téléphone: (514) 987-3000 ext. 3228
 
 Courrier électronique : Reutenauer point Christophe symbole uqam point ca
 
-
+<img height="300" align="center" src="images/Pythagore2.png">
