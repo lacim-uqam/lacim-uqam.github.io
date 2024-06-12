@@ -1,21 +1,23 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ site.data[page.lang].conference_info.title_bar }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
-</head>
-<body>
+    <meta charset="utf-8"/>
 
+    {% if page.redirect %}
+    <meta http-equiv="refresh" content="1;url={{ page.redirect.to }}"/>
+    <link rel="canonical" href="{{ page.redirect.to }}"/>
+    {% else %}
     <script type="text/javascript">
-        (function () {
-            // Redirect to French or preferred language
-            var languagePreference = localStorage.getItem('languagePreference');
-            location.href = location.href + '/' + (languagePreference || 'fr');
-        })();
+    (function () {
+        // Redirect to French or preferred language
+        var languagePreference = localStorage.getItem('languagePreference');
+        location.href = location.href + '/' + (languagePreference || 'fr');
+    })();
     </script>
+    {% endif %}
 
-</body>
-</html>
+     <title>Page Redirection</title>
+ </head>
+
+Redirecting to {{ page.redirect.to }}
+
+ </html>
