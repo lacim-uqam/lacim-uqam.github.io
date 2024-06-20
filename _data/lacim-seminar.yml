@@ -1,3 +1,18 @@
+- speaker: Matt Satriano
+  affiliation: University of Waterloo
+  title: >
+    Beyond twisted maps: crepant resolutions of log terminal singularities and
+    a motivic McKay correspondence
+  date: 2024-06-21 <br> <em>à 15h</em>
+  abstract: >
+    Crepant resolutions have inspired connections between birational geometry,
+    derived categories, representation theory, and motivic integration. In this
+    talk, we prove that every variety with log-terminal singularities admits a
+    crepant resolution by a smooth stack. We additionally prove a motivic McKay
+    correspondence for stack-theoretic resolutions. Finally, we show how our
+    work naturally leads to a generalization of twisted mapping spaces. This is
+    joint work with Jeremy Usatine.
+
 - speaker: Louis Marin
   affiliation: UQAM
   title: Énumération de polyominos dans un rectangle $b$ x $h$
