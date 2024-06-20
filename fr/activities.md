@@ -9,6 +9,7 @@ sidebar: true
 Le [Séminaire du LACIM](seminaire.html), créé au début des années 80, a lieu
 chaque semaine de septembre à juin (et parfois l’été) les vendredi de 11h
 à midi au Pavillon Président-Kennedy de l’UQAM (PK-4323).
+[Consultez le site web du séminaire du LACIM](seminaire.html).
 
 ## Café du LACIM
 

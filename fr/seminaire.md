@@ -10,9 +10,9 @@ septembre à juin (et parfois l’été) les **vendredi de 11h à midi** au Pavi
 Président-Kennedy de l’UQAM (PK-4323).
 
 **Organisateurs**
-- Samuele Giraudo (UQAM)
-- GaYee Park (UQAM)
-- Christophe Reutenauer (UQAM)
+- [Samuele Giraudo (UQAM)](https://igm.univ-mlv.fr/~giraudo/Home.html)
+- [GaYee Park (UQAM)](https://sites.google.com/view/gayeepark/home)
+- [Christophe Reutenauer (UQAM)](https://reutenauer.math.uqam.ca/)
 
 **Calendrier**
 
