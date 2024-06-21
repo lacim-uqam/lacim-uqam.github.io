@@ -10,6 +10,7 @@ The [LACIM Seminar](seminar.html),
 created in the early 80s,
 takes place every Friday at 11h from September to June (and sometimes during the summer)
 in room PK-4323 of UQAM's Président-Kennedy Building.
+[Click here to consult the LACIM Seminar website](seminar.html).
 
 ## Café du LACIM
 
