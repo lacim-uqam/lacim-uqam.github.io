@@ -9,6 +9,11 @@ body {
     line-height: 1.45;
 }
 
+h1, h2, h3, h4 {
+    font-family: $heading_font;
+    font-weight: 500;
+}
+
 p {
     margin-bottom: 1.3em;
 }
@@ -61,17 +66,9 @@ body {
 }
 
 .content-sidebar-wrapper {
-    h1, h2, h3, h4 {
-        font-family: $heading_font;
-        font-weight: 400;
-    }
 }
 
 .content-nosidebar-wrapper {
-    h1, h2, h3, h4 {
-        font-family: $heading_font;
-        font-weight: 400;
-    }
 }
 
 dt {

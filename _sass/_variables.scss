@@ -5,14 +5,15 @@ $lighter_grey: #f8f8f8;
 $platinum: #E5E4E2;
 $white: #ffffff;
 $blue: #2e52bc;
+$light_blue: #4d79d0;
 $green: #6ab255;
 $uqam-blue: #0079be;
 
 
 // Fonts
-$font_ss: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
-$heading_font: $font_ss;
-$body_font: $font_ss;
+$font_ss: 'Montserrat', sans-serif;
+$heading_font: 'Montserrat', sans-serif;
+$body_font: 'Montserrat', sans-serif;
 
 // Media Queries
 $desktop: '(min-width: 700px)';
