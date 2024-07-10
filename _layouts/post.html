@@ -8,6 +8,11 @@
 <div class="{{ content_wrapper_class }} padded posts">
     <div class="main-content">
         {{ content }}
+
+        {% if page.source %}
+        <div class='post-source'>source: <a href="{{ page.source.link }}">{{ page.source.text }}</a></div>
+        {% endif %}
+
         <div class='post-info-date'>publié le {{ page.date | date: "%Y-%m-%d" }}</div>
     </div>
 
