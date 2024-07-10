@@ -17,12 +17,38 @@
         height: 80px;
     }
 
-    .title {
-        @include title-3;
+    .banner-title {
+        @include title-2;
         font-family: $heading_font;
         font-weight: 400;
         margin: 0;
+        padding: 0;
+
+        span {
+          display: inline-block;
+          font-weight: 400;
+          margin: 0px;
+          padding: 0px;
+        }
+
+        p {
+          display: inline-block;
+          font-weight: 400;
+          margin: 0px;
+          padding: 0px;
+          line-height: 1;
+        }
+
+        p::first-letter {
+          display: inline-block;
+          font-weight: 400;
+          font-size: 1.2em;
+          font-family: "Architects Daughter";
+          color: orange;
+        }
+
     }
+
 
     .language-link {
         background: $text_overlay_colour;
@@ -50,7 +76,7 @@
           width: 100%;
         }
 
-        .title {
+        .banner-title {
             @include title-2;
             margin: 0;
         }

@@ -8,10 +8,16 @@ hr {
 }
 
 .sponsor {
-  display: table-cell;
-  vertical-align: middle;
+  display: grid;
   text-align: center;
-  width: 35%;
+  width: 100%;
+
+  @media #{$desktop} {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 35%;
+  }
 }
 
 .sponsor-CRM {
