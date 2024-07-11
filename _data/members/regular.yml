@@ -286,4 +286,15 @@
 - name: Hugh Thomas
   affiliation: UQAM (Mathématiques)
   email: thomas.hugh_r@uqam.ca
-  website: http://www.lacim.uqam.ca/~hugh/
+  website: https://hughrthomas.github.io
+  interets_de_recherche: >
+    Les recherches de Hugh Thomas visent principalement à mieux comprendre les
+    structures combinatoires présentes dans la théorie des représentations des
+    algèbres de dimension finie. Il étudie aussi les liens entre la théorie des
+    représentations et les amplitudes de diffusion dans la théorie quantique des
+    champs.
+  research_interests: >
+    Hugh Thomas's research aims to understand better the combinatorial
+    structures present in the theory of representations of finite dimensional
+    algebras. He also studies links between representation theory and
+    scattering amplitudes in quantum field theory.
