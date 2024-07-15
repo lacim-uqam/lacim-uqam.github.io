@@ -50,9 +50,13 @@
 - name: Thomas Brüstle
   affiliation: Université de Sherbrooke
   email: Thomas.Brustle@USherbrooke.ca
-  website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/thomas-bruestle/
-  interets_de_recherche: 
-  research_interests: 
+  website: https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/thomas-brustle
+  interets_de_recherche: >
+    Domaines de recherche: Algèbre homologique, Théorie des représentations,
+    Analyse topologique de données, Catégories et structures exactes
+  research_interests: >
+    Research interests: Homological algebra, representation theory, topological
+    data analysis, exact categories and structures.
 
 - name: Samuele Giraudo
   affiliation: UQAM (Informatique)
