@@ -56,13 +56,27 @@
         </ul>
     </div>
 
-    <h2 id="étudiants">
     {% if page.lang == "en" %}
+    <h2 id="étudiants">
         Graduate Students
-    {% elsif page.lang == "fr" %}
-        Membres étudiants
-    {% endif %}
     </h2>
+    <p><small>
+        (Refer also to the
+        <a href="https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs">
+            list of graduate students in the mathematics department.
+        </a>)
+    </small></p>
+    {% elsif page.lang == "fr" %}
+    <h2 id="étudiants">
+        Membres étudiants
+    </h2>
+    <p><small>
+        (Consultez égalment la
+        <a href="https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs">
+            liste des étudiant.e.s aux cycles supérieurs au département de mathématiques.
+        </a>)
+    </small></p>
+    {% endif %}
     <div class="fancy-list">
         <ul>
             {% for student in site.data.members.students %}
