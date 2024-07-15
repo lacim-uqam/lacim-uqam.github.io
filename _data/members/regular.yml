@@ -170,9 +170,15 @@
   email: larose.benoit.2@uqam.ca
   website: https://benoitlarose.ca/
   interets_de_recherche: >
-    Domaines de recherche: Mathémaiques et Informatique théorique
+    Benoît Larose s'intéresse à la complexité algorithmique des problèmes de
+    satisfaction de contraintes, aux homomorphismes de graphes, aux
+    applications de l'algèbre et de la topologie algébrique à ces domaines,
+    ainsi qu'à l'algèbre universelle et à la combinatoire extrémale.
   research_interests: >
-    Research areas: Mathematics and theoretical computer science
+    Benoît Larose is interested in the algorithmic complexity of constraint
+    satisfaction problems, graph homomorphisms, applications of algebra and
+    algebraic topology to these domains, as well as universal algebra and
+    extremal combinatorics.
 
 - name: Jake Levinson
   affiliation: Université de Montréal
