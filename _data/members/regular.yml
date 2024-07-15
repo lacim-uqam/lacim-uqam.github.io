@@ -147,6 +147,19 @@
   affiliation: UQAM (Mathématiques)
   email: labelle.gilbert@uqam.ca
   website: http://www.lacim.uqam.ca/~gilbert/
+  interets_de_recherche: >
+    Domaines de recherche : Théorie des polynômes complexes, fonctions
+    spéciales, analyse numérique, théorie des espèces de structures (méthodes
+    de calculs, structures asymétriques, modèles combinatoires pour l’inversion
+    de Lagrange, schémas itératifs, q-analogues, classes diverses de structures
+    arborescentes, etc), analyse asymptotique, applications diverses du calcul
+    symbolique informatisé.
+  research_interests: >
+    Research interests: theory of complex polynomials, special functions,
+    numerical analysis, theory of combinatorial species (computational methods,
+    asymmetric structures, combinatorial models for Lagrange inversion,
+    iterative schemes, $q$-analogues, various classes of tree structures,
+    etc.), asymptotic analysis, applications of symbolic computation.
 
 - name: Benoît Larose
   affiliation: Collège Champlain à St-Lambert / UQAM
