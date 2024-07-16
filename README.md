@@ -83,3 +83,9 @@ Install the Ruby dependencies
     cd lacim-uqam.github.io
     bundle install
 
+## Serving the website locally
+
+    cd lacim-uqam.github.io
+    bundle exec jekyll serve
+
+Point your web browser to [http://localhost:4000](http://localhost:4000).
