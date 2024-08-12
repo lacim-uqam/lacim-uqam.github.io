@@ -1,18 +1,24 @@
 - name: Ibrahim Assem
   affiliation: Université de Sherbrooke
   email: Ibrahim.Assem@USherbrooke.ca
-  website: https://www.usherbrooke.ca/sciences/personnel/mathematiques/corps-professoral/professeurs/ibrahim-assem/
+  website: https://ibrahim-assem.espaceweb.usherbrooke.ca
+  interets_de_recherche: >
+    Domaines de recherche: théorie des représentations des algèbres, algèbres
+    amassées, algèbre homologique, théorie des catégories, anneaux et modules.
+  research_interests: >
+    Research areas: representation theory of algebras, cluster algebras,
+    homological algebra, category theory, rings and modules.
 
 - name: Véronique Bazier-Matte
   affiliation: Université Laval
   email: veronique.bazier-matte.1@ulaval.ca
   website: https://sites.google.com/view/veronique-bazier-matte
   interets_de_recherche: >
-    Domaines de recherche: Algèbres amassées, théorie de la représentation des
+    Domaines de recherche: algèbres amassées, théorie de la représentation des
     algèbres, théorie des noeuds, triangulations de surface
   research_interests: >
-    Research areas: Cluster algebras, representation theory of algebras, knot
-    theory, triangulation of marked surfaces
+    Research areas: cluster algebras, representation theory of algebras, knot
+    theory, triangulation of marked surfaces.
 
 - name: Anne Bergeron
   affiliation: UQAM (Informatique)
