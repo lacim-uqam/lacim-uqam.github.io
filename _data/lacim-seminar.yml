@@ -21,14 +21,35 @@
   date: 2024-09-27
   abstract: >
     TBA
+    
+- speaker: Igor Pak
+  affiliation: University of California, Los Angeles
+  title: >
+    What is beyond D-finite?
+  date: 2024-09-13
+  abstract: >
+    As classes of GFs go, we tend to know more about smaller classes than larger
+    ones, think of the progression from rational to algebraic to D-finite to
+    D-algebraic GFs.  The positivity adds another twist on these classes, bringing
+    a host of new problems.  In this talk, I will review some classes of GFs that
+    are of interest in Enumerative Combinatorics but remain understudied,
+    emphasising both larger classes and positivity properties.
 
 - speaker: Scott Neville
   affiliation: University of Michigan
   title: >
-    TBA
+    Cyclically ordered quivers
   date: 2024-09-06
-  abstract: >
-    TBA
+  abstract: > 
+    Quivers and their mutations play a fundamental role in the theory of cluster
+    algebras. We focus on the problem of deciding whether two given quivers are
+    mutation equivalent to each other. Our approach is based on introducing an
+    additional structure of a cyclic ordering on the set of vertices of a quiver.
+    This leads to new powerful invariants of quiver mutation. These invariants
+    can be used to show that various quivers are not mutation acyclic, i.e., they
+    are not mutation equivalent to an acyclic quiver. This talk is partially
+    based on joint work with Sergey Fomin [arXiv:2406.03604]
+    
 
 - speaker: Matt Satriano
   affiliation: University of Waterloo
