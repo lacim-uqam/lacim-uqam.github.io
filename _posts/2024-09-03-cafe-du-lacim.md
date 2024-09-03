@@ -7,5 +7,5 @@ sidebar:
 
 ## Premier café du LACIM de la rentrée
 
-Le premier [café du LACIM](/fr/activities.html#caf%C3%A9-du-lacim) de l'automne 2024 aura lieu **mercredi 3 septembre à
+Le premier [café du LACIM](/fr/activities.html#caf%C3%A9-du-lacim) de l'automne 2024 aura lieu **mercredi 4 septembre à
 15 h 45 au local PK-4214**.
