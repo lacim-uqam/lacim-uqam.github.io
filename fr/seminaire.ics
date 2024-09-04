@@ -10,8 +10,8 @@ BEGIN:VEVENT
 UID:{{ seminar_talk.date | date: "%Y%m%d" }}@lacim.uqam.ca
 ORGANIZER;CN="LACIM":MAILTO:lacim@uqam.ca
 LOCATION:Pavillon Président Kennedy (Local PK-4211)\, 201 avenue du Président Kennedy\, Montréal\, Québec\, H2X 3Y7
-SUMMARY:{{ seminar_talk.speaker | replace: ",", "\," | replace ";", "\;" }} ({{ seminar_talk.affiliation | replace: ",", "\," | replace ";", "\;" }})
-DESCRIPTION:Abstract/Résumé: {{ seminar_talk.abstract | replace: ",", "\," | replace ";", "\;" }}
+SUMMARY:{{ seminar_talk.speaker | replace: ',', '\,' | replace: ';', '\;' }} ({{ seminar_talk.affiliation | replace: ',', '\,' | replace: ';', '\;' }})
+DESCRIPTION:Abstract/Résumé: {{ seminar_talk.abstract | replace: ',', '\,' | replace: ';', '\;' }}
 CLASS:PUBLIC
 DTSTART:{{ seminar_talk.date | date: "%Y%m%d" }}T150000Z
 DTEND:{{ seminar_talk.date | date: "%Y%m%d" }}T160000Z
