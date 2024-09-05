@@ -1,0 +1,269 @@
+- speaker: Lucien Hennecart
+  affiliation: Edinburgh University
+  title: L’algèbre de Lie associée à un carquois
+  date: 2023-01-27
+  abstract: >
+    
+- speaker: Hadi Salmasian
+  affiliation: University of Ottawa
+  title: Quantum groups, quantum Weyl algebras, and a new First Fundamental Theorem of invariant theory for $U_q(gl(n))$
+  date: 2023-02-03
+  abstract: >
+    
+- speaker: François Bergeron
+  affiliation: UQAM
+  title: L’opérateur super-nabla
+  date: 2023-02-10
+  abstract: >
+    
+- speaker: Alejandro Morales
+  affiliation: University of Massachusetts, Amherst
+  title: La saga des formules des équerres pour tableaux de formes gauches
+  date: 2023-02-17 <br> <em>à 13h</em>
+  abstract: >
+    
+- speaker: Laura Colmenarejo
+  affiliation: North Carolina State University
+  title: A Murnaghan-Nakayama rule for the quantum Schubert polynomials
+  date: 2023-02-23 <br> <em>date exceptionnelle, à 10h30</em>
+  abstract: >
+    
+- speaker: Alex Weekes
+  affiliation: University of Saskatchewan
+  title: Quivers, Kac polynomials, and Zastava spaces
+  date: 2023-02-24
+  abstract: >
+    
+- speaker: Yannic Vargas
+  affiliation: Graz University of Technology
+  title: Hopf algebras, species and free probability
+  date: 2023-03-03
+  abstract: >
+    
+- speaker: Lucas Gagnon
+  affiliation: York University
+  title: Quasisymmetric varieties, excedances, and bases for the Temperley–Lieb algebra
+  date: 2023-03-10
+  abstract: >
+    
+- speaker: Thomas Haettel
+  affiliation: Université de Montpellier
+  title: Groupes de Garside et groupes d'Artin
+  date: 2023-03-17
+  abstract: >
+    
+- speaker: Ayah Almousa
+  affiliation: University of Minnesota
+  title: Koszulity and Stirling Representations
+  date: 2023-03-24
+  abstract: >
+    
+- speaker: Stephen Melczer
+  affiliation: University of Waterloo
+  title: Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
+  date: 2023-03-24  <br> <em>à 13h30</em>
+  abstract: >
+  
+- speaker: Olya Mandelshtam
+  affiliation: University of Waterloo
+  title: Macdonald polynomials and interacting particle systems
+  date: 2023-03-31
+  abstract: >
+    
+- speaker: Evelyne Hubert
+  affiliation: Inria Côte d'Azur France
+  title: Calcul des invariants rationnels d’une action de groupe
+  date: 2023-04-14
+  abstract: >
+    
+- speaker: Alejandro Adem
+  affiliation: NSERC
+  title: Minimal Euler characteristics for Even-Dimensional Manifolds with Finite Fundamental Group
+  date: 2023-04-21 <br> <em>avec séminaire du CIRGET</em>
+  abstract: >
+    
+- speaker: Christophe Hohlweg
+  affiliation: UQAM
+  title: Arrangements de Shi dans les groupes de Coxeter
+  date: 2023-04-28
+  abstract: >
+    
+- speaker: Shuo Li
+  affiliation: UQAM
+  title: On the number of distinct squares in finite words: some old and new results
+  date: 2023-05-05
+  abstract: >
+    
+- speaker: Anne Dranowski
+  affiliation: University of Southern California
+  title: Upgrading crystals
+  date: 2023-05-12
+  abstract: >
+    
+- speaker: Benjamin Dequêne
+  affiliation: UQAM
+  title: La retrouvabilité de Jordan des sous-catégories de modules d'une algèbre de type A
+  date: 2023-05-19
+  abstract: >
+    
+- speaker: Joel Louwsma
+  affiliation: Niagara University
+  title: Arithmetical structures and their critical groups
+  date: 2023-05-26
+  abstract: >
+    
+- speaker: Franco Saliola
+  affiliation: UQAM
+  title: Bandes régulières à gauche de groupes et algèbres de Mantaci-Reutenauer
+  date: 2023-06-02
+  abstract: >
+    
+- speaker: Kathlyn Dykes
+  affiliation: University of Toronto
+  title: The dual fans of Demazure polytopes
+  date: 2023-06-09
+  abstract: >
+    
+- speaker: Bertrand Marchand
+  affiliation: Ecole Polytechnique
+  title: Largeurs de graphes pour de l'algorithmie exacte en bio-informatique structurale des ARNs
+  date: 2023-06-16
+  abstract: >
+    
+- speaker: Adrien Segovia
+  affiliation: UQAM
+  title: Actions libres et de parking quasi-symétrisantes
+  date: 2023-06-23
+  abstract: >
+    
+- speaker: Herman Goulet-Ouellet
+  affiliation: IRIF-Paris
+  title: Monoïdes profinis et dynamique symbolique
+  date: 2023-08-25
+  abstract: >
+  
+- speaker: Alejandro Morales
+  affiliation: UQAM
+  title: Réalisation du $\s$-Permutoèdre via Polytopes de Flot
+  date: 2023-09-15
+  abstract: >
+  
+- speaker: Oliver Pechenik
+  affiliation: University of Waterloo
+  title: Quasisymmetric Schubert calculus
+  date: 2023-09-29
+  abstract: >
+  
+- speaker: François Bergeron
+  affiliation: UQAM
+  title: Sous-partages et fonctions de stationnement généralisées
+  date: 2023-10-06
+  abstract: >
+  
+- speaker: William Dugan
+  affiliation: University of Massachusetts, Amherst
+  title: Generalized Pitman-Stanley polytopes: vertices and faces
+  date: 2023-10-13
+  abstract: >
+  
+- speaker: Jesse Selover
+  affiliation: University of Massachusetts, Amherst
+  title: On the Newton polytope and chromatic symmetric function of chromatic symmetric functions
+  date: 2023-10-20
+  abstract: >
+  
+- speaker: Zephyr Salvy
+  affiliation: LIGM, Université Gustave Eiffel
+  title: Transition de phase des cartes planaires aléatoires pondérées par blocs
+  date: 2023-10-27
+  abstract: >
+  
+- speaker: Christian Gaetz
+  affiliation: Cornell University
+  title: An SL(4) web basis from hourglass plabic graphs
+  date: 2023-11-10
+  abstract: >
+  
+- speaker: Ben Abendaum
+  affiliation: Dartmouth College
+  title: Coloring Groups
+  date: 2023-11-17
+  abstract: >
+  
+- speaker: Tianyi Yu
+  affiliation: University of California, San Diego
+  title: Analogue of Fomin-Stanley algebra on bumpless pipedreams
+  date: 2023-12-08
+  abstract: >
+  
+- speaker: Florent Hivert
+  affiliation: Université Paris-Sud
+  title: Réalisation diagramatique du monoïde et de l'algèbre d'Okada et correspondance de Fomin du treillis de Young-Fibonacci
+  date: 2023-12-15
+  abstract: >
+  
+- speaker: Herman Goulet-Ouellet
+  affiliation: LIAFA, Paris
+  title: Densité des langages rationnels dans les espaces symboliques
+  date: 2024-01-12
+  abstract: >
+  
+- speaker: Philippe Nadeau
+  affiliation: Institut Camille Jordan, université Lyon 1, France
+  title: Mots de Smirnov et conjectures Delta
+  date: 2024-01-19
+  abstract: >
+  
+- speaker: Hugh Dennin
+  affiliation: Ohio State Univiversity
+  title: Differential identities for Schubert polynomials via pipe dreams
+  date: 2024-01-26
+  abstract: >
+  
+- speaker: Benjamin Dequêne
+  affiliation: LACIM
+  title: Une généralisation de la correspondance RSK via la combinatoire des carquois (de type A)
+  date: 2024-02-02
+  abstract: >
+  
+- speaker: Amarpreet Rattan
+  affiliation: Simon Fraser University
+  title: Star and monotone factorizations and Jucys-Murphy elements
+  date: 2024-02-02 <br> <em>à 14h</em>
+  abstract: >
+  
+- speaker: Moussa Abdenbi
+  affiliation: UQAM
+  title: Réductions de graphes et la propriété de Church-Rosser
+  date: 2024-02-09
+  abstract: >
+  
+- speaker: Sarah Brauner
+  affiliation: UQAM
+  title: Configuration spaces and combinatorial algebras
+  date: 2024-02-16
+  abstract: >
+  
+- speaker: Jonathan Leake
+  affiliation: University of Waterloo
+  title: Combinatorial bounds and approximation via Lorentzian polynomials
+  date: 2024-02-23
+  abstract: >
+  
+- speaker: Mélodie Lapointe
+  affiliation: Université de Moncton
+  title: Caractérisations des mots parfaitement amassants
+  date: 2024-03-08
+  abstract: >
+  
+- speaker: Jiayuan Wang
+  affiliation: Lehigh University
+  title: LLT polynomials and Hecke algebra traces
+  date: 2024-03-15
+  abstract: >
+  
+- speaker: Jacques Sakarovitch
+  affiliation: IRIF, CNRS/U. Paris Cité  et   LTCI, Télécom Paris, IPP
+  title: Automate des termes dérivés, sans dérivation
+  date: 2024-03-22
+  abstract: >
