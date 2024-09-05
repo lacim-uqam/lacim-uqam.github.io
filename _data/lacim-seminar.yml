@@ -49,7 +49,19 @@
     can be used to show that various quivers are not mutation acyclic, i.e., they
     are not mutation equivalent to an acyclic quiver. This talk is partially
     based on joint work with Sergey Fomin [arXiv:2406.03604]
-    
+
+- speaker: Luis Scoccola
+  affiliation: UQAM
+  title: >
+  date: 2024-06-28
+  abstract: >
+    Crepant resolutions have inspired connections between birational geometry,
+    derived categories, representation theory, and motivic integration. In this
+    talk, we prove that every variety with log-terminal singularities admits a
+    crepant resolution by a smooth stack. We additionally prove a motivic McKay
+    correspondence for stack-theoretic resolutions. Finally, we show how our
+    work naturally leads to a generalization of twisted mapping spaces. This is
+    joint work with Jeremy Usatine.
 
 - speaker: Matt Satriano
   affiliation: University of Waterloo
