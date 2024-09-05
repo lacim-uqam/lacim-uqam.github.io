@@ -51,17 +51,26 @@
     based on joint work with Sergey Fomin [arXiv:2406.03604]
 
 - speaker: Luis Scoccola
-  affiliation: UQAM
-  title: >
+  affiliation: UQAM et Université de Sherbrooke
+  title: An introduction to persistence theory
   date: 2024-06-28
   abstract: >
-    Crepant resolutions have inspired connections between birational geometry,
-    derived categories, representation theory, and motivic integration. In this
-    talk, we prove that every variety with log-terminal singularities admits a
-    crepant resolution by a smooth stack. We additionally prove a motivic McKay
-    correspondence for stack-theoretic resolutions. Finally, we show how our
-    work naturally leads to a generalization of twisted mapping spaces. This is
-    joint work with Jeremy Usatine.
+    Persistence theory was born from the observation that the critical values
+    of a Morse function admit a canonical pairing, which induces a direct sum
+    decomposition of the sublevel set homology of the function into interval
+    poset representations. What makes persistence theory distinct from Morse
+    theory - besides the fact that it is usually framed using the language of
+    representation theory - is its focus on perturbation-stability, providing
+    answers to questions such as: How can the critical values of a Morse
+    function change when the function is perturbed? The initial motivation for
+    the study of perturbation-stability came from problems in geometric data
+    science, but has since found applications in symplectic geometry as well as
+    in complex and functional analysis. I will give an overview of the
+    representation theoretic and combinatorial aspects of persistence theory,
+    including motivation and applications.
+
+
+
 
 - speaker: Matt Satriano
   affiliation: University of Waterloo
