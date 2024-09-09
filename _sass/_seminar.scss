@@ -1,11 +1,11 @@
 .seminar-page {
 
     details > summary {
-      list-style-type: '\21C5';
+      list-style-type: disclosure-closed;
     }
 
     details[open] > summary {
-      list-style-type: '\21C5';
+      list-style-type: disclosure-open;
     }
 
     .abstract {
