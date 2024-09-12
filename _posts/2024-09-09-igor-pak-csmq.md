@@ -9,9 +9,10 @@ sidebar: true
 Ce vendredi 13 septembre 2024,
 [Igor Pak](https://www.math.ucla.edu/~pak/) (University of California, Los Angeles)
 donnera le [Séminaire du LACIM](https://lacim.uqam.ca/fr/seminaire.html)
-et le [Colloque des Sciences Mathématiques du Québec](https://www.crmath.ca/en/activities/#/type/seminar/id/20532).
+et le [Colloque des Sciences Mathématiques du Québec (CSMQ)](https://www.crmath.ca/en/activities/#/type/seminar/id/20532).
 
 What is beyond D-finite?
+: Igor Pak (University of California, Los Angeles)
 : [Séminaire du LACIM](https://lacim.uqam.ca/fr/seminaire.html)
 (11h, PK-4323)
 : **Résumé.** As classes of GFs go, we tend to know more about smaller classes
@@ -23,8 +24,11 @@ understudied, emphasising both larger classes and positivity properties.
 
 |
 
+|
+
 Polynomial inequalities and combinatorial interpretations
-: [Colloque des Sciences Mathématiques du Québec](https://www.crmath.ca/en/activities/#/type/seminar/id/20532)
+: Igor Pak (University of California, Los Angeles)
+: [CSMQ](https://www.crmath.ca/en/activities/#/type/seminar/id/20532)
 (15h30, PK-5115)
 : **Résumé.** In combinatorics, many inequalities can be proved by an explicit
 injection. Such proofs can be both elegant and insightful. As an application,

@@ -49,26 +49,24 @@ blockquote p:last-child {
 dl {
   background: #f4f4f4;
   border-left: 8px solid #ccc;
-  margin: 0px;
-  padding: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
   font-size: 0.9em;
   font-style: italic;
 }
 
-dt {
-  padding-top: 7px;
+dt, dd {
+  margin: 0px;
+  padding-top: 0px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 2px;
+  padding-bottom: 3px;
+}
+
+dt {
   font-weight: 900;
   font-family: "Cardo", "Georgia", serif;
   font-style: italic;
   font-size: 1.3em;
-}
-
-dd {
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 0px;
 }
