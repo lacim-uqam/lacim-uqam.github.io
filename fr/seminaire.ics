@@ -6,15 +6,28 @@ VERSION:2.0
 PRODID:http://www.bephpug.com/
 METHOD:PUBLISH
 {% for seminar_talk in site.data.lacim-seminar %}
+{%- assign speaker = seminar_talk.speaker | replace: ',', '\,' | replace: ';', '\;' -%}
+{%- assign affiliation = seminar_talk.affiliation | replace: ',', '\,' | replace: ';', '\;' -%}
+{%- assign title = seminar_talk.title | replace: ',', '\,' | replace: ';', '\;' | strip_newlines -%}
+{%- assign abstract = seminar_talk.abstract | replace: ',', '\,' | replace: ';', '\;' | strip_newlines -%}
+{%- assign date = seminar_talk.date | date: "%Y%m%d" -%}
+{%- if seminar_talk.time == nil -%}
+    {%- assign start_time = 110000 -%}
+{%- else -%}
+    {%- assign start_time = seminar_talk.time | date: "%H%M%S" -%}
+{%- endif -%}
+{%- assign start_time = start_time | plus: 40000 -%}
+{%- assign end_time = start_time | plus: 10000 -%}
 BEGIN:VEVENT
-UID:{{ seminar_talk.date | date: "%Y%m%d" }}@lacim.uqam.ca
+UID:{{ date }}@lacim.uqam.ca
 ORGANIZER;CN="LACIM":MAILTO:lacim@uqam.ca
-LOCATION:Pavillon Président Kennedy (Local PK-4211)\, 201 avenue du Président Kennedy\, Montréal\, Québec\, H2X 3Y7
-SUMMARY:{{ seminar_talk.speaker | replace: ',', '\,' | replace: ';', '\;' }} ({{ seminar_talk.affiliation | replace: ',', '\,' | replace: ';', '\;' }})
-DESCRIPTION:Abstract/Résumé: {{ seminar_talk.abstract | replace: ',', '\,' | replace: ';', '\;' }}
+LOCATION:Pavillon Président Kennedy (Local PK-4323)\, 201 avenue du Président Kennedy\, Montréal\, Québec\, H2X 3Y7
+SUMMARY:{{ speaker }} ({{ affiliation }}): {{ title }}
+DESCRIPTION:Abstract/Résumé: {{ abstract }} (https://lacim.uqam.ca/fr/seminaire.html)
 CLASS:PUBLIC
-DTSTART:{{ seminar_talk.date | date: "%Y%m%d" }}T150000Z
-DTEND:{{ seminar_talk.date | date: "%Y%m%d" }}T160000Z
-DTSTAMP:{{ seminar_talk.date | date: "%Y%m%d" }}T150000Z
-END:VEVENT{% endfor %}
+DTSTART:{{ date }}T{{ start_time }}Z
+DTEND:{{ date }}T{{ end_time }}Z
+DTSTAMP:{{ date }}T{{ start_time }}Z
+END:VEVENT
+{% endfor %}
 END:VCALENDAR
