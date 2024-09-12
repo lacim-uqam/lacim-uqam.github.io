@@ -19,13 +19,15 @@
 - speaker: Alejandro Morales
   affiliation: University of Massachusetts, Amherst
   title: La saga des formules des équerres pour tableaux de formes gauches
-  date: 2023-02-17 <br> <em>à 13h</em>
+  date: 2023-02-17
+  time: 13h
   abstract: >
 
 - speaker: Laura Colmenarejo
   affiliation: North Carolina State University
   title: A Murnaghan-Nakayama rule for the quantum Schubert polynomials
-  date: 2023-02-23 <br> <em>date exceptionnelle, à 10h30</em>
+  date: 2023-02-23
+  time: 10h30
   abstract: >
 
 - speaker: Alex Weekes
@@ -61,7 +63,8 @@
 - speaker: Stephen Melczer
   affiliation: University of Waterloo
   title: Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
-  date: 2023-03-24  <br> <em>à 13h30</em>
+  date: 2023-03-24
+  time: 13h30
   abstract: >
 
 - speaker: Olya Mandelshtam
@@ -79,7 +82,8 @@
 - speaker: Alejandro Adem
   affiliation: NSERC
   title: Minimal Euler characteristics for Even-Dimensional Manifolds with Finite Fundamental Group
-  date: 2023-04-21 <br> <em>avec séminaire du CIRGET</em>
+  date: 2023-04-21
+  time: conjoint avec le CIRGET
   abstract: >
 
 - speaker: Christophe Hohlweg
@@ -229,7 +233,8 @@
 - speaker: Amarpreet Rattan
   affiliation: Simon Fraser University
   title: Star and monotone factorizations and Jucys-Murphy elements
-  date: 2024-02-02 <br> <em>à 14h</em>
+  date: 2024-02-02
+  time: 14h
   abstract: >
 
 - speaker: Moussa Abdenbi
@@ -267,3 +272,138 @@
   title: Automate des termes dérivés, sans dérivation
   date: 2024-03-22
   abstract: >
+
+- speaker: Maria Gillespie
+  affiliation: Colorado State University
+  title: Skewing formulas and a geometric interpretation for the Delta conjecture
+  date: 2024-04-05
+  abstract: >
+    We show a skewing relation holds between the symmetric functions involved
+    in the Rational Shuffle Conjecture and those of the Delta Conjecture, and
+    use it to derive a geometric interpretation for the Delta polynomials in
+    terms of the Borel-Moore homology of certain affine Springer fibers.  Our
+    geometric work simultaneously generalizes that of Hikita and
+    Borho--Macpherson from two special cases, and our algebraic proof of the
+    skewing relation relies on the new work of Blasiak, Haiman, Morse, Pun, and
+    Seelinger that resolved the "Rise" half of the Delta Conjecture.  We also
+    note some progress towards a purely combinatorial proof of the relation.
+    This is joint work with Sean Griffin and Eugene Gorsky.
+
+- speaker: Yan Lanciault
+  affiliation: UQAM
+  title: Une symétrie des mots de Christoffel
+  date: 2024-04-12
+  abstract: >
+    Dans le cadre de l’étude des mots trapézoïdaux, dont la séquence de la
+    cardinalité des facteurs est symétrique, on introduit une variance bivariée
+    qui reflète cette symétrie dans l’image commutative des facteurs,
+    caractérisant ainsi, sous certaines hypothèses, les mots de Christoffel.
+    Bien que le cas primitif soit contraint aux mots sturmiens, le cas
+    non-primitif se départie de cette hypothèse et, ce faisant, caractérise
+    parfaitement les mots de Christoffel.
+
+- speaker: Carl Mautner
+  affiliation: University of California, Riverside
+  title: Combinatorics of Hilbert Schur algebras
+  date: 2024-05-17
+  abstract: >
+    The Schur algebra is a finite dimensional algebra that connects the
+    representation theory of symmetric and general linear groups.  In joint
+    work with Tom Braden we introduce new algebra that enhances the Schur
+    algebra and provides a new window into the representation theory of
+    symmetric groups.  I will give a conceptual and a diagrammatic description
+    of this new “Hilbert Schur algebra" and discuss some of its combinatorial
+    structure.
+
+- speaker: Patricia Commins
+  affiliation: University of Minnesota
+  title: The descent algebra, the braid arrangement, and extensions to left regular bands
+  date: 2024-05-24
+  abstract: >
+    The faces of the braid arrangement form a monoid. The associated monoid
+    algebra -- the face algebra -- is well-studied, especially in relation to
+    Markov chains. In this talk, we explore the action of the symmetric group
+    on the face algebra from the perspective of invariant theory. Bidigare
+    proved the invariant subalgebra of the face algebra is (anti)isomorphic to
+    Solomon's descent algebra. We answer the more general question: what is the
+    structure of the face algebra as a simultaneous representation of the
+    symmetric group and Solomon's descent algebra? A key tool in answering this
+    question is the poset topology of the partition lattice. We will say a bit
+    about how poset topology can be applied to a more general setting: groups
+    acting on left regular band algebras.
+
+- speaker: Nicole Lemire
+  affiliation: University of Western Ontario (professeure visiteure au LACIM)
+  title: Demazure Models of Algebraic Tori
+  date: 2024-05-31
+  abstract: >
+    For a field \(k\), algebraic \(k\)-tori are algebraic \(k\)-groups which
+    become isomorphic to a split \(k\)-torus, after base change to the
+    separable closure of \(k\). The possible algebraic \(k\)-tori of dimension
+    n are classified up to isomorphism by  finite subgroups of \(GL(n,Z)\) up
+    to conjugacy and hence by integral representations of finite groups. Work
+    of Demazure, Voskresenskii and Klyachko, among others, established, in
+    principle, the existence of a smooth projective model of an algebraic
+    \(k\)-torus which was used to determine its birational properties.
+    Kunyavskii’s birational classification of algebraic \(k\)-tori in dimension
+    \(3\) involved constructions of smooth projective toric models of the
+    algebraic tori corresponding to maximal finite subgroups of \(GL(3,Z)\). We
+    discuss some explicit constructions of toric models of algebraic tori,
+    making connections with the defining integral representations of their
+    splitting groups.  The constructions determine smooth projective toric
+    models of the algebraic tori corresponding to maximal finite subgroups of
+    \(GL(4,Z)\). Since projective toric varieties are determined by lattice
+    polytopes, our constructions focus on some highly symmetric families of
+    polytopes, such as root polytopes and duals of central transportation
+    polytopes.
+
+- speaker: Louis Marin
+  affiliation: UQAM
+  title: Énumération de polyominos dans un rectangle $b$ x $h$
+  date: 2024-06-14
+  abstract: >
+    Dans cet exposé, on s'attaque à un sous-problème de l'énumeration des
+    polyominos qui est un problème étudié depuis son introduction par Goulomb.
+    On énumère les polyominos qui sont inscrits dans un rectangle d'une
+    certaine taille. Si on fixe la base $b$ et varie la hauteur, le nombre de
+    polyominos inscrits dans ces rectangles suit une récurrence linéaire.
+    L'objectif est de construire des automates qui reconnaissent ces polyominos
+    pour obtenir les séries génératrice. En adaptant des méthodes décrites dans
+    des travaux de Zeilberger et de Bousquet-Mélou et Brak, on développe une
+    construction systématique de ces automates pour chaque valeur de $b$.
+
+- speaker: Matt Satriano
+  affiliation: University of Waterloo
+  title: >
+    Beyond twisted maps: crepant resolutions of log terminal singularities and
+    a motivic McKay correspondence
+  date: 2024-06-21
+  time: à 15h
+  abstract: >
+    Crepant resolutions have inspired connections between birational geometry,
+    derived categories, representation theory, and motivic integration. In this
+    talk, we prove that every variety with log-terminal singularities admits a
+    crepant resolution by a smooth stack. We additionally prove a motivic McKay
+    correspondence for stack-theoretic resolutions. Finally, we show how our
+    work naturally leads to a generalization of twisted mapping spaces. This is
+    joint work with Jeremy Usatine.
+
+- speaker: Luis Scoccola
+  affiliation: UQAM et Université de Sherbrooke
+  title: An introduction to persistence theory
+  date: 2024-06-28
+  abstract: >
+    Persistence theory was born from the observation that the critical values
+    of a Morse function admit a canonical pairing, which induces a direct sum
+    decomposition of the sublevel set homology of the function into interval
+    poset representations. What makes persistence theory distinct from Morse
+    theory - besides the fact that it is usually framed using the language of
+    representation theory - is its focus on perturbation-stability, providing
+    answers to questions such as: How can the critical values of a Morse
+    function change when the function is perturbed? The initial motivation for
+    the study of perturbation-stability came from problems in geometric data
+    science, but has since found applications in symplectic geometry as well as
+    in complex and functional analysis. I will give an overview of the
+    representation theoretic and combinatorial aspects of persistence theory,
+    including motivation and applications.
+
