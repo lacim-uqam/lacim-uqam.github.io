@@ -4,6 +4,12 @@
   degree: étudiant au doctorat
   website: https://sites.google.com/view/antoineabram
 
+- name: Nicolas Avila
+  supervisor: Alejandro Morales
+  affiliation: UQAM
+  degree: étudiant à la maitrise
+  website:
+
 - name: Julien Dalpayrat-Glutron
   supervisor: Hugh Thomas
   affiliation: UQAM
@@ -16,11 +22,11 @@
   degree: étudiante au doctorat
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
-- name: Nicolas England
-  supervisor: Franco Saliola
-  affiliation: UQAM
-  degree: étudiant à la maîtrise
-  website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
+- name: Antoine Labelle
+  supervisor: Joel Kamnitzer
+  affiliation: McGill
+  degree: étudiant à la maitrise
+  website: https://scholar.google.com/citations?user=ILqa5O4AAAAJ&hl=en
 
 - name: Yan Lanciault
   supervisor: François Bergeron
@@ -34,6 +40,12 @@
   degree: étudiant au doctorat
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
+- name: Damien Leblanc
+  supervisor: Joel Kamnitzer
+  affiliation: McGill
+  degree: étudiant à la maitrise
+  website:
+
 - name: Alexis Leroux-Lapierre
   supervisor: Joel Kamnitzer
   affiliation: McGill
@@ -45,6 +57,12 @@
   affiliation: UQAM (Mathématiques)
   degree: étudiant à la maîtrise
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
+
+- name: Philippe Petit
+  supervisor: Hugh Thomas
+  affiliation: UQAM
+  degree: étudiant au doctorat
+  website:
 
 - name: Philip Pinard McManiman
   supervisor: Franco Saliola
