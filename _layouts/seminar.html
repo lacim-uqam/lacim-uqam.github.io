@@ -4,33 +4,86 @@
 
     {{ content }}
 
+    {% if page.lang == "en" %}
+        <h3>Upcoming seminars</h3>
+    {% elsif page.lang == "fr" %}
+        <h3>Calendrier</h3>
+    {% endif %}
+    <div class="fancy-list upcoming-seminars">
+        <ul>
+            {% assign today = site.time | date: "%s" %}
+            {% for seminar_talk in site.data.lacim-seminar reversed %}
+                {% assign seminar_date = seminar_talk.date | date: "%s" %}
+                {% if seminar_date >= today %}
+                <li>
+                    <div class="fancy-list-date">
+                        {{ seminar_talk.date }}
+                        <br> <em> {{ seminar_talk.time | default: "" }} </em>
+                    </div>
+                    <span class="fancy-list-item">
+                        {{ seminar_talk.speaker }},
+                        {{ seminar_talk.affiliation }}
+                        <br>
+                        <em>{{ seminar_talk.title }}</em>
+                        <div class="abstract">
+                        <details>
+                            <summary>
+                            {% if page.lang == "en" %}
+                                Abstract
+                            {% elsif page.lang == "fr" %}
+                                Résumé
+                            {% endif %}
+                            </summary>
+                            {{ seminar_talk.abstract }}
+                            </div>
+                        </details>
+                    </span>
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    {% assign sorted = site.data.seminaire-historique | sort:"date" %}
+    {% assign today = site.time | date: "%s" %}
+    {% for seminar_talk in site.data.lacim-seminar %}
+        {% assign seminar_date = seminar_talk.date | date: "%s" %}
+        {% if seminar_date < today %}
+            {% assign sorted = sorted | push: seminar_talk %}
+        {% endif %}
+    {% endfor %}
+
+    {% if page.lang == "en" %}
+        <h3>Previous seminars</h3>
+    {% elsif page.lang == "fr" %}
+        <h3>Séminaires précédents</h3>
+    {% endif %}
     <div class="fancy-list">
         <ul>
-            {% for seminar_talk in site.data.lacim-seminar %}
-
-            <li>
-                <div class="fancy-list-date">
-                    {{ seminar_talk.date }}
-                </div>
-                <span class="fancy-list-item">
-                    {{ seminar_talk.speaker }},
-                    {{ seminar_talk.affiliation }}
-                    <br>
-                    <em>{{ seminar_talk.title }}</em>
-                    <div class="abstract">
-                    <details>
-                        <summary>
-                        {% if page.lang == "en" %}
-                            Abstract
-                        {% elsif page.lang == "fr" %}
-                            Résumé
-                        {% endif %}
-                        </summary>
-                        {{ seminar_talk.abstract }}
-                        </div>
-                    </details>
-                </span>
-            </li>
+            {% for seminar_talk in sorted reversed %}
+                <li>
+                    <div class="fancy-list-date">
+                        {{ seminar_talk.date }}
+                    </div>
+                    <span class="fancy-list-item">
+                        {{ seminar_talk.speaker }},
+                        {{ seminar_talk.affiliation }}
+                        <br>
+                        <em>{{ seminar_talk.title }}</em>
+                        <div class="abstract">
+                        <details>
+                            <summary>
+                            {% if page.lang == "en" %}
+                                Abstract
+                            {% elsif page.lang == "fr" %}
+                                Résumé
+                            {% endif %}
+                            </summary>
+                            {{ seminar_talk.abstract }}
+                            </div>
+                        </details>
+                    </span>
+                </li>
             {% endfor %}
         </ul>
     </div>

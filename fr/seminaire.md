@@ -13,6 +13,3 @@ Président-Kennedy de l’UQAM (PK-4323).
 - [Jose Bastidas (UQAM)](https://sites.google.com/view/bastidas/)
 - [Samuele Giraudo (UQAM)](https://igm.univ-mlv.fr/~giraudo/Home.html)
 - [Christophe Reutenauer (UQAM)](https://reutenauer.math.uqam.ca/)
-
-**Calendrier**
-
