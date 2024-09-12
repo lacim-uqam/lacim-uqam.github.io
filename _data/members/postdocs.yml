@@ -31,23 +31,20 @@
     d'hyperplans; espaces de configuration; bandes régulières à gauche; marches
     aléatoires.
 
-- name: GaYee Park
-  phd_institution: University of Massachusetts Amherst
-  phd_year: 2022
-  phd_supervisor: Alejandro Morales
-  email: park.ga_yee@uqam.ca
-  website: https://sites.google.com/view/gayeepark/home
+- name: Théo Pinet
+  phd_institution: Université Paris-Cité et Université de Montréal
+  phd_year: 2024
+  phd_supervisor: David Hernandez (Université de Paris) et Yvan Saint-Aubin (Université de Montréal)
+  email: theopinet2@gmail.com
+  website: https://www.theopinet.ca/
   research_interests: >
-    Dr. Park works with tableaux and posets in connection with symmetric
-    functions and \(GL(n,q)\). She is currently studying generalized Catalan
-    combinatorics and parking functions, and combinatorial appraoches to
-    plethysm in symmetric functions.
+    Dr. Pinet's research interests include: representation theory, geometry,
+    (afffine) quantum groups, cluster algebras, diagrammatic algebras,
+    mathematical physics.
   interets_de_recherche: >
-    Les recherches de Dr. Park portent sur la combinatoire algébrique et
-    énumérative. Elle étudie les tableau et les posets et leurs applications
-    aux fonctions symétriques et \(GL(n,q)\). Elle étudie actuellement la
-    combinatoire catalane généralisée, les fonctions de stationnement, et des
-    approches combinatoires au pléthysme de fonctions symétriques.
+    Les recherches de Dr. Pinet portent sur la théorie de la représentation,
+    la géométrie, les groupes quantiques (affines), les algèbres amassées,
+    les algèbres diagrammatiques, et la physique mathématique.
 
 - name: Luis Scoccola
   phd_institution: University of Western Ontario
