@@ -1,166 +1,547 @@
+- speaker: Nick Williams
+  affiliation: Lancaster University
+  title: >
+    The higher Stasheff-Tamari orders on triangulations of cyclic polytopes
+  date: 2022-11-25
+  abstract: >
+    Cyclic polytopes are a very special family of polytopes possessing some
+    beautiful properties. In particular, the set of triangulations of a cyclic
+    polytope has a rich combinatorial structure which appears in several other
+    areas of mathematics. This set of triangulations possesses two natural
+    partial orders, which can be seen as generalisations of the Tamari lattice.
+    These are known as the first and second higher Stasheff--Tamari orders, the
+    first of which was introduced by Kapranov and Voevodsky, and the second
+    introduced by Edelman and Reiner. Edelman and Reiner conjectured these two
+    orders to coincide. In this talk we outline our proof of this conjecture.
+    This result also has ramifications for the representation theory of certain
+    finite-dimensional algebras, which we will touch on if time permits.
+
+- speaker: Theo Douvropoulos
+  affiliation: University of Massachusetts Amherst
+  title: >
+    Recursions and Proofs in Coxeter-Catalan Combinatorics
+  date: 2022-11-25
+  time: 13h30
+  abstract: >
+    The collection of parking functions under a natural Sn-action (which has
+    Catalan-many orbits) has been a central object in Algebraic Combinatorics
+    since the work of Haiman more than 30 years ago. One of the lines of
+    research spawned around it was towards defining and studying analogous
+    objects for real and complex reflection groups W; the main candidates are
+    known as the W-non-nesting and W-non-crossing parking functions.
+    
+    The W-non-nesting parking functions are relatively well understood; they
+    form the so called algebraic W-parking-space which has a concrete
+    interpretation as a quotient ring. The W-non-crossing ones on the other hand
+    have defied unified explanations while simultaneously proving themselves
+    central in the study of Coxeter and Artin groups (their geometric group
+    theory, representation theory, and combinatorics). One of the main open
+    problems in the field since the early 2000's has been to give a
+    type-independent proof of the W-isomorphism between the algebraic and the
+    non-crossing W-parking spaces. In this talk, I will present such a proof,
+    solving the more general Fuss version of the problem, that proceeds by
+    comparing a collection of recursions that are shown to be satisfied by both
+    objects. This relies on a variety of recent techniques we introduced, in
+    particular the enumeration of certain flats of full support via Crapo's beta
+    invariant, the W-Laplacian matrices for reflection arrangements and, in
+    collaboration with Matthieu Josuat-Verges, the refined f- to h-
+    transformation between the cluster complex and the non-crossing lattice of
+    W.
+    
+- speaker: Apoorva Khare
+  affiliation: Indian Institute of Science
+  title: >
+    Schur polynomials: from smooth functions to immanant identities
+  date: 2023-01-06
+  abstract: >
+    Cauchy’s determinantal identity (1840s) expands via Schur polynomials the
+  	determinant of the matrix f[uvT ], where f(t) = 1/(1 − t) is applied
+  	entrywise to the rank-one matrix (uivj ). This theme has resurfaced in the
+  	2010s in analysis (following a 1960s computation by Loewner), in the quest
+  	to find polynomials p(t) with a negative coefficient that entrywise
+  	preserve positivity. The key novelty here has been an application of Schur
+  	polynomials, which essentially arise from a determinantal identity for
+  	p[uvT].
+    
+    In the first two parts of the talk, I will explain the above journey from
+    matrix positivity to determinantal identities and Schur polynomials; then
+    go beyond, to the expansion for f[uvT ] for all power series f. (Partly
+    based on joint works with Alexander Belton, Dominique Guillot, Mihai
+    Putinar, and with Terence Tao.) In the third part, joint with Siddhartha
+    Sahi, I will explain how to extend the above determinantal identities to
+    (a) any subgroup of signed permutations;(b) any character of G, or even
+    complex class function; (c) any commutative ground ring R; and (d) any
+    power series over R.
+
+- speaker: Samuele Giraudo
+  affiliation: UQAM
+  title: >
+    Les treillis Moqueurs
+  date: 2023-01-13
+  abstract: >
+    Le fragment de la logique combinatoire engendré par le combinateur M,
+    également connu sous le nom du "Moqueur", possède une combinatoire riche.
+    Entre autres, les composantes connexes du graphe de réécriture des termes
+    sur M sont des diagrammes de Hasse de treillis. Nous présentons ce résultat
+    en réalisant ce graphe de réécriture par des forêts duplicatives, qui sont
+    des structures arborescentes particulières. Nous présentons également des
+    résultats énumératifs à propos de ces treillis, comme leur nombre
+    d'éléments et leur nombre d'intervalles.
+    
+    Cet exposé ne demande aucun prérequis en logique combinatoire : toutes les
+  	notions importantes pour le suivre seront données dans sa première partie,
+  	tout comme les questions d'informatique théorique que l'on se pose
+  	habituellement dans ce contexte. La deuxième partie est véritablement
+  	combinatoire, tandis que la dernière s'inscrit plutôt en combinatoire
+  	algébrique.
+
 - speaker: Lucien Hennecart
   affiliation: Edinburgh University
-  title: L’algèbre de Lie associée à un carquois
+  title: >
+    L’algèbre de Lie associée à un carquois
   date: 2023-01-27
   abstract: >
+    À un carquois arbitraire, on peut associer une algèbre de Kac—Moody
+    généralisée, définie par générateurs et relations. Son algèbre enveloppante
+    a une déformation naturelle, le groupe quantique. Dans cet exposé, on
+    s’intéressera à ces algèbres associatives ainsi qu’à différents ensembles
+    de générateurs de celles-ci. Les fonctions symétriques non-commutatives
+    jouent un rôle crucial pour comprendre les carquois à un seul sommet et
+    plusieurs boucles. Outre la définition de bases naturelles pour ces
+    algèbres, les constructions ont aussi une motivation géométrique que l’on
+    mentionnera.
 
 - speaker: Hadi Salmasian
   affiliation: University of Ottawa
-  title: Quantum groups, quantum Weyl algebras, and a new First Fundamental Theorem of invariant theory for $U_q(gl(n))$
+  title: >
+    Quantum groups, quantum Weyl algebras, and a new First Fundamental Theorem
+    of invariant theory for $U_q(gl(n))$
   date: 2023-02-03
   abstract: >
+    The First Fundamental Theorem (FFT) is one of the highlights of invariant
+    theory of reductive groups and goes back to the works of Schur, Weyl,
+    Brauer, etc. For the group $GL(V)$, the FFT describes generators for
+    polynomial invariants on direct sums of several copies of the standard
+    module $V$ and its dual $V*$. Then R. Howe pointed out that the FFT is
+    closely related to a double centralizer statement inside a Weyl algebra
+    (a.k.a. the algebra of polynomial-coefficient differential operators).
+    
+    In this talk we first construct a quantum Weyl algebra and then present a
+    quantum analogue of the FFT. As a special case of this FFT we obtain a
+    double centralizer statement inside our quantum Weyl algebra. We remark that
+    the FFT that we obtain is different from the one proved by G. Lehrer,
+    H. Zhang, and R.B. Zhang for $U_q(gl(n))$. Time permitting, I will explain
+    the connection between this work and the Capelli Eigen value Problem for
+    classical quantum groups. This talk is based on a joint project with Gail
+    Letzter and Siddhartha Sahi.
 
 - speaker: François Bergeron
   affiliation: UQAM
-  title: L’opérateur super-nabla
+  title: >
+    L’opérateur super-nabla
   date: 2023-02-10
   abstract: >
+    Depuis de nombreuses années, l’opérateur nabla joue un rôle important dans
+    la théorie des polynômes symétriques de Macdonald et leurs applications à de
+    nombreux domaines. Plusieurs autres familles d’opérateurs semblables ont vu
+    le jour au cours du temps. L’opérateur super-nabla unifie et clarifie
+    l’étude des propriétés de tous ces opérateurs. Nous allons expliquer
+    comment, en illustrant le tout de manière très accessible.
 
 - speaker: Alejandro Morales
   affiliation: University of Massachusetts, Amherst
-  title: La saga des formules des équerres pour tableaux de formes gauches
+  title: >
+    La saga des formules des équerres pour tableaux de formes gauches
   date: 2023-02-17
   time: 13h
   abstract: >
+    La formule classique des équerres compte le nombre de tableaux standards de
+    formes droites, mais il n’existe aucune formule de produit pour le nombre de
+    tableaux de formes gauches. Okounkov-Olshanski (1996) et Naruse (2014) ont
+    découvert des formules positives d’origine géométrique pour ce nombre de
+    tableaux. Nous discuterons de tableaux standards et de la combinatoire de
+    ces formules. Nous discuterons également des applications sur des tableaux
+    semi-standards, sur des partitions inversées, ainsi que de l’asymptotique du
+    nombre de tableaux. Si le temps nous le permet, nous discuterons enfin des
+    généralisations pour les tableaux croissants, en utilisant les polynômes de
+    Grothendieck. Il s’agit d’un travail réalisé avec Igor Pak, Greta Panova,
+    GaYee Park et Daniel Zhu.
 
 - speaker: Laura Colmenarejo
   affiliation: North Carolina State University
-  title: A Murnaghan-Nakayama rule for the quantum Schubert polynomials
+  title: >
+    A Murnaghan-Nakayama rule for the quantum Schubert polynomials
   date: 2023-02-23
   time: 10h30
   abstract: >
+    Several linear algebra problems are very interesting in the ring of
+    symmetric polynomials. One of them is understanding combinatorially how to
+    multiply polynomials from different bases and expand the resulting symmetric
+    polynomial in one of the bases. The classical Murnaghan–Nakayama rule is a
+    formula for the product of a Schur symmetric polynomial and a Newton power
+    sum. It is as fundamental as the Pieri rule, and the resulting formulas from
+    the Murnaghan-Nakayama rule are significantly more compact. The Schubert
+    polynomials are a very interesting generalization of Schur polynomials due
+    to their connection with the cohomology of the flag variety in algebraic
+    geometry. In this talk, I will present a general rule for multiplying a
+    quantum Schubert polynomial by a quantum power sum polynomial, achieved by
+    relating the structure constants to the classical case. We will review the
+    classical and quantum stories and discover the combinatorics behind each
+    version. This project is joint work with Carolina Benedetti, Nantel
+    Bergeron, Franco Saliola, and Frank Sottile.
 
 - speaker: Alex Weekes
   affiliation: University of Saskatchewan
-  title: Quivers, Kac polynomials, and Zastava spaces
+  title: >
+    Quivers, Kac polynomials, and Zastava spaces
   date: 2023-02-24
   abstract: >
+    Quivers (aka directed graphs) have many interesting ties to combinatorics,
+    algebra, and geometry. We'll begin this talk by overviewing the basics of
+    quiver representations, including Gabriel's Theorem, leading towards a
+    theorem of Kac which counts quiver representations in terms of Kac
+    polynomials. A remarkable theorem of Hua provides an explicit generating
+    function for these Kac polynomials. We'll discuss how Hua's result can be
+    interpreted interms of certain interesting algebraic varieties called
+    Zastava spaces, via recent developments in mathematical physics (the theory
+    of Coulomb branches). This talk is based on joint work with Dinakar Muthiah.
 
 - speaker: Yannic Vargas
   affiliation: Graz University of Technology
-  title: Hopf algebras, species and free probability
+  title: >
+    Hopf algebras, species and free probability
   date: 2023-03-03
   abstract: >
+    Free probability theory, introduced by Voiculescu, is a non-commutative
+    probability theory where the classical notion of independence is replaced by
+    a non-commutative analogue ("freeness"). Originally introduced in an
+    operator-algebraic context to solve problems related to von Neumann
+    algebras, several aspects of free probability are combinatorial in nature.
+    For instance, it has been shown by Speicher that the relations between
+    moments and cumulants related to non-commutative independences involve the
+    study of non-crossing partitions. More recently, the work of Ebrahimi-Fard
+    and Patras has provided a way to usethe group of characters on a Hopf
+    algebra of "words on words", and its corresponding Lie algebra of
+    infinitesimal characters, to study cumulants corresponding to different
+    types of independences (free, boolean and monotone). In this talk we will
+    give a survey of this last construction, and present an alternative
+    description using the notion of series of a species.
 
 - speaker: Lucas Gagnon
   affiliation: York University
-  title: Quasisymmetric varieties, excedances, and bases for the Temperley–Lieb algebra
+  title: >
+    Quasisymmetric varieties, excedances, and bases for the Temperley–Lieb
+    algebra
   date: 2023-03-10
   abstract: >
+    This talk is about finding a quasisymmetric variety (QSV): a subset of
+    permutations which (i) is a basis for the Temperley–Lieb algebra TL_n(2),
+    and (ii) has a vanishing ideal (as points in n-space) that behaves similarly
+    to the ideal generated by quasisymmetric polynomials. While this problem is
+    primarily motivated by classical (co-)invariant theory and generalizations
+    thereof, the course of our investigation uncovered a number of remarkable
+    combinatorial properties of our QSV, and I will survey these as well. Of
+    particular interest is a new equivalence relation on permutations defined
+    using their excedance sets. This relation has many nice properties: each
+    equivalence class is naturally indexed by a noncrossing partition and also
+    forms an interval in the (strong) Bruhat order. This allows us to define a
+    quotient Bruhat order and gives a simple method for constructing many new
+    bases of TL_n(2), generalizing known results of Williams–Gobet and Zinno.
+    Surprisingly, the combinatorics of this equivalence relation turn out to be
+    key in solving the QSV problem: collecting the maximal element of each
+    excedance class produces a QSV, and the ensuing noncrossing partition
+    combinatorics are essential to prove this fact. Based on joint work with
+    Nantel Bergeron; arXiv:2302.10814.
 
 - speaker: Thomas Haettel
   affiliation: Université de Montpellier
-  title: Groupes de Garside et groupes d'Artin
+  title: >
+    Groupes de Garside et groupes d'Artin
   date: 2023-03-17
   abstract: >
+    On présentera les groupes de Garside, qui sont des groupes ayant localement
+    une structure de treillis. Des exemples simples seront donnés en commençant
+    par les groupes de tresses et on montrera en quoi l'on peut dire que les
+    groupes de Garside sont à courbure négative. Présentation d'un travail
+    récent concernant des structures de Garside dans d'autres groupes d'Artin.
 
 - speaker: Ayah Almousa
   affiliation: University of Minnesota
-  title: Koszulity and Stirling Representations
+  title: >
+    Koszul duals and Stirling Representations
   date: 2023-03-24
   abstract: >
+    Stirling numbers of the first (resp. second) kind count permutations (resp.
+    partitions) of {1,2,...,n} with a fixed number of cycles (resp. blocks).
+    Those of the first kind also give the Hilbert function for two graded
+    algebras coming from type A reflection arrangements, or cohomology of
+    configuration spaces: the Orlik-Solmon (OS) algebra and the graded
+    Varchenko-Gelfand (VG) algebra. The representations of the symmetric group
+    on these algebras are very interesting and well-studied.
+    
+    Since type A reflection arrangements are supersolvable, their OS and VG
+    algebras have quadratic initial ideals and are Koszul algebras, as observed
+    by Peeva (for OS) and by Dorpalen-Barry (for VG). We study here their Koszul
+    dual algebras, whose Hilbert functions are given by Stirling numbers of the
+    second kind. These dual algebras also have quadratic initial ideals, with
+    pleasant standard monomial bases, and carry interesting representations of
+    the symmetric group. We give descriptions of some of these representations,
+    and branching rules, along with some intriguing conjectures.  
+    
+    This is a preliminary report on joint work with Sheila Sundaram and Vic
+    Reiner.
 
 - speaker: Stephen Melczer
   affiliation: University of Waterloo
-  title: Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
+    U
+niqueness of Biomembranes and Analytic Combinatorics in Several Variables
   date: 2023-03-24
   time: 13h30
   abstract: >
+    This talk surveys some recent advances, and software, in the field of
+    analytic combinatorics. First, we examine how rigorous numeric analytic
+    continuation of D-finite functions can be combined with a singularity
+    analysis of generating functions to automatically give asymptotics -- with
+    explicit error bounds – for P-recursive  sequences (satisfying linear
+    recurrence relations with polynomial coefficients). This work, joint with
+    Marc Mezzarobba and Ruiwen Dong, was recently used by Melczer and Mezzarobba
+    to automatically prove solution uniqueness of the genus one "Canham model"
+    predicting the shape of biomembranes like blood cells. Next, we exhibit the
+    first rigorous software for the asymptotics of multivariate sequences with
+    rational generating functions, using tools from the theory of analytic
+    combinatorics in several variables. Such multivariate tools provide a
+    promising approach to answering certain open problems about the decidability
+    of P-recursive sequences. All software and source code is freely available
+    on public repositories -- and can even be run in the browser with no
+    installation -- and many examples will be given.
 
 - speaker: Olya Mandelshtam
   affiliation: University of Waterloo
-  title: Macdonald polynomials and interacting particle systems
+  title: >
+    Macdonald polynomials and interacting particle systems
   date: 2023-03-31
   abstract: >
+    Macdonald polynomials are a family of symmetric functions that are known to
+    have remarkable connections to a well-studied particle model called the
+    asymmetric simple exclusion process (ASEP). The modified Macdonald
+    polynomials are obtained from the classical Macdonald polynomials using an
+    operation called plethysm. It is natural to ask whether the modified
+    Macdonald polynomials are related to some other particle system.
+    
+    
+    We answer this question in the affirmative with a certain multispecies
+    totally asymmetric zero-range process (TAZRP). This link motivated a new
+    tableaux formula for modified Macdonald polynomials. We present a Markov
+    process on those tableaux that projects to the TAZRP and derive formulas for
+    stationary probabilities and certain correlations, proving a remarkable
+    symmetry property. We also discuss some specializations of the tableaux
+    formulas coming from ASEP and TAZRP to obtain some classical results. This
+    talk is based on joint work with Arvind Ayyer and James Martin.
 
 - speaker: Evelyne Hubert
   affiliation: Inria Côte d'Azur France
-  title: Calcul des invariants rationnels d’une action de groupe
+  title: >
+    Calcul des invariants rationnels d’une action de groupe
   date: 2023-04-14
   abstract: >
-
+    In [Hubert Kogan JSC 2007] we proposed a general algorithm to compute a
+    generating set of rational invariants for the action of algebraic group;
+    what is more, these generators are endowed with  rewrite rules.
+    
+    The use of a section, inspired by the Fels & Olver (1999) take on moving
+    frame, is a key element to effectivity.
+    
+    The general construction gave the intuition to refined constructions for
+    specific group actions, relevant in applications and offering further
+    connections.  Such is the case of scalings [Hubert Labahn FoCM 2013], with a
+    new take on the Buckingham-Pi theorem, finite abelian groups [Hubert Labahn
+    Math. Comp. 2016], and the action of the orthogonal group on homogeneous
+    polynomials in 3D [Görlach Hubert Papadopoulo FoCM 2019] with a
+    computational take on the slices of Seshadri (1962).
+    
 - speaker: Alejandro Adem
   affiliation: NSERC
-  title: Minimal Euler characteristics for Even-Dimensional Manifolds with Finite Fundamental Group
+  title: >
+    Minimal Euler characteristics for Even-Dimensional Manifolds with Finite
+    Fundamental Group
   date: 2023-04-21
   time: conjoint avec le CIRGET
   abstract: >
+    In this talk we will discuss estimates for the minimal Euler characteristic
+    of even dimensional manifolds with a given finite fundamental group and a
+    highly connected universal cover. In particular we strengthen the
+    Hausmann-Weinberger invariants and extend them to higher dimensions. As an
+    application we obtain new restrictions for non-abelian finite groups arising
+    as fundamental groups of rational homology 4–spheres. This is joint work
+    with Ian Hambleton.
 
 - speaker: Christophe Hohlweg
   affiliation: UQAM
-  title: Arrangements de Shi dans les groupes de Coxeter
+  title: >
+    Arrangements de Shi dans les groupes de Coxeter
   date: 2023-04-28
   abstract: >
+    Dans cet exposé nous allons discuter de la généralisation des m-arrangements
+    de Shi à tout groupe de Coxeter; ici  m est un entier naturel.  En
+    particulier, nous allons expliquer pourquoi les éléments bas qui
+    apparaissent dans le contexte des ombres de Garside sont en fait les
+    éléments minimaux des régions dans un arrangements de Shi et nous allons
+    discuter le généralisation de la propriété de convexité des inverses de ces
+    éléments. La preuve fait apparaître une structure fine d’ensemble ordonné
+    sur l’ensemble des petites inversions d’un élément w de W en lien avec les
+    descentes à droite et à gauche de w.
+    
+    Cet exposé est basé sur un travail conjoint avec Dyer, Fishel et
+    Mark.
 
 - speaker: Shuo Li
   affiliation: UQAM
-  title: "On the number of distinct squares in finite words: some old and new results"
+  title: >
+    On the number of distinct squares in finite words: some old and new results
   date: 2023-05-05
   abstract: >
-
+    A square is a word of the form $uu$, where $u$ is a finite word. The problem
+    of determining the number of distinct squares in a finite word was initially
+    explored by Fraenkel and Simpson in 1998. They proved that the number of
+    distinct squares, denoted as $\Squares{w}$, in a finite word $w$ of length
+    $n$ is upper bounded by $2n$ and conjectured that $\Squares{w}$ is no larger
+    than $n$. In this talk, we review some old and new findings concerning the
+    square-counting problem and prove that
+  	$\Squares{w} \leq n-\Theta(\log_2(n))$.
+ 
 - speaker: Anne Dranowski
   affiliation: University of Southern California
-  title: Upgrading crystals
+  title: >
+    Upgrading crystals
   date: 2023-05-12
   abstract: >
+    Crystals for highest weight representations of reductive algebraic groups
+    admit many models. Some involve quantum groups, and some do not. Many
+    factors through actual vector space bases of representations which are
+    “good” or better. We recall definitions with the help of examples and
+    discuss (what is known and what is suspected as to) how such bases compare.
 
 - speaker: Benjamin Dequêne
   affiliation: UQAM
-  title: La retrouvabilité de Jordan des sous-catégories de modules d'une algèbre de type A
+  title: >
+    La retrouvabilité de Jordan des sous-catégories de modules d'une algèbre de
+    type A
   date: 2023-05-19
   abstract: >
+    Soit Q un carquois (= graphe orienté) à n sommets et K un corps
+    algébriquement clos. Fixons X un KQ-module. Rappelons qu'un KQ-module peut
+    être vu (via une équivalence de catégorie) comme une substitution de chaque
+    sommet par un K-espace vectoriel, et une substitution de chaque flèche par
+    une transformation linéaire . Avec cette traduction, un endormorphisme de X
+    peut se voir comme une collection d'endomorphismes, un pour chaque sommet. 
+    
+    Pour cet exposé, nous allons nous intéresser aux endomorphismes nilpotents
+    de X. Dans l'ensemble de tels endomorphismes, il existe un ensemble ouvert
+    dense O tel que, si M et N appartiennent à O, alors pour chaque sommet q de
+    Q, les formes de Jordan de Nq et Mq sont les mêmes. Ainsi, nous appelons la
+    forme générique de Jordan de X la collection de partages encodant les formes
+    de Jordan de Nq obtenues pour N dans O. Une sous-catégorie C de KQ-modules
+    est dite retrouvable de Jordan si nous pouvons retrouver X, à isomorphisme
+    près, dans C, connaissant sa forme générique de Jordan.
+    
+    Le but de cet exposé, qui est avant tout une initiation à la théorie de la
+    représentation de carquois, est d'introduire cette notion plus en détails en
+    exhibant son lien avec la correspondance de Robinson-Schensted-Knuth, et en
+    se restreignant à des carquois de type A. Après avoir mis en lumière les
+    difficultés que nous pouvons rencontrer pour montrer qu'une catégorie est
+    retrouvable de Jordan, je présenterai un raffinement de cette notion,
+    appelée retrouvabilité de Jordan canonique, et en donnerai une
+    caractérisation combinatoire. Enfin, si le temps le permet, j'évoquerai
+    quelques points clés d'une preuve de cette caractérisation.
+    
+    Il s'agit d'une partie de mes travaux de doctorat, encadré par Hugh Thomas.
 
 - speaker: Joel Louwsma
   affiliation: Niagara University
-  title: Arithmetical structures and their critical groups
+  title: >
+    Arithmetical structures and their critical groups
   date: 2023-05-26
   abstract: >
+    An arithmetical structure on a finite, connected graph without loops is
+    given by an assignment of positive integers to the vertices such that, at
+    each vertex, the integer there is a divisor of the sum of the integers at
+    adjacent vertices, counted with multiplicity if the graph is not simple.
+    Associated to each arithmetical structure is a finite abelian group known as
+    its critical group, which may be regarded as a generalization of the
+    sandpile group of a graph. We present results about the groups that occur as
+    critical groups of arithmetical structures on star graphs, complete graphs,
+    and trees. We also present results about how critical groups are transformed
+    under a generalized star-clique operation. These results are joint work with
+    subsets of Kassie Archer, Abigail Bishop, Alexander Diaz-Lopez, Luis Garcia
+    Puente, and Darren Glass.
 
 - speaker: Franco Saliola
   affiliation: UQAM
-  title: Bandes régulières à gauche de groupes et algèbres de Mantaci-Reutenauer
+  title: >
+    Bandes régulières à gauche de groupes et algèbres de Mantaci-Reutenauer
   date: 2023-06-02
   abstract: >
+    Dans un article de grande influence, Bidigare, Hanlon et Rockmore (1999) ont
+    établi un lien entre certaines chaines de Markov importantes et la structure
+    de monoïdes sur les faces d'un arrangement d'hyperplan. Ensuite, la théorie
+    a été étendue par Brown à une plus grande classe de monoïdes appelée Bandes
+    Régulières à Gauche (BRG).
+    
+    Cette conférence explorera une généralisation appelée Bandes Régulières à
+    Gauche de Groupes (BRGG) qui réunit agréablement les BRGs avec la théorie
+    des groupes finis. L'exemple principal sera une BRGG introduite par Hsiao
+    qui relie l'arrangement de tresses avec les algèbres introduites par
+    Mantaci-Reutenauer.
+    
+    Travail commun avec Jose Bastidas (LACIM) et Sarah Brauner (U Minnesota).
 
 - speaker: Kathlyn Dykes
   affiliation: University of Toronto
-  title: The dual fans of Demazure polytopes
+  title: >
+    The dual fans of Demazure polytopes
   date: 2023-06-09
   abstract: >
 
 - speaker: Bertrand Marchand
   affiliation: Ecole Polytechnique
-  title: Largeurs de graphes pour de l'algorithmie exacte en bio-informatique structurale des ARNs
+  title: >
+    Largeurs de graphes pour de l'algorithmie exacte en bio-informatique
+    structurale des ARNs
   date: 2023-06-16
   abstract: >
 
 - speaker: Adrien Segovia
   affiliation: UQAM
-  title: Actions libres et de parking quasi-symétrisantes
+  title: >
+    Actions libres et de parking quasi-symétrisantes
   date: 2023-06-23
   abstract: >
 
 - speaker: Herman Goulet-Ouellet
   affiliation: IRIF-Paris
-  title: Monoïdes profinis et dynamique symbolique
+  title: >
+    Monoïdes profinis et dynamique symbolique
   date: 2023-08-25
   abstract: >
 
 - speaker: Alejandro Morales
   affiliation: UQAM
-  title: Réalisation du $s$-Permutoèdre via Polytopes de Flot
+  title: >
+    Réalisation du $s$-Permutoèdre via Polytopes de Flot
   date: 2023-09-15
   abstract: >
 
 - speaker: Oliver Pechenik
   affiliation: University of Waterloo
-  title: Quasisymmetric Schubert calculus
+  title: >
+    Quasisymmetric Schubert calculus
   date: 2023-09-29
   abstract: >
 
 - speaker: François Bergeron
   affiliation: UQAM
-  title: Sous-partages et fonctions de stationnement généralisées
+  title: >
+    Sous-partages et fonctions de stationnement généralisées
   date: 2023-10-06
   abstract: >
 
@@ -172,110 +553,131 @@
 
 - speaker: Jesse Selover
   affiliation: University of Massachusetts, Amherst
-  title: On the Newton polytope and chromatic symmetric function of chromatic symmetric functions
+  title: >
+    On the Newton polytope and chromatic symmetric function of chromatic
+    symmetric functions
   date: 2023-10-20
   abstract: >
 
 - speaker: Zephyr Salvy
   affiliation: LIGM, Université Gustave Eiffel
-  title: Transition de phase des cartes planaires aléatoires pondérées par blocs
+  title: >
+    Transition de phase des cartes planaires aléatoires pondérées par blocs
   date: 2023-10-27
   abstract: >
 
 - speaker: Christian Gaetz
   affiliation: Cornell University
-  title: An SL(4) web basis from hourglass plabic graphs
+  title: >
+    An SL(4) web basis from hourglass plabic graphs
   date: 2023-11-10
   abstract: >
 
 - speaker: Ben Abendaum
   affiliation: Dartmouth College
-  title: Coloring Groups
+  title: >
+    Coloring Groups
   date: 2023-11-17
   abstract: >
 
 - speaker: Tianyi Yu
   affiliation: University of California, San Diego
-  title: Analogue of Fomin-Stanley algebra on bumpless pipedreams
+  title: >
+    Analogue of Fomin-Stanley algebra on bumpless pipedreams
   date: 2023-12-08
   abstract: >
 
 - speaker: Florent Hivert
   affiliation: Université Paris-Sud
-  title: Réalisation diagramatique du monoïde et de l'algèbre d'Okada et correspondance de Fomin du treillis de Young-Fibonacci
+  title: >
+    Réalisation diagramatique du monoïde et de l'algèbre d'Okada et
+    correspondance de Fomin du treillis de Young-Fibonacci
   date: 2023-12-15
   abstract: >
 
 - speaker: Herman Goulet-Ouellet
   affiliation: LIAFA, Paris
-  title: Densité des langages rationnels dans les espaces symboliques
+  title: >
+    Densité des langages rationnels dans les espaces symboliques
   date: 2024-01-12
   abstract: >
 
 - speaker: Philippe Nadeau
   affiliation: Institut Camille Jordan, université Lyon 1, France
-  title: Mots de Smirnov et conjectures Delta
+  title: >
+    Mots de Smirnov et conjectures Delta
   date: 2024-01-19
   abstract: >
 
 - speaker: Hugh Dennin
   affiliation: Ohio State Univiversity
-  title: Differential identities for Schubert polynomials via pipe dreams
+  title: >
+    Differential identities for Schubert polynomials via pipe dreams
   date: 2024-01-26
   abstract: >
 
 - speaker: Benjamin Dequêne
   affiliation: LACIM
-  title: Une généralisation de la correspondance RSK via la combinatoire des carquois (de type A)
+  title: >
+    Une généralisation de la correspondance RSK via la combinatoire des carquois
+    (de type A)
   date: 2024-02-02
   abstract: >
 
 - speaker: Amarpreet Rattan
   affiliation: Simon Fraser University
-  title: Star and monotone factorizations and Jucys-Murphy elements
+  title: >
+    Star and monotone factorizations and Jucys-Murphy elements
   date: 2024-02-02
   time: 14h
   abstract: >
 
 - speaker: Moussa Abdenbi
   affiliation: UQAM
-  title: Réductions de graphes et la propriété de Church-Rosser
+  title: >
+    Réductions de graphes et la propriété de Church-Rosser
   date: 2024-02-09
   abstract: >
 
 - speaker: Sarah Brauner
   affiliation: UQAM
-  title: Configuration spaces and combinatorial algebras
+  title: >
+    Configuration spaces and combinatorial algebras
   date: 2024-02-16
   abstract: >
 
 - speaker: Jonathan Leake
   affiliation: University of Waterloo
-  title: Combinatorial bounds and approximation via Lorentzian polynomials
+  title: >
+    Combinatorial bounds and approximation via Lorentzian polynomials
   date: 2024-02-23
   abstract: >
 
 - speaker: Mélodie Lapointe
   affiliation: Université de Moncton
-  title: Caractérisations des mots parfaitement amassants
+  title: >
+    Caractérisations des mots parfaitement amassants
   date: 2024-03-08
   abstract: >
 
 - speaker: Jiayuan Wang
   affiliation: Lehigh University
-  title: LLT polynomials and Hecke algebra traces
+  title: >
+    LLT polynomials and Hecke algebra traces
   date: 2024-03-15
   abstract: >
 
 - speaker: Jacques Sakarovitch
   affiliation: IRIF, CNRS/U. Paris Cité  et   LTCI, Télécom Paris, IPP
-  title: Automate des termes dérivés, sans dérivation
+  title: >
+    Automate des termes dérivés, sans dérivation
   date: 2024-03-22
   abstract: >
 
 - speaker: Maria Gillespie
   affiliation: Colorado State University
-  title: Skewing formulas and a geometric interpretation for the Delta conjecture
+  title: >
+    Skewing formulas and a geometric interpretation for the Delta conjecture
   date: 2024-04-05
   abstract: >
     We show a skewing relation holds between the symmetric functions involved
@@ -291,7 +693,8 @@
 
 - speaker: Yan Lanciault
   affiliation: UQAM
-  title: Une symétrie des mots de Christoffel
+  title: >
+    Une symétrie des mots de Christoffel
   date: 2024-04-12
   abstract: >
     Dans le cadre de l’étude des mots trapézoïdaux, dont la séquence de la
@@ -304,7 +707,8 @@
 
 - speaker: Carl Mautner
   affiliation: University of California, Riverside
-  title: Combinatorics of Hilbert Schur algebras
+  title: >
+    Combinatorics of Hilbert Schur algebras
   date: 2024-05-17
   abstract: >
     The Schur algebra is a finite dimensional algebra that connects the
@@ -317,7 +721,9 @@
 
 - speaker: Patricia Commins
   affiliation: University of Minnesota
-  title: The descent algebra, the braid arrangement, and extensions to left regular bands
+  title: >
+    The descent algebra, the braid arrangement, and extensions to left regular
+    bands
   date: 2024-05-24
   abstract: >
     The faces of the braid arrangement form a monoid. The associated monoid
@@ -334,7 +740,8 @@
 
 - speaker: Nicole Lemire
   affiliation: University of Western Ontario (professeure visiteure au LACIM)
-  title: Demazure Models of Algebraic Tori
+  title: >
+    Demazure Models of Algebraic Tori
   date: 2024-05-31
   abstract: >
     For a field \(k\), algebraic \(k\)-tori are algebraic \(k\)-groups which
@@ -359,7 +766,8 @@
 
 - speaker: Louis Marin
   affiliation: UQAM
-  title: Énumération de polyominos dans un rectangle $b$ x $h$
+  title: >
+    Énumération de polyominos dans un rectangle $b$ x $h$
   date: 2024-06-14
   abstract: >
     Dans cet exposé, on s'attaque à un sous-problème de l'énumeration des
@@ -390,7 +798,8 @@
 
 - speaker: Luis Scoccola
   affiliation: UQAM et Université de Sherbrooke
-  title: An introduction to persistence theory
+  title: >
+    An introduction to persistence theory
   date: 2024-06-28
   abstract: >
     Persistence theory was born from the observation that the critical values
@@ -406,4 +815,3 @@
     in complex and functional analysis. I will give an overview of the
     representation theoretic and combinatorial aspects of persistence theory,
     including motivation and applications.
-
