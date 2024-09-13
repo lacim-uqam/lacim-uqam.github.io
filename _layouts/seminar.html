@@ -46,7 +46,7 @@
 
     {% assign sorted = site.data.seminaire-historique | sort:"date" %}
     {% assign today = site.time | date: "%s" %}
-    {% for seminar_talk in site.data.lacim-seminar %}
+    {% for seminar_talk in site.data.lacim-seminar | sort:"date" %}
         {% assign seminar_date = seminar_talk.date | date: "%s" %}
         {% if seminar_date < today %}
             {% assign sorted = sorted | push: seminar_talk %}
