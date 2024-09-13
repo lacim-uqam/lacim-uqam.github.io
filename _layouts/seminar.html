@@ -69,6 +69,7 @@
                 <li>
                     <div class="fancy-list-date">
                         {{ seminar_talk.date }}
+                        <br> <em> {{ seminar_talk.time | default: "" }} </em>
                     </div>
                     <span class="fancy-list-item">
                         {{ seminar_talk.speaker }},
