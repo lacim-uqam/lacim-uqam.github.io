@@ -17,18 +17,39 @@
 - speaker: Elisa Sasso
   affiliation: Università di Bologna
   title: >
-    TBA
+    Diagram calculus for affine Temperley–Lieb algebra of type D
   date: 2024-09-27
   abstract: >
-    TBA
+    The Temperley--Lieb algebra is a classical mathematical object studied in
+    algebra, combinatorics, statistical mechanics and mathematical physics,
+    introduced by Temperley and Lieb in 1971.
+    
+    For any Coxeter system, it is possible to define the so-called generalized
+    Temperley—Lieb algebras as quotients of the associated Hecke algebras.
+    Moreover, beginning with the work of Kauffman and Penrose, it was shown
+    that most Temperley--Lieb algebras can be realized as diagram algebras,
+    which are associative algebras with a basis given by certain diagrams on
+    the plane.
+    
+    In this talk, I will introduce a diagrammatic representation for the
+    Temperley--Lieb algebra of type affine D, obtained using particular
+    decorated diagrams. I will also describe some of the combinatorial
+    strategies used to prove the faithfulness of this representation.
 
 - speaker: Nicolas Bousquet
   affiliation: CNRS (professeur visiteur au LACIM)
   title: >
-    TBA
+    A journey on configuration graphs
   date: 2024-09-20
   abstract: >
-    TBA
+    Configuration graphs are "meta-graphs" where vertices are solutions of a
+    problem and two solutions are linked by an edge if one can be transformed
+    into the other into a "canonical" step. These questions naturally arise in
+    many fields from discrete geometry to combinatorial optimization.
+    
+    The goal of this introductory talk is to present (some of) these problems
+    and their motivations, discuss some recent results on the topic and
+    mention some open problems in the area.
 
 - speaker: Igor Pak
   affiliation: University of California, Los Angeles
