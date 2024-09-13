@@ -34,9 +34,14 @@
                                 Résumé
                             {% endif %}
                             </summary>
-                            {{ seminar_talk.abstract }}
-                            </div>
+                            {% assign paragraphs = seminar_talk.abstract | newline_to_br | strip_newlines | split : '<br />' %}
+                            {% for paragraph in paragraphs %}
+                            <p>
+                                {{ paragraph }}
+                            </p>
+                            {% endfor %}
                         </details>
+                        </div>
                     </span>
                 </li>
                 {% endif %}
@@ -79,9 +84,14 @@
                                 Résumé
                             {% endif %}
                             </summary>
-                            {{ seminar_talk.abstract }}
-                            </div>
+                            {% assign paragraphs = seminar_talk.abstract | newline_to_br | strip_newlines | split : '<br />' %}
+                            {% for paragraph in paragraphs %}
+                            <p>
+                                {{ paragraph }}
+                            </p>
+                            {% endfor %}
                         </details>
+                        </div>
                     </span>
                 </li>
             {% endfor %}

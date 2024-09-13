@@ -19,6 +19,17 @@
     border: 3px solid $green;
 }
 
+.abstract p {
+    text-indent: 1em;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.abstract p:first-of-type {
+    text-indent: 0em;
+}
+
+
 @media #{$desktop} {
     .seminar-page {
         .fancy-list-item {
