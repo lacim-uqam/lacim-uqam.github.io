@@ -29,7 +29,7 @@
     research spawned around it was towards defining and studying analogous
     objects for real and complex reflection groups W; the main candidates are
     known as the W-non-nesting and W-non-crossing parking functions.
-    
+
     The W-non-nesting parking functions are relatively well understood; they
     form the so called algebraic W-parking-space which has a concrete
     interpretation as a quotient ring. The W-non-crossing ones on the other hand
@@ -47,7 +47,7 @@
     collaboration with Matthieu Josuat-Verges, the refined f- to h-
     transformation between the cluster complex and the non-crossing lattice of
     W.
-    
+
 - speaker: Apoorva Khare
   affiliation: Indian Institute of Science
   title: >
@@ -55,14 +55,14 @@
   date: 2023-01-06
   abstract: >
     Cauchy’s determinantal identity (1840s) expands via Schur polynomials the
-  	determinant of the matrix f[uvT ], where f(t) = 1/(1 − t) is applied
-  	entrywise to the rank-one matrix (uivj ). This theme has resurfaced in the
-  	2010s in analysis (following a 1960s computation by Loewner), in the quest
-  	to find polynomials p(t) with a negative coefficient that entrywise
-  	preserve positivity. The key novelty here has been an application of Schur
-  	polynomials, which essentially arise from a determinantal identity for
-  	p[uvT].
-    
+    determinant of the matrix f[uvT ], where f(t) = 1/(1 − t) is applied
+    entrywise to the rank-one matrix (uivj ). This theme has resurfaced in the
+    2010s in analysis (following a 1960s computation by Loewner), in the quest
+    to find polynomials p(t) with a negative coefficient that entrywise
+    preserve positivity. The key novelty here has been an application of Schur
+    polynomials, which essentially arise from a determinantal identity for
+    p[uvT].
+
     In the first two parts of the talk, I will explain the above journey from
     matrix positivity to determinantal identities and Schur polynomials; then
     go beyond, to the expansion for f[uvT ] for all power series f. (Partly
@@ -87,13 +87,13 @@
     des structures arborescentes particulières. Nous présentons également des
     résultats énumératifs à propos de ces treillis, comme leur nombre
     d'éléments et leur nombre d'intervalles.
-    
+
     Cet exposé ne demande aucun prérequis en logique combinatoire : toutes les
-  	notions importantes pour le suivre seront données dans sa première partie,
-  	tout comme les questions d'informatique théorique que l'on se pose
-  	habituellement dans ce contexte. La deuxième partie est véritablement
-  	combinatoire, tandis que la dernière s'inscrit plutôt en combinatoire
-  	algébrique.
+    notions importantes pour le suivre seront données dans sa première partie,
+    tout comme les questions d'informatique théorique que l'on se pose
+    habituellement dans ce contexte. La deuxième partie est véritablement
+    combinatoire, tandis que la dernière s'inscrit plutôt en combinatoire
+    algébrique.
 
 - speaker: Lucien Hennecart
   affiliation: Edinburgh University
@@ -125,7 +125,7 @@
     module $V$ and its dual $V*$. Then R. Howe pointed out that the FFT is
     closely related to a double centralizer statement inside a Weyl algebra
     (a.k.a. the algebra of polynomial-coefficient differential operators).
-    
+
     In this talk we first construct a quantum Weyl algebra and then present a
     quantum analogue of the FFT. As a special case of this FFT we obtain a
     double centralizer statement inside our quantum Weyl algebra. We remark that
@@ -278,7 +278,7 @@
     configuration spaces: the Orlik-Solmon (OS) algebra and the graded
     Varchenko-Gelfand (VG) algebra. The representations of the symmetric group
     on these algebras are very interesting and well-studied.
-    
+
     Since type A reflection arrangements are supersolvable, their OS and VG
     algebras have quadratic initial ideals and are Koszul algebras, as observed
     by Peeva (for OS) and by Dorpalen-Barry (for VG). We study here their Koszul
@@ -286,15 +286,14 @@
     second kind. These dual algebras also have quadratic initial ideals, with
     pleasant standard monomial bases, and carry interesting representations of
     the symmetric group. We give descriptions of some of these representations,
-    and branching rules, along with some intriguing conjectures.  
-    
+    and branching rules, along with some intriguing conjectures.
+
     This is a preliminary report on joint work with Sheila Sundaram and Vic
     Reiner.
 
 - speaker: Stephen Melczer
   affiliation: University of Waterloo
-    U
-niqueness of Biomembranes and Analytic Combinatorics in Several Variables
+  title: Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
   date: 2023-03-24
   time: 13h30
   abstract: >
@@ -327,8 +326,8 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     polynomials are obtained from the classical Macdonald polynomials using an
     operation called plethysm. It is natural to ask whether the modified
     Macdonald polynomials are related to some other particle system.
-    
-    
+
+
     We answer this question in the affirmative with a certain multispecies
     totally asymmetric zero-range process (TAZRP). This link motivated a new
     tableaux formula for modified Macdonald polynomials. We present a Markov
@@ -347,10 +346,10 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     In [Hubert Kogan JSC 2007] we proposed a general algorithm to compute a
     generating set of rational invariants for the action of algebraic group;
     what is more, these generators are endowed with  rewrite rules.
-    
+
     The use of a section, inspired by the Fels & Olver (1999) take on moving
     frame, is a key element to effectivity.
-    
+
     The general construction gave the intuition to refined constructions for
     specific group actions, relevant in applications and offering further
     connections.  Such is the case of scalings [Hubert Labahn FoCM 2013], with a
@@ -358,14 +357,14 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     Math. Comp. 2016], and the action of the orthogonal group on homogeneous
     polynomials in 3D [Görlach Hubert Papadopoulo FoCM 2019] with a
     computational take on the slices of Seshadri (1962).
-    
+
 - speaker: Alejandro Adem
   affiliation: NSERC
   title: >
     Minimal Euler characteristics for Even-Dimensional Manifolds with Finite
     Fundamental Group
   date: 2023-04-21
-  time: conjoint avec le CIRGET
+  time: 11h
   abstract: >
     In this talk we will discuss estimates for the minimal Euler characteristic
     of even dimensional manifolds with a given finite fundamental group and a
@@ -390,7 +389,7 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     éléments. La preuve fait apparaître une structure fine d’ensemble ordonné
     sur l’ensemble des petites inversions d’un élément w de W en lien avec les
     descentes à droite et à gauche de w.
-    
+
     Cet exposé est basé sur un travail conjoint avec Dyer, Fishel et
     Mark.
 
@@ -407,8 +406,8 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     $n$ is upper bounded by $2n$ and conjectured that $\Squares{w}$ is no larger
     than $n$. In this talk, we review some old and new findings concerning the
     square-counting problem and prove that
-  	$\Squares{w} \leq n-\Theta(\log_2(n))$.
- 
+    $\Squares{w} \leq n-\Theta(\log_2(n))$.
+
 - speaker: Anne Dranowski
   affiliation: University of Southern California
   title: >
@@ -433,8 +432,8 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     être vu (via une équivalence de catégorie) comme une substitution de chaque
     sommet par un K-espace vectoriel, et une substitution de chaque flèche par
     une transformation linéaire . Avec cette traduction, un endormorphisme de X
-    peut se voir comme une collection d'endomorphismes, un pour chaque sommet. 
-    
+    peut se voir comme une collection d'endomorphismes, un pour chaque sommet.
+
     Pour cet exposé, nous allons nous intéresser aux endomorphismes nilpotents
     de X. Dans l'ensemble de tels endomorphismes, il existe un ensemble ouvert
     dense O tel que, si M et N appartiennent à O, alors pour chaque sommet q de
@@ -443,7 +442,7 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     de Jordan de Nq obtenues pour N dans O. Une sous-catégorie C de KQ-modules
     est dite retrouvable de Jordan si nous pouvons retrouver X, à isomorphisme
     près, dans C, connaissant sa forme générique de Jordan.
-    
+
     Le but de cet exposé, qui est avant tout une initiation à la théorie de la
     représentation de carquois, est d'introduire cette notion plus en détails en
     exhibant son lien avec la correspondance de Robinson-Schensted-Knuth, et en
@@ -453,7 +452,7 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     appelée retrouvabilité de Jordan canonique, et en donnerai une
     caractérisation combinatoire. Enfin, si le temps le permet, j'évoquerai
     quelques points clés d'une preuve de cette caractérisation.
-    
+
     Il s'agit d'une partie de mes travaux de doctorat, encadré par Hugh Thomas.
 
 - speaker: Joel Louwsma
@@ -486,13 +485,13 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     de monoïdes sur les faces d'un arrangement d'hyperplan. Ensuite, la théorie
     a été étendue par Brown à une plus grande classe de monoïdes appelée Bandes
     Régulières à Gauche (BRG).
-    
+
     Cette conférence explorera une généralisation appelée Bandes Régulières à
     Gauche de Groupes (BRGG) qui réunit agréablement les BRGs avec la théorie
     des groupes finis. L'exemple principal sera une BRGG introduite par Hsiao
     qui relie l'arrangement de tresses avec les algèbres introduites par
     Mantaci-Reutenauer.
-    
+
     Travail commun avec Jose Bastidas (LACIM) et Sarah Brauner (U Minnesota).
 
 - speaker: Kathlyn Dykes
@@ -786,7 +785,7 @@ niqueness of Biomembranes and Analytic Combinatorics in Several Variables
     Beyond twisted maps: crepant resolutions of log terminal singularities and
     a motivic McKay correspondence
   date: 2024-06-21
-  time: à 15h
+  time: 15h
   abstract: >
     Crepant resolutions have inspired connections between birational geometry,
     derived categories, representation theory, and motivic integration. In this
