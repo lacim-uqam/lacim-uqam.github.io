@@ -293,7 +293,8 @@
 
 - speaker: Stephen Melczer
   affiliation: University of Waterloo
-  title: Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
+  title: >
+    Uniqueness of Biomembranes and Analytic Combinatorics in Several Variables
   date: 2023-03-24
   time: 13h30
   abstract: >
@@ -326,7 +327,6 @@
     polynomials are obtained from the classical Macdonald polynomials using an
     operation called plethysm. It is natural to ask whether the modified
     Macdonald polynomials are related to some other particle system.
-
 
     We answer this question in the affirmative with a certain multispecies
     totally asymmetric zero-range process (TAZRP). This link motivated a new
@@ -499,6 +499,18 @@
     The dual fans of Demazure polytopes
   date: 2023-06-09
   abstract: >
+    A Demazure polytope is the convex hull of the weight spaces of a Demazure
+    module. The dual fan of a polytope is a useful tool to study the structure
+    of a polytope. For example, the maximal cones of the fan correspond to
+    vertices, while the defining rays of the maximal cones correspond to the
+    codimension 1 hyperplanes of the polytope.
+    
+    By the work of Besson, Jeralds and Kiers, Demazure polytopes are extremal MV
+    polytopes. The dual fan of an MV polytope was proved by Kamnitzer to be a
+    coarsening of a standard fan known as the Weyl fan. Using an appropriate
+    subclass of MV polytopes called MV polytopes of highest vertex w, we will
+    discuss the problem of describing these dual fans from the coarsening of the
+    Weyl fan.
 
 - speaker: Bertrand Marchand
   affiliation: Ecole Polytechnique
@@ -507,6 +519,32 @@
     structurale des ARNs
   date: 2023-06-16
   abstract: >
+    Les molécules d'ARN consistent en des chaînes de blocs appelés nucléotides
+    (A, U, G, C), et sont surtout connues comme étant de simples intermédiaires
+    dans la synthèse des protéines (ARN messager). Pourtant, elles assurent
+    aussi une grande variété d'autres fonctions au sein des systèmes
+    biologiques, allant de la régulation de l'expression de gènes jusqu'à la
+    catalyse de réactions chimiques. Pour ces ARNs dits "fonctionnels" ou
+    "non-codants", la structure de repliement 3D adoptée est cruciale, et
+    constitue en général la caractéristique conservée par l'évolution, plutôt
+    que simplement la séquence.
+    
+    De manière peu surprenante, plusieurs problèmes computationnels impliquant
+    cette structure doivent être résolus quotidiennement par les
+    bioinformaticiens lors de l'étude de ces ARNs. On peut citer par exemple le
+    problème du repliement (quelle est la structure préférentielle d'une
+    séquence donnée ?), de la transition entre différents repliements (calcul de
+    barrières d'énergie) ou de l'alignement entre ARNs repliés. Ces problèmes
+    sont typiquement NP-difficiles, surtout lorsque l'on va vers des modèles
+    d'énergie réalistes d'un point de vue biologique.
+    
+    Cette présentation se focalisera sur des résultats récents d'application de
+    l'algorithmie paramétrée exacte à ces problèmes. Les structures d'ARNs y
+    sont typiquement modélisées en tant que graphes, et un accent particulier
+    est mis sur les approches à base de largeurs de graphes. Le problème de la
+    suppression minimale d'arêtes pour atteindre une valeur de largeur
+    arborescente (treewidth) cible [1], ou celui du calcul de version dirigée de
+    largeurs de graphes [2], seront par exemple mentionnés.
 
 - speaker: Adrien Segovia
   affiliation: UQAM
@@ -514,6 +552,25 @@
     Actions libres et de parking quasi-symétrisantes
   date: 2023-06-23
   abstract: >
+    Une algèbre de Hopf combinatoire est une bigèbre graduée qui formalise les
+    opérations d’assemblage et de désassemblage d’objets combinatoires. Nous
+    verrons différents exemples simples. Certaines de ces algèbres peuvent être
+    définies de façon équivalente comme les invariants sous une action du groupe
+    symétrique. C’est le cas par exemple de Sym, QSym, WSym, WQSym, NCSF.
+    
+    Généralisant l’action quasi-symétrisante, Hivert a obtenu en 2004 une
+    interpolation infinie d’algèbres de Hopf entre les fonctions symétriques Sym
+    et les fonctions quasi-symétriques QSym. Ce résultat a permis à Garsia et
+    Wallach en 2006 de grandement simplifier leur preuve du fait que QSym est un
+    Sym-module libre de rang fini.
+    
+    Dans cet exposé, nous définissons des nouvelles actions du groupe symétrique
+    permettant de redéfinir les algèbres de Hopf FQSym de Malvenuto-Reutenaeur
+    et PQSym sur les fonctions de parking comme invariant sous ces actions. De
+    façon analogue à Hivert, en généralisant notre action pour PQSym on obtient
+    une infinité de sous-algèbres de Hopf, que l’on est capable de caractériser.
+    L’étude des dimensions de ces algèbres permet de faire un lien avec des
+    résultats énumératifs sur des arbres décroissants.
 
 - speaker: Herman Goulet-Ouellet
   affiliation: IRIF-Paris
@@ -528,6 +585,20 @@
     Réalisation du $s$-Permutoèdre via Polytopes de Flot
   date: 2023-09-15
   abstract: >
+    Ceballos et Pons ont introduit l'ordre s-faible sur les arbres
+    s-décroissants, pour toute composition s faible. Ils ont prouvé qu'il avait
+    une structure en treillis et ont conjecturé qu'il pouvait être réalisé comme
+    le 1-squelette d'une subdivision polyédrique d'un polytope. Nous répondons à
+    leur conjecture dans le cas où s est une composition stricte en fournissant
+    trois réalisations géométriques du s-permutoèdre. La première est comme le
+    graphe dual d'une triangulation d'un polytope de flot de grande dimension.
+    La seconde, obtenue grâce à l'astuce de Cayley, est le graphe dual d'une
+    fine subdivision mixte d'une somme d'hypercubes qui a la dimension
+    conjecturée. La troisième, obtenue par géométrie tropicale, est le
+    1-squelette d'un complexe polyédrique pour lequel on peut fournir des
+    coordonnées explicites des sommets et dont le support est un permutoèdre
+    comme conjecturé.Cet exposé est basé sur un travail conjoint avec Rafael
+    González D’León, Eva Philippe, Daniel Tamayo Jiménez et Martha Yip.
 
 - speaker: Oliver Pechenik
   affiliation: University of Waterloo
@@ -535,6 +606,11 @@
     Quasisymmetric Schubert calculus
   date: 2023-09-29
   abstract: >
+    We introduce projective schemes that are analogues of the James reduced
+    product construction from homotopy theory and begin to develop a Schubert
+    calculus for such spaces. This machinery yields K-theoretic and
+    T-equivariant analogues of classic quasisymmetric function theory. Based on
+    joint works with Matt Satriano. 
 
 - speaker: François Bergeron
   affiliation: UQAM
@@ -542,12 +618,33 @@
     Sous-partages et fonctions de stationnement généralisées
   date: 2023-10-06
   abstract: >
+    Au cours des dernières décennies, les configurations de Catalan et les
+    fonctionnements de stationnement ont vu une succession de généralisations de
+    plus en plus englobantes. Cette évolution est en lien direct avec un nombre
+    grandissant d’interactions avec d’autres domaines comme: la théorie de la
+    représentation, la géométrie algébrique, la théorie des nœuds, ou la
+    physique théorique. Nous allons décrire comment on peut classer les
+    généralisations en question en termes de familles de partages. L’une des
+    plus riches de ces familles est celle de partages triangulaires. Nous allons
+    en discuter quelques propriétés, et montrer en quoi certaines questions
+    deviennent plus naturelles dans ce contexte.
 
 - speaker: William Dugan
   affiliation: University of Massachusetts, Amherst
   title: "Generalized Pitman-Stanley polytopes: vertices and faces"
   date: 2023-10-13
   abstract: >
+    The Pitman-Stanley polytope is a polytope whose integer lattice points
+    biject onto the set of plane partitions of a certain shape with entries in
+    $\{ 0 , 1 \}$. In their original paper, Pitman and Stanley further suggest a
+    generalization of their construction depending on m in N whose integer
+    lattice points biject onto the set of plane partitions of the same shape
+    having entries in  $\{ 0 , 1, \dots , m \}$. In this talk, we give further
+    details of this generalized Pitman-Stanley polytope, $PS_n^m(a)$,
+    demonstrating that it can be realized as the flow polytope of a certain
+    graph. We then use the theory of flow polytopes to describe the faces of
+    these polytopes and produce a recurrence for their f-vectors. This is joint
+    work with Maura Hegarty, Alejandro H. Morales, and Annie Raymond.
 
 - speaker: Jesse Selover
   affiliation: University of Massachusetts, Amherst
@@ -556,6 +653,16 @@
     symmetric functions
   date: 2023-10-20
   abstract: >
+    The chromatic symmetric function, introduced by Stanley, is a well-studied
+    generalization of the chromatic polynomial of a graph. Chromatic symmetric
+    functions of (3+1)-free incomparability graphs (in particular,
+    incomparability graphs of unit interval orders) are of particular interest.
+    Motivated by the Stanley-Stembridge conjecture that such chromatic functions
+    are e-positive, we show that the allowable coloring weights for such a graph
+    are the lattice points of a permutahedron, and give a formula for the
+    dominant coloring weight. We also give conjectures about convexity
+    properties of these symmetric functions, and prove that they are Lorentzian
+    in the abelian case.
 
 - speaker: Zephyr Salvy
   affiliation: LIGM, Université Gustave Eiffel
@@ -563,6 +670,30 @@
     Transition de phase des cartes planaires aléatoires pondérées par blocs
   date: 2023-10-27
   abstract: >
+    Les cartes sont de formes très variables : arbres, triangulations ou encore
+    cartes avec beaucoup plus d'arêtes. De nombreuses classes de cartes ont été
+    énumérées (cartes $2$-connexes, arbres, quadrangulations...), notamment par
+    Tutte, et un phénomène d'universalité a été démontré : pour la majorité
+    d'entre elles, le nombre d'éléments de taille $n$ dans la classe a une
+    asymptotique de la forme $\kappa \rho^{-n} n^{-5/2}$, pour un certain
+    $\kappa$ et un certain $\rho$. Néanmoins, il existe des classes de cartes
+    "dégénérées" dont le comportement est similaire à celui des arbres, et dont
+    le nombre d'éléments de taille $n$ a une asymptote de la forme $\kappa
+    \rho^{-n} n^{-3/2}$, comme par exemple les cartes “outerplanar". Cette
+    dichotomie de comportement est observée non seulement pour le dénombrement,
+    mais aussi d’un point de vue métrique. En effet, dans le cas "arbre", la
+    distance entre deux sommets aléatoires est de $\sqrt{n}$, contre $n^{1/4}$
+    pour les cartes planaires uniformes de taille $n$. Ce travail se concentre
+    sur ce qui se passe entre ces deux régimes très différents. Nous étudions un
+    modèle dépendant d'un paramètre $u>0$ qui présente les comportements
+    précédents, et une transition entre les deux : selon la position de $u$ par
+    rapport à $u_C$, le comportement est celui de l'une ou l'autre classe
+    d'universalité. Plus précisément, nous observons un régime "sous-critique"
+    où la limite d'échelle des cartes est la carte brownienne, un régime
+    "supercritique" où c'est l'arbre brownien et enfin un régime critique où
+    c'est l'arbre $3/2$-stable. Les résultats sont obtenus à l'aide d'une
+    méthode robuste, qui peut être utilisée pour étudier une variété de modèles
+    similaires.
 
 - speaker: Christian Gaetz
   affiliation: Cornell University
@@ -570,6 +701,16 @@
     An SL(4) web basis from hourglass plabic graphs
   date: 2023-11-10
   abstract: >
+    The SL(3) web basis is a special basis of certain spaces of tensor
+    invariants developed in the late 90’s by Kuperberg as a tool for computing
+    quantum link invariants. Since then this basis has found connections and
+    applications to cluster algebras, dimer models, quantum topology, and
+    tableau combinatorics. A main open problem has remained: how to find a basis
+    replicating the desirable properties of this basis for SL(4) and beyond? I
+    will describe joint work with Oliver Pechenik, Stephan Pfannerer, Jessica
+    Striker, and Josh Swanson in which we construct such a basis for SL(4).
+    Modified versions of plabic graphs and the six-vertex model and new tableau
+    combinatorics will appear along the way.
 
 - speaker: Ben Abendaum
   affiliation: Dartmouth College
@@ -577,6 +718,11 @@
     Coloring Groups
   date: 2023-11-17
   abstract: >
+    We present a generalization of the toggle group, when thought of as a proper
+    edge coloring of the Hasse diagram of the associated poset that we call the
+    coloring group. Beyond general structure results, we focus on the case where
+    the associated graph is a tree. This talk is based on joint work with
+    Jonathan Bloom and Alexander Wilson.
 
 - speaker: Tianyi Yu
   affiliation: University of California, San Diego
@@ -584,6 +730,37 @@
     Analogue of Fomin-Stanley algebra on bumpless pipedreams
   date: 2023-12-08
   abstract: >
+    Schubert polynomials are distinguished representatives of Schubert cells in
+    the cohomology of the flag variety. Pipedreams (PD) and bumpless pipedreams
+    (BPD) are two combinatorial models of Schubert polynomials. There are many
+    classical perspectives to view PDs: Fomin and Stanley represented each PD as
+    an element in the NilCoexter algebra; Lenart and Sottile converted each PD
+    into a labeled chain in the Bruhat order. In this talk, we unravel the BPD
+    analogues of both viewpoints. One application of our results is a simple
+    bijection between PDs and BPDs via Lenart’s growth diagram.
+
+- speaker: Greta Panova
+  affiliation: University of Southern California
+  title: >
+    Computational Complexity in Algebraic Combinatorics
+  date: 2023-12-08
+  time: 15h30
+  abstract: >
+    Algebraic Combinatorics studies objects and quantities originating in
+    Algebra, Representation Theory and Algebraic Geometry via combinatorial
+    methods, finding formulas and neat interpretations. Some of its feats
+    include the hook-length formula for the dimension of an irreducible
+    symmetric group (S_n) module, or the Littlewood-Richardson rule to determine
+    multiplicities of GL irreducibles in tensor products. Yet some natural
+    multiplicities elude us, among them the Kronecker coefficients for the
+    decomposition of tensor products of S_n irreducibles, and the plethysm
+    coefficients for compositions of GL modules. Answering those questions could
+    help Geometric Complexity Theory establish lower bounds for the far reaching
+    goal to show that P \neq NP. We will discuss how Computational Complexity
+    Theory provides a theoretical framework for understanding what kind of
+    formulas or rules we could actually have. We will use this to show that the
+    square of a symmetric group character could not have a combinatorial
+    interpretation. Based on joint works with Christian Ikenmeyer and Igor Pak.
 
 - speaker: Florent Hivert
   affiliation: Université Paris-Sud
@@ -592,6 +769,27 @@
     correspondance de Fomin du treillis de Young-Fibonacci
   date: 2023-12-15
   abstract: >
+    en collaboration avec Jeanne Scott
+
+    Il est bien connu que le treillis de Young peut s'interpréter comme le
+    diagramme de Bratelli des groupes symétriques, décrivant, par exemple,
+    comment les représentations irréductibles se restreignent de Sn à S_n-1. En
+    1975, Stanley a découvert un treillis similaire appelé treillis de
+    Young-Fibonacci qui a été interprété comme le diagramme de Bratelli d'une
+    famille d'algèbres par Okada en 1994.
+
+    Dans cet exposé, nous réalisons l'algèbre d'Okada et son monoïde associé
+    grâce à une version étiquetée des diagrammes d'arcs du monoïde de Jones et
+    de l'algèbre de Tempeley-Lieb. Ceux-ci nous permettent de prouver en toute
+    généralité que l'algèbre d'Okada est de dimension n! — la preuve d'Okada
+    n'étant valide que dans le cas semi-simple. En particulier, nous
+    interprétons la bijection naturelle entre les permutations et les diagrammes
+    d'arcs comme une instance de la correspondance de Robinson-Schensted-Fomin
+    associée au treillis de Young-Fibonacci. Disposant maintenant d'un moyen de
+    calculer dans les monoïdes et algèbres d'Okada, nous pouvons étudier en
+    détail leurs structures et par exemple prouver que le monoïde est
+    apériodique et décrire ses relations de Green. En relevant, ces dernières à
+    l'algèbre nous en construisant une base cellulaire.
 
 - speaker: Herman Goulet-Ouellet
   affiliation: LIAFA, Paris
@@ -599,6 +797,22 @@
     Densité des langages rationnels dans les espaces symboliques
   date: 2024-01-12
   abstract: >
+    Dans les années 80, Hansel et Perrin, poursuivant les travaux de
+    Schützenberger, se penchent sur la notion de densité naturelle des langages.
+    Dans leur étude, la densité est calculée relativement à une mesure de
+    Bernoulli, mesure définie sur le monoïde libre par morphisme. Les travaux
+    que je présenterai portent sur les densités naturelles calculées
+    relativement aux mesures ergodiques d'espaces symboliques. Dans ce contexte,
+    la densité permet de mesurer la présence (ou absence) d'une propriété
+    rationnelle à l'intérieur d'un espace symbolique donné. J'expliquerai quand
+    est comment il est possible de calculer ces densités, plus particulièrement
+    pour les langages à groupes, langages ayant pour monoïdes syntaxiques des
+    groupes finis. Sous des conditions qui dépendent à la fois de l'espace
+    symbolique, du langage et de son groupe syntaxique, la densité est réduite à
+    une formule simple. Cette réduction fait intervenir des notions de théorie
+    ergodique, de combinatoire des mots et de dynamique symbolique.En
+    collaboration avec : Valérie Berthé, Carl-Fredrik Nyberg Brodda, Dominique
+    Perrin et Karl Petersen. 
 
 - speaker: Philippe Nadeau
   affiliation: Institut Camille Jordan, université Lyon 1, France
@@ -606,6 +820,18 @@
     Mots de Smirnov et conjectures Delta
   date: 2024-01-19
   abstract: >
+    Ce travail est motivé par l'étude d'un anneau de coinvariants du groupe
+    symétrique, avec un jeu de variables commutatives et deux jeux de variables
+    anticommutatives. Sa caractéristique de Frobenius, une fonction symétrique
+    encodant le type d'isomorphisme de la représentation, est conjecturée être
+    donnée par l'expression  $SF(n,k,l)=\left.\Theta_{e_k}\Theta_{e_l}\nabla
+    e_{n-k-l}\right|_{t=0}$ pour des degrés anticommutatifs k,l.Dans cet exposé,
+    je vais décrire une expression combinatoire de cette fonction symétrique
+    $SF(n,k,l)$ en termes  de mots de Smirnov, qui sont les mots sur les entiers
+    dont les lettres consécutives sont distinctes. J'expliquerai aussi en quoi
+    ce résultat constitue un pas vers une version unifiée des "conjectures
+    Delta". C'est un travail commun avec Alessandro Iraci et Anna Vanden
+    Wyngaerd.
 
 - speaker: Hugh Dennin
   affiliation: Ohio State Univiversity
@@ -613,6 +839,15 @@
     Differential identities for Schubert polynomials via pipe dreams
   date: 2024-01-26
   abstract: >
+    Gaetz and Gao recently proved the strong Sperner property for weak order by
+    extending a rank-lowering operator N (Nabla), first introduced by Stanley,
+    to an sl(2) poset representation. This was done by explicitly constructing
+    the corresponding raising operator D (Delta). Hamaker, Pechenik, Speyer, and
+    Weigandt later showed that N (and hence D) can be realized certain
+    differential operators acting on Schubert polynomials. We outline new
+    bijective proofs of these derivative identities for Schubert polynomials
+    using the combinatorics of pipe dreams. These proofs extend to give related
+    identities for beta-Grothendieck polynomials.
 
 - speaker: Benjamin Dequêne
   affiliation: LACIM
@@ -621,6 +856,25 @@
     (de type A)
   date: 2024-02-02
   abstract: >
+    La correspondance de Robinson-Schensted-Knuth est une bijection partant des
+    matrices d’entiers naturels vers les paires de tableaux de Young
+    semi-standards. Une version généralisée donne une bijection entre des
+    remplissages d’un tableau d’une certaine forme, et les partitions planes
+    renversés de la même forme. D’un point de vue « représentation de carquois
+    », la correspondance RSK donne une bijection entre deux invariants
+    particuliers d’un module X (dans une certaine catégorie). Les entrées d’un
+    remplissage arbitraire correspondent aux multiplicités des facteurs
+    indécomposables de X, tandis que les entrées de la partition plane renversée
+    enregistrent la donnée générique de Jordan de X, un invariant introduit par
+    Alexander Garver, Rebecca Patrias et Hugh Thomas. Mon exposé a pour but de
+    présenter une version un peu plus générale de cette correspondance, en y
+    incluant une interaction avec un choix arbitraire d’une orientation d’un
+    carquois de type A, correspondant à un choix d’un élément de Coxeter dans
+    Sn. Pour cet exposé, aucune grande connaissance de la théorie des
+    représentations de carquois ne sera nécessaire. Si le temps le permet, je
+    discuterai un peu plus du résultat algébrique dont est tiré ce travail.
+    C’est une extraction combinatoire (en cours) de mes travaux de thèse,
+    encadré par Hugh Thomas.
 
 - speaker: Amarpreet Rattan
   affiliation: Simon Fraser University
@@ -629,6 +883,19 @@
   date: 2024-02-02
   time: 14h
   abstract: >
+    For fixed n, consider the symmetric group S_n on the symbols 1,…,n and the
+    set of *star* transpositions, the transpositions that contain the symbol n.
+    A *star factorization* of a permutation b in S_n of length k is the writing
+    of b as the product of k star transpositions. Goulden and Jackson (2009)
+    showed that the number of such factorizations only depends on the conjugacy
+    class of b and not on b itself, a remarkable fact given the special role the
+    symbol n plays amongst star transpositions. We supply the first fully
+    combinatorial proof of this fact that works for all lengths k, and our
+    methods connect star factorizations to monotone factorizations. Star
+    transpositions are connected to Jucys-Murphy elements, and we explain how
+    our result can give expressions for the *transitive* image of certain
+    symmetric functions evaluated at Jucys-Murphy elements. This is joint work
+    with Jesse Campion Loth (Heilbronn Institute and the University of Bristol).
 
 - speaker: Moussa Abdenbi
   affiliation: UQAM
@@ -636,6 +903,21 @@
     Réductions de graphes et la propriété de Church-Rosser
   date: 2024-02-09
   abstract: >
+    La théorie algorithmique des graphes emploie fréquemment le paradigme de
+    Diviser-pour-Régner, remplaçant un graphe donné par des graphes plus petits
+    afin de construire une solution à un problème spécifique. Pour cette
+    présentation on s’intéresse au problème des transversaux de circuits (en
+    anglais  feedback vertex set). En particulier, on explore des réductions de
+    graphes en temps polynomial, qui maintiennent certaines propriétés du
+    problème des transversaux de circuits de cardinalité minimale. On se
+    concentre sur la propriété de Church-Rosser, également appelée confluence.
+    Si la propriété de Church-Rosser est vérifiée, l’ordre d’application des
+    réductions dans une collection de réductions n’a pas d’importance et le
+    graphe résultant est unique à isomorphisme près. On propose une
+    clarification et une généralisation de certaines réductions trouvées dans la
+    littérature. Notre étude a des implications algorithmiques, car elle peut
+    conduire à la parallélisation des algorithmes et à la réduction des temps
+    d’exécution des algorithmes séquentiels.
 
 - speaker: Sarah Brauner
   affiliation: UQAM
@@ -643,6 +925,16 @@
     Configuration spaces and combinatorial algebras
   date: 2024-02-16
   abstract: >
+    In this talk, I will discuss connections between configuration spaces, an
+    important class of topological space, and combinatorial algebras arising
+    from the theory of reflection groups. In particular, I will present work
+    relating the cohomology rings of some classical configuration spaces—such as
+    the space of n ordered points in Euclidean space—with Solomon’s descent
+    algebra and the peak algebra.
+
+    The talk will be centered around two questions. First, how are these objects
+    related? Second, how can studying one inform the other? This is joint,
+    on-going work with Marcelo Aguiar and Vic Reiner.
 
 - speaker: Jonathan Leake
   affiliation: University of Waterloo
@@ -650,7 +942,20 @@
     Combinatorial bounds and approximation via Lorentzian polynomials
   date: 2024-02-23
   abstract: >
-
+    Lorentzian polynomials were developed about 5 years ago by Brändén-Huh and
+    Anari-Liu-Oveis Gharan-Vinzant to provide a unifying approach to various
+    log-concavity statements (in particular, Mason’s conjectures). A line of
+    research which has utilized this and related polynomial classes is that of
+    the polynomial capacity method, which was developed by Gurvits about 20
+    years ago to bound and approximate the permanent of a matrix (among many
+    other things). In this talk, we will describe this method and discuss a few
+    of its applications; in particular, counting/approximating bipartite perfect
+    matchings and counting/approximating lattice points of transportation and
+    flow polytopes. If time permits, we will also briefly mention the most
+    recent application to the analysis of the traveling salesperson problem.
+    Joint work with various subsets of Petter Brändén, Leonid Gurvits, Nathan
+    Klein, Alejandro Morales, and Igor Pak.
+    
 - speaker: Mélodie Lapointe
   affiliation: Université de Moncton
   title: >
@@ -664,13 +969,43 @@
     LLT polynomials and Hecke algebra traces
   date: 2024-03-15
   abstract: >
+    Unicellular LLT polynomials are closely related to the chromatic
+    quasi-symmetric functions of incomparability graphs of unit interval orders
+    via a plethystic substitution. Coefficients arising in various expansions of
+    these chromatic quasi-symmetric functions are known to be evaluations of
+    Hecke algebra traces of Kazhdan–Lusztig elements. We view coefficients of
+    the same expansions of unicellular LLT polynomials as evaluations of
+    different plethystically defined traces at Kazhdan–Lusztig basis elements,
+    and express these in terms of traditional trace bases. We also describe
+    these new traces in terms of induction and Kazhdan–Lusztig R-polynomials.
+    Based on joint work with Mark Skandera and Alejandro Morales.
 
 - speaker: Jacques Sakarovitch
-  affiliation: IRIF, CNRS/U. Paris Cité  et   LTCI, Télécom Paris, IPP
+  affiliation: IRIF, CNRS/U. Paris Cité et LTCI, Télécom Paris, IPP
   title: >
     Automate des termes dérivés, sans dérivation
   date: 2024-03-22
   abstract: >
+    Cet exposé revisite, une fois encore, le problème du calcul d'un automate
+    fini à partir d'une expression rationnelle (régulière), un sujet qui est
+    l'objet de nombreux travaux, et depuis longtemps.
+    
+    Le point de départ est ce que j'appelle l'automate des termes dérivés, connu
+    aussi comme l'automate des dérivées partielles, ou automate d'Antimirov,
+    obtenu par une modification, simple mais essentielle, due à Antimirov, de la
+    dérivation définie par Brzozowski et qui donne l'automate des 'derivatives'.
+    
+    En prenant un point de vue légèrement décalé, on présente une construction
+    de cet automate fondée sur une induction sur la profondeur de l'expression,
+    sans référence aucune à une opération de dérivation de l'expression ni au
+    quotient des langages.
+    
+    Ce changement de perspective a été motivé par la généralisation de la
+    construction aux expressions avec multiplicités, et permet d'élargir son
+    champ d'application aux expressions sur des monoïdes non libres, comme les
+    produits directs de monoïdes libres et donc aux relations rationnelles.
+
+    Travail commun avec Sylvain Lombardy (Labri, U. Bordeaux)
 
 - speaker: Maria Gillespie
   affiliation: Colorado State University
