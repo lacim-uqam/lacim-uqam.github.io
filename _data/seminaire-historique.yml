@@ -401,11 +401,11 @@
     A square is a word of the form $uu$, where $u$ is a finite word. The problem
     of determining the number of distinct squares in a finite word was initially
     explored by Fraenkel and Simpson in 1998. They proved that the number of
-    distinct squares, denoted as $\Squares{w}$, in a finite word $w$ of length
-    $n$ is upper bounded by $2n$ and conjectured that $\Squares{w}$ is no larger
+    distinct squares, denoted as $\mathrm{Sq}(w)$, in a finite word $w$ of length
+    $n$ is upper bounded by $2n$ and conjectured that $\mathrm{Sq}(w)$ is no larger
     than $n$. In this talk, we review some old and new findings concerning the
     square-counting problem and prove that
-    $\Squares{w} \leq n-\Theta(\log_2(n))$.
+    $\mathrm{Sq}(w) \leq n-\Theta(\log_2(n))$.
 
 - speaker: Anne Dranowski
   affiliation: University of Southern California
@@ -504,7 +504,7 @@
     of a polytope. For example, the maximal cones of the fan correspond to
     vertices, while the defining rays of the maximal cones correspond to the
     codimension 1 hyperplanes of the polytope.
-    
+
     By the work of Besson, Jeralds and Kiers, Demazure polytopes are extremal MV
     polytopes. The dual fan of an MV polytope was proved by Kamnitzer to be a
     coarsening of a standard fan known as the Weyl fan. Using an appropriate
@@ -528,7 +528,7 @@
     "non-codants", la structure de repliement 3D adoptée est cruciale, et
     constitue en général la caractéristique conservée par l'évolution, plutôt
     que simplement la séquence.
-    
+
     De manière peu surprenante, plusieurs problèmes computationnels impliquant
     cette structure doivent être résolus quotidiennement par les
     bioinformaticiens lors de l'étude de ces ARNs. On peut citer par exemple le
@@ -537,7 +537,7 @@
     barrières d'énergie) ou de l'alignement entre ARNs repliés. Ces problèmes
     sont typiquement NP-difficiles, surtout lorsque l'on va vers des modèles
     d'énergie réalistes d'un point de vue biologique.
-    
+
     Cette présentation se focalisera sur des résultats récents d'application de
     l'algorithmie paramétrée exacte à ces problèmes. Les structures d'ARNs y
     sont typiquement modélisées en tant que graphes, et un accent particulier
@@ -557,13 +557,13 @@
     verrons différents exemples simples. Certaines de ces algèbres peuvent être
     définies de façon équivalente comme les invariants sous une action du groupe
     symétrique. C’est le cas par exemple de Sym, QSym, WSym, WQSym, NCSF.
-    
+
     Généralisant l’action quasi-symétrisante, Hivert a obtenu en 2004 une
     interpolation infinie d’algèbres de Hopf entre les fonctions symétriques Sym
     et les fonctions quasi-symétriques QSym. Ce résultat a permis à Garsia et
     Wallach en 2006 de grandement simplifier leur preuve du fait que QSym est un
     Sym-module libre de rang fini.
-    
+
     Dans cet exposé, nous définissons des nouvelles actions du groupe symétrique
     permettant de redéfinir les algèbres de Hopf FQSym de Malvenuto-Reutenaeur
     et PQSym sur les fonctions de parking comme invariant sous ces actions. De
@@ -610,7 +610,7 @@
     product construction from homotopy theory and begin to develop a Schubert
     calculus for such spaces. This machinery yields K-theoretic and
     T-equivariant analogues of classic quasisymmetric function theory. Based on
-    joint works with Matt Satriano. 
+    joint works with Matt Satriano.
 
 - speaker: François Bergeron
   affiliation: UQAM
@@ -812,7 +812,7 @@
     une formule simple. Cette réduction fait intervenir des notions de théorie
     ergodique, de combinatoire des mots et de dynamique symbolique.En
     collaboration avec : Valérie Berthé, Carl-Fredrik Nyberg Brodda, Dominique
-    Perrin et Karl Petersen. 
+    Perrin et Karl Petersen.
 
 - speaker: Philippe Nadeau
   affiliation: Institut Camille Jordan, université Lyon 1, France
@@ -955,7 +955,7 @@
     recent application to the analysis of the traveling salesperson problem.
     Joint work with various subsets of Petter Brändén, Leonid Gurvits, Nathan
     Klein, Alejandro Morales, and Igor Pak.
-    
+
 - speaker: Mélodie Lapointe
   affiliation: Université de Moncton
   title: >
@@ -989,17 +989,17 @@
     Cet exposé revisite, une fois encore, le problème du calcul d'un automate
     fini à partir d'une expression rationnelle (régulière), un sujet qui est
     l'objet de nombreux travaux, et depuis longtemps.
-    
+
     Le point de départ est ce que j'appelle l'automate des termes dérivés, connu
     aussi comme l'automate des dérivées partielles, ou automate d'Antimirov,
     obtenu par une modification, simple mais essentielle, due à Antimirov, de la
     dérivation définie par Brzozowski et qui donne l'automate des 'derivatives'.
-    
+
     En prenant un point de vue légèrement décalé, on présente une construction
     de cet automate fondée sur une induction sur la profondeur de l'expression,
     sans référence aucune à une opération de dérivation de l'expression ni au
     quotient des langages.
-    
+
     Ce changement de perspective a été motivé par la généralisation de la
     construction aux expressions avec multiplicités, et permet d'élargir son
     champ d'application aux expressions sur des monoïdes non libres, comme les
