@@ -19,7 +19,7 @@ METHOD:PUBLISH
 {%- assign start_time = start_time | plus: 40000 -%}
 {%- assign end_time = start_time | plus: 10000 -%}
 BEGIN:VEVENT
-UID:{{ date }}@lacim.uqam.ca
+UID:{{ date }}-{{ "now" | date: "%s" }}@lacim.uqam.ca
 ORGANIZER;CN="LACIM":MAILTO:lacim@uqam.ca
 LOCATION:Pavillon Président Kennedy (Local PK-4323)\, 201 avenue du Président Kennedy\, Montréal\, Québec\, H2X 3Y7
 SUMMARY:{{ speaker }} ({{ affiliation }}): {{ title }}
