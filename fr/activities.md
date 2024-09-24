@@ -11,6 +11,16 @@ chaque semaine de septembre à juin (et parfois l’été) les vendredi de 11h
 à midi au Pavillon Président-Kennedy de l’UQAM (PK-4323).
 [Consultez le site web du séminaire du LACIM](seminaire.html).
 
+## Séminaire de géométrie algébrique
+
+Le
+[Séminaire de géométrie algébrique](https://cirget.uqam.ca/fr/seminaires.html#sminaire-de-gomtrie-algbrique---organis-par-brent-pym-jake-levinson-steven-lu-et-joel-kamnitzer)
+est organisé conjointment entre le
+[LACIM](https://lacim.uqam.ca)
+et le
+[CIRGET](https://cirget.uqam.ca).
+Il a lieu généralement un mercredi sur deux, à 15h dans la salle PK-5675.
+
 ## Café du LACIM
 
 Le **Café du LACIM** a lieu tous les mercredi de 15h30 à 17h au PK-4210 de début

@@ -12,6 +12,12 @@ takes place every Friday at 11h from September to June (and sometimes during the
 in room PK-4323 of UQAM's Président-Kennedy Building.
 [Click here to consult the LACIM Seminar website](seminar.html).
 
+## Algebraic Geometry Seminar
+
+The [CIRGET/LACIM Algebraic Geometric Seminar](https://cirget.uqam.ca/en/seminars.html#algebraic-geometry-seminar---organized-by-brent-pym-jake-levinson-steven-lu-and-joel-kamnitzer) is jointly organized by members of [LACIM](https://lacim.uqam.ca)
+and [CIRGET](https://cirget.uqam.ca).
+It meets roughly every other Wednesday at 3pm in PK-5675.
+
 ## Café du LACIM
 
 The **Café du LACIM** takes place every Wednesday at 3:30pm in PK-4210,

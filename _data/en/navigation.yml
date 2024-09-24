@@ -30,6 +30,8 @@
   submenuitems:
     - heading: LACIM Seminar
       link: seminar.html
+    - heading: Algebraic Geometry Seminar
+      link: activities.html#
     - heading: Café du LACIM
       link: activities.html#café-du-lacim
     - heading: Conferences

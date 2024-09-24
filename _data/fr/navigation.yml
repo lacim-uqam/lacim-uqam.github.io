@@ -30,6 +30,8 @@
   submenuitems:
     - heading: Séminaire du LACIM
       link: seminaire.html
+    - heading: Séminaire du géométrie algébrique
+      link: activities.html#séminaire-de-géométrie-algébrique
     - heading: Café du LACIM
       link: activities.html#café-du-lacim
     - heading: Conférences
