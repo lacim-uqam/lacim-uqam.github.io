@@ -17,10 +17,24 @@
 - speaker: Grant Barkley
   affiliation: Harvard University
   title: >
-    TBA
+    Beyond weak order on the affine symmetric group
   date: 2024-10-04
   abstract: >
-    TBA
+    We will generalize many facts about the weak order on a finite Coxeter group
+    to the _extended weak order_ on an affine Weyl group. Whereas the weak order
+    is the poset of regions in the Coxeter arrangement, the extended weak order
+    is the poset of _quasiregions_.  Quasiregions include regions, but for
+    infinite Coxeter group they also include more exotic objects (equivalent to
+    _biclosed sets_ of positive roots). 
+    
+    For instance, in type $\widetilde{A}$, quasiregions are equivalent to
+    translation-invariant total orderings of the integers (TITOs). In type
+    $\widetilde{A}$, the extended weak order is a lattice, while the weak order
+    is not. We show that, in this case, the extended weak order is a lattice
+    quotient of the lattice of torsion classes for a type $\widetilde{A}$
+    preprojective algebra. We also introduce the affine Tamari lattice, which is
+    the poset of $312$-avoiding TITOs, and show how it describes a cluster
+    algebra for the oriented cycle quiver. 
 
 - speaker: Elisa Sasso
   affiliation: Università di Bologna
