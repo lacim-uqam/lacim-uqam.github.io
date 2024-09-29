@@ -9,7 +9,7 @@ METHOD:PUBLISH
 {%- assign speaker = seminar_talk.speaker | replace: ',', '\,' | replace: ';', '\;' -%}
 {%- assign affiliation = seminar_talk.affiliation | replace: ',', '\,' | replace: ';', '\;' -%}
 {%- assign title = seminar_talk.title | replace: ',', '\,' | replace: ';', '\;' | strip_newlines -%}
-{%- assign abstract = seminar_talk.abstract | replace: ',', '\,' | replace: ';', '\;' | strip_newlines -%}
+{%- assign abstract = seminar_talk.abstract | replace: ',', '\,' | replace: ';', '\;' | newline_to_br | strip_newlines | markdownify -%}
 {%- assign date = seminar_talk.date | date: "%Y%m%d" -%}
 {%- if seminar_talk.time == nil -%}
     {%- assign start_time = 110000 -%}
