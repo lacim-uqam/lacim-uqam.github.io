@@ -37,7 +37,7 @@
                             {% assign paragraphs = seminar_talk.abstract | newline_to_br | strip_newlines | split : '<br />' %}
                             {% for paragraph in paragraphs %}
                             <p>
-                                {{ paragraph }}
+                                {{ paragraph | markdownify }}
                             </p>
                             {% endfor %}
                         </details>
