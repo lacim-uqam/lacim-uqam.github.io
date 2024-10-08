@@ -1,3 +1,11 @@
+- speaker: Jeronimo Valencia
+  affiliation: Waterloo University
+  title: >
+    TBA
+  date: 2024-11-15
+  abstract: >
+    TBA
+
 - speaker: Colin Defant
   affiliation: Harvard University
   title: >
@@ -9,10 +17,23 @@
 - speaker: Sarah Brauner
   affiliation: UQAM et Brown University
   title: >
-    TBA
+    Spectrum of random-to-random shuffling in the Hecke algebra
   date: 2024-10-11
   abstract: >
-    TBA
+    The eigenvalues of a Markov chain determine its mixing time. In this talk, I
+    will describe a Markov chain on the symmetric group called random-to-random
+    shuffling whose eigenvalues have surprisingly elegant—though
+    mysterious—formulas. In particular, these eigenvalues were shown to be
+    non-negative integers by Dieker and Saliola in 2017, resolving an almost 20
+    year conjecture.
+
+    In recent work with Ilani Axelrod-Freed, Judy Chiang, Patricia Commins and
+    Veronica Lang, we generalize random-to-random shuffling to a Markov chain on
+    the Type A Iwahori Hecke algebra, and prove combinatorial expressions for
+    its eigenvalues as a polynomial in q with non-negative integer coefficients.
+    Our methods simplify the existing proof for q=1 by drawing novel connections
+    between random-to-random shuffling and the Jucys-Murphy elements of the
+    Hecke algebra.
 
 - speaker: Grant Barkley
   affiliation: Harvard University
