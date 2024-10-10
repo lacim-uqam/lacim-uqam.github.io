@@ -1,3 +1,302 @@
+- speaker: Guillaume Laplante-Anfossi
+  affiliation: Université Sorbonne Paris Nord
+  title: >
+    TBA
+  date: 2021-09-10
+  abstract: >
+    TBA
+
+- speaker: Eric Hanson
+  affiliation: UQAM
+  title: >
+    Decomposition and invariants of persistence modules
+  date: 2021-09-24
+  abstract: >
+    TBA
+
+- speaker: Shuo Li
+  affiliation: UQAM
+  title: >
+    Arithmetic and analytical properties of morphic sequences: Dirichlet series,
+    infinite products and beyond
+  date: 2021-10-01
+  abstract: >
+    TBA
+
+- speaker: Steven Karp
+  affiliation: UQAM
+  title: >
+    Wronskians, total positivity, and real Schubert calculus
+  date: 2021-10-08
+  abstract: >
+    TBA
+
+- speaker: Jose Bastidas
+  affiliation: UQAM
+  title: >
+    Type B Hopf monoids in (hyperoctahedral) species
+  date: 2021-10-15
+  abstract: >
+    TBA
+
+- speaker: Vladimir Reinharz
+  affiliation: UQAM
+  title: >
+    Graphs for detecting the conservation of structural long-range modules in
+    RNAs
+  date: 2021-10-22
+  abstract: >
+    TBA
+
+- speaker: Alessandro Iraci
+  affiliation: UQAM
+  title: >
+    Tiered trees, Theta operators, Delta conjectures
+  date: 2021-11-05
+  abstract: >
+    TBA
+
+- speaker: Jean-Philippe Labbé
+  affiliation: ETS Montréal
+  title: >
+    TBA
+  date: 2021-11-12
+  abstract: >
+    TBA
+
+- speaker: Viviane Pons
+  affiliation: LISN, Université Paris-Saclay
+  title: >
+    Le tri permutarbre
+  date: 2021-11-19
+  abstract: >
+    TBA
+
+- speaker: Christophe Hohlweg
+  affiliation: UQAM
+  title: >
+    TBA
+  date: 2021-11-26
+  abstract: >
+    TBA
+
+- speaker: Florent Avellaneda
+  affiliation: UQAM
+  title: >
+    Modélisation des protocoles de communication par des réseaux de Petri avec
+    états
+  date: 2021-12-03
+  abstract: >
+    TBA
+
+- speaker: Nantel Bergeron
+  affiliation: York University
+  title: >
+    QSym, AntiQSym, SuperQSym et les quotients associés
+  date: 2021-12-10
+  abstract: >
+    TBA
+
+- speaker: Pierre Popoli
+  affiliation: Université de Lorraine
+  title: >
+    Complexité d'ordre maximal pour certaines suites automatiques et morphiques
+    le long de sous-suites polynômiales
+  date: 2022-02-25
+  abstract: >
+    TBA
+
+- speaker: Camille Coti
+  affiliation: UQAM
+  title: >
+    De la tolérance aux pannes dans les calculs matriciels
+  date: 2022-03-11
+  abstract: >
+    Nouvelle arrivée à l'UQAM et au LACIM, je me présenterai en vous parlant
+    d'un travail récent fait avec un doctorant de l'Université Sorbonne Paris
+    Nord, Daniel Torres, et Laure Petrucci avec qui j'ai coencadré Daniel. Les
+    systèmes de calcul à hautes performances actuels sont rapides, mais le
+    déséquilibre entre les coûts de communications et de calculs s'accentue de
+    plus en plus en faveur des coûts de communications. Par conséquent, une
+    classe d'algorithmes dits à évitement de communications permet de minimiser
+    les communications, au prix de calculs en plus. Ces calculs additionnels
+    introduisent des propriétés algorithmiques et algébriques que nous avons
+    proposé d'exploiter pour introduire de la tolérance aux pannes sans
+    modifications importantes dans le chemin critique du calcul. Je présenterai
+    ces algorithmes, la façon dont nous avons vérifié leur robustesse, et les
+    coûts associés sur les performances.
+
+- speaker: Gabriel Frieden
+  affiliation: UQAM
+  title: >
+    Crystal invariant theory
+  date: 2022-03-18
+  abstract: >
+    Many classical constructions with semistandard Young tableaux can be
+    described by formulas consisting of the operations of addition, subtraction,
+    and taking the minimum of several numbers. By de-tropicalizing these
+    formulas—that is, by replacing the operations min,+,- with addition,
+    multiplication, and division—one obtains subtraction-free rational maps with
+    remarkable properties. 
+
+    In this talk, we consider de-tropicalizations of several families of
+    combinatorial maps connected to the representation theory of GL_n, namely,
+    crystal operators and combinatorial R-matrices. We study the invariants of
+    various subsets of these maps, and describe (conjectural) generating sets in
+    each case. We view these invariants as crystal-theoretic analogues of the
+    invariants of various combinations of SL_m, SL_n, S_m, and S_n acting on a
+    polynomial ring in an m times n matrix of variables. 
+
+    This is based on joint work with Ben Brubaker, Pavlo Pylyavskyy, and Travis
+    Scrimshaw. 
+
+- speaker: Mathieu Guay-Paquet
+  affiliation: LACIM
+  title: >
+    Des différences pour les variétés de Hessenberg
+  date: 2022-04-08
+  abstract: >
+    Les polynômes de Schubert forment une base pour la cohomologie des variétés
+    de drapeaux, et ils peuvent être définis récursivement grâce aux opérateurs
+    de différence divisée.
+
+    Dans cet exposé, nous généralisons les opérateurs de différence divisée au
+    contexte de la cohomologie des variétés de Hessenberg (une famille de
+    sous-variétés de drapeaux dénombrée par les nombres de Catalan). Grâce à
+    cette généralisation, nous pouvons décomposer certaines représentations du
+    groupe symétrique de façon à « catégorifier » la relation modulaire entre
+    les fonctions chromatiques quasi-symétriques.
+
+- speaker: Yeeka Yau
+  affiliation: University of Sydney
+  title: >
+    Cone types, Automata and Regular Partitions of Coxeter Groups
+  date: 2022-04-29
+  abstract: >
+    Coxeter groups were famously proven to be automatic by Brink and Howlett in
+    1993 and the automaticity of these groups has been an area of continued
+    interest since. In this talk, we give a brief history and summary of recent
+    developments in this area, and we introduce the theory of regular partitions
+    of Coxeter groups. We show that regular partitions are essentially
+    equivalent to the class of automata (not necessarily finite state)
+    recognising the language of reduced words in the Coxeter group and explain
+    how it gives a fundamentally free construction of automata. As a further
+    application, we prove that each cone type in a Coxeter group has a unique
+    minimal length representative. This result can be seen as an analogue of
+    Shi’s classical result that each component of the Shi arrangement of an
+    affine Coxeter group has a unique minimal length element. (Joint work with
+    James Parkinson)
+
+- speaker: Florence Maas-Gariépy
+  affiliation: UQAM
+  title: >
+    Comprendre les pléthysmes du carré de fonctions symétriques homogènes à
+    l'aide d'un produit de tableaux
+  date: 2022-05-06
+  abstract: >
+    TBA
+
+- speaker: Sarah Brauner
+  affiliation: University of Minnesota
+  title: >
+    A Type B analog of the Whitehouse representations
+  date: 2022-05-13
+  abstract: >
+    TBA
+
+- speaker: Romero Marino
+  affiliation: University of Pensylvania
+  title: >
+    Delta and theta operator expansions in the theory of Macdonald polynomials
+  date: 2022-06-03
+  abstract: >
+    TBA
+
+- speaker: Baptiste Louf
+  affiliation: CRM, McGill, UQAM
+  title: >
+    Surfaces discrètes et combinatoire algébrique
+  date: 2022-09-30
+  abstract: >
+    TBA
+
+- speaker: Jose Bastidas
+  affiliation: UQAM
+  title: >
+    The primitive Eulerian polynomial
+  date: 2022-10-07
+  abstract: >
+    We introduce the Primitive Eulerian polynomial $P_\mathcal{A}(z)$ of a
+    central hyperplane Arrangement $\mathcal{A}$. It is a reparametrization of
+    the cocharacteristic polynomial of the arrangement. Previous work (2021)
+    implicitly showed that this polynomial has nonnegative coefficients in the
+    simplicial case. If $\mathcal{A}$ is the arrangement corresponding to a
+    Coxeter group $W$ of type A or B, then $P_\mathcal{A}(z)$ is the generating
+    function for the (flag) excedance statistic on a particular subset of $W$.
+    No interpretation was found for reflection arrangements of type D.
+
+    We present an alternative geometric and combinatorial interpretation for the
+    coefficients of $P_\mathcal{A}(z)$ for all simplicial arrangements
+    $\mathcal{A}$. For reflection arrangements of types A, B, and D, we find
+    recursive formulas that mirror those for the Eulerian polynomial of the
+    corresponding type. We also present real-rootedness results and conjectures
+    for $P_\mathcal{A}(z)$. This is joint work with Christophe Hohlweg and
+    Franco Saliola.
+
+- speaker: Philippe Nadeau
+  affiliation: Institut Camille Jordan, Université Claude Bernard, Lyon
+  title: >
+    Une réponse combinatoire à un problème d'intersection de variétés
+  date: 2022-10-14
+  abstract: >
+    TBA
+
+- speaker: Colin Defant
+  affiliation: MIT
+  title: >
+    Pop, Crackle, Snap (and Pow): Some facets of shards
+  date: 2022-10-21
+  abstract: >
+    TBA
+
+- speaker: Richard Ehrenborg
+  affiliation: University of Kentucky
+  title: >
+    Sharing Pizza in $n$ Dimensions
+  date: 2022-10-28
+  abstract: >
+    We introduce and prove the n-dimensional Pizza Theorem. Let H be a real
+    n-dimensional hyperplane arrangement. If K is a convex set of finite volume,
+    the pizza quantity of K is the alternating sum of the volumes of the regions
+    obtained by intersecting K with the arrangement H. We prove that if H is a
+    Coxeter arrangement different from $A_1^n$ such that the group of isometries
+    W generated by the reflections in the hyperplanes of H contains the negative
+    of the identity map, and if K is a translate of a convex set that is stable
+    under W and contains the origin, then the pizza quantity of K is equal to
+    zero. Our main tool is an induction formula for the pizza quantity involving
+    a subarrangement of the restricted arrangement on hyperplanes of H that we
+    call the even restricted arrangement. We get stronger results in the case of
+    balls. We prove that the pizza quantity of a ball containing the origin
+    vanishes for a Coxeter arrangement H with |H|-n an even positive integer.
+
+    This is joint work with Sophie Morel and Margaret Readdy.
+    
+- speaker: Hugh Thomas
+  affiliation: UQAM
+  title: >
+    Partitions non croisées et partitions non imbriquées
+  date: 2022-11-04
+  abstract: >
+    TBA
+
+- speaker: Colleen Robichaux
+  affiliation: UCLA
+  title: >
+    Degrees of Grothendieck polynomials and Castelnuovo-Mumford regularity
+  date: 2022-11-11
+  abstract: >
+    TBA
+
 - speaker: Nick Williams
   affiliation: Lancaster University
   title: >
