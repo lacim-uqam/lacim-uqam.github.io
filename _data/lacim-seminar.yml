@@ -1,3 +1,19 @@
+- speaker: Alexis Leroux-Lapierre
+  affiliation: McGill University
+  title: >
+    TBA
+  date: 2024-12-06
+  abstract: >
+    TBA
+
+- speaker: Leo Jiang
+  affiliation: University of Toronto
+  title: >
+    TBA
+  date: 2024-11-29
+  abstract: >
+    TBA
+
 - speaker: Lucas Gagnon
   affiliation: York University
   title: >
@@ -33,10 +49,22 @@
 - speaker: Colin Defant
   affiliation: Harvard University
   title: >
-    TBA
+    Random Combinatorial Billiards
   date: 2024-10-25
   abstract: >
-    TBA
+    Combinatorial billiards is a new topic that concerns rigid and discretized
+    billiard systems that can be modeled combinatorially or algebraically. I
+    will introduce a random combinatorial billiard trajectory depending on some
+    fixed probability p; when p tends to 0, it essentially recovers Thomas Lam's
+    reduced random walk. This random billiard trajectory can also be interpreted
+    as a random growth process on core partitions. The analysis of the random
+    billiard trajectory relies on new finite Markov chains called stoned
+    exclusion processes, which are variants of certain interacting particle
+    systems. These processes have remarkable stationary distributions determined
+    by well-studied polynomials such as ASEP polynomials, inhomogeneous TASEP
+    polynomials, and open boundary ASEP polynomials; in many cases, it was
+    previously not known how to construct Markov chains with these stationary
+    distributions.
 
 - speaker: Sarah Brauner
   affiliation: UQAM et Brown University
