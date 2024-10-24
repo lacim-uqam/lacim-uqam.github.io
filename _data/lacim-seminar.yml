@@ -41,10 +41,19 @@
 - speaker: Marcelo Aguiar
   affiliation: Cornell University
   title: >
-    TBA
+    Descents for cones of a real hyperplane arrangement
   date: 2024-11-01
   abstract: >
-    TBA
+    Reading a permutation from left to right and recording the positions where
+    the values decrease yields the descent set of the permutation. More
+    generally, descents may be attached to elements of a finite Coxeter group.
+    In this talk we will discuss a different extension of the notion of
+    descents, to the setting of real hyperplane arrangements. The notion on
+    which this is based is the Tits product, an operation that exists on the set
+    of faces of such an arrangement. The talk will center around this
+    fundamental notion and include a discussion of faces, cones, and descents,
+    together with lots of illustrations. No previous familiarity with hyperplane
+    arrangements will be assumed.
 
 - speaker: Colin Defant
   affiliation: Harvard University
