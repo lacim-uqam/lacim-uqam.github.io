@@ -11,9 +11,9 @@
     {% endif %}
     <div class="fancy-list upcoming-seminars">
         <ul>
-            {% assign today = site.time | date: "%s" %}
+            {% assign today = site.time | date: "%s" | minus: 86400 %}
             {% for seminar_talk in site.data.lacim-seminar reversed %}
-                {% assign seminar_date = seminar_talk.date | date: "%s" %}
+                {% assign seminar_date = seminar_talk.date | date: "%s" | plus: 0 %}
                 {% if seminar_date >= today %}
                 <li>
                     <div class="fancy-list-date">
@@ -50,9 +50,9 @@
     </div>
 
     {% assign sorted = site.data.seminaire-historique | sort:"date" %}
-    {% assign today = site.time | date: "%s" %}
+    {% assign today = site.time | date: "%s" | minus: 86400 %}
     {% for seminar_talk in site.data.lacim-seminar reversed %}
-        {% assign seminar_date = seminar_talk.date | date: "%s" %}
+        {% assign seminar_date = seminar_talk.date | date: "%s" | plus: 0 %}
         {% if seminar_date < today %}
             {% assign sorted = sorted | push: seminar_talk %}
         {% endif %}
