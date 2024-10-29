@@ -25,18 +25,37 @@
 - speaker: Jeronimo Valencia
   affiliation: Waterloo University
   title: >
-    TBA
+        A combinatorial proof of an identity involving Eulerian numbers.
   date: 2024-11-15
   abstract: >
-    TBA
+    In 2009, Brenti and Welker studied the Veronese construction for formal
+    power series which was motivated by the corresponding construction for
+    graded algebras. As a corollary of their algebraic computations, they
+    discovered an identity for the coefficients of the Eulerian polynomials.
+
+    The authors asked for a combinatorial proof of this identity given that all
+    of its ingredients are enumerative in nature. In this talk I will present
+    one such combinatorial proof using alcoved polytopes.
 
 - speaker: Balthazar Charles
   affiliation: Uiversité Paris-Saclay
   title: >
-    TBA
+    Calculer la matrice de Cartan d'un monoïde en comptant des points fixes.
   date: 2024-11-08
   abstract: >
-    TBA
+    [Thiéry '12] a donné une formule permettant de calculer la matrice de Cartan
+    d'une algèbre de monoïde en fonction de sa table de caractère et du nombre
+    de points fixes sous une action semblable à la conjugaison. Cet exposé
+    discute la manière d'utiliser en pratique cette formule pour faire le calcul
+    à l'ordinateur. En particulier, le comptage naïf de points fixes est trop
+    inefficace pour être utilisé en pratique. Ce problème sera une excuse pour
+    parler de la structure de la multiplication d'un monoïde : classes de Green,
+    groupes aux idempotents et groupes de Schutzenberger, etc, et de voir
+    comment exploiter cette structure permet compter efficacement des points
+    fixes dans le monoïde. Dans un second temps on verra comment cette structure
+    contrôle la théorie des représentations du monoïde et comment on peut à
+    nouveau l'exploiter pour calculer l'autre élément nécessaire à la formule de
+    Thiéry : la table de caractère.
 
 - speaker: Marcelo Aguiar
   affiliation: Cornell University
