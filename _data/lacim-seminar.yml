@@ -25,10 +25,17 @@
 - speaker: Jeronimo Valencia
   affiliation: Waterloo University
   title: >
-    TBA
+        A combinatorial proof of an identity involving Eulerian numbers.
   date: 2024-11-15
   abstract: >
-    TBA
+    In 2009, Brenti and Welker studied the Veronese construction for formal
+    power series which was motivated by the corresponding construction for
+    graded algebras. As a corollary of their algebraic computations, they
+    discovered an identity for the coefficients of the Eulerian polynomials.
+
+    The authors asked for a combinatorial proof of this identity given that all
+    of its ingredients are enumerative in nature. In this talk I will present
+    one such combinatorial proof using alcoved polytopes.
 
 - speaker: Balthazar Charles
   affiliation: Uiversité Paris-Saclay
