@@ -17,10 +17,24 @@
 - speaker: Lucas Gagnon
   affiliation: York University
   title: >
-    TBA
+    The quasisymmetric flag variety and equivariant forest polynomials
   date: 2024-11-22
   abstract: >
-    TBA
+    Schubert calculus transforms the intersection theory of the flag variety
+    GL_n/B into a multiplication problem for combinatorial polynomials, while
+    double Schubert calculus extends this to a torus-equivariant setting. Two
+    essential components underlie these approaches: (1) a surjective
+    homomorphism from an infinite polynomial ring F[x1, x2, …] to the
+    (torus-equivariant) cohomology ring of GL_n/B, and (2) the existence of
+    Schubert polynomials, a basis of F[x1, x2, …] that interacts naturally with
+    the surjection from (1). This talk will describe a subvariety of GL_n/B that
+    exhibits a surprisingly tight analogue of (1) and (2) with respect to a
+    known basis of polynomials over Z and generalize this basis to the
+    equivariant setting. I will show how these new objects can be analyzed
+    using tools from algebraic combinatorics, such as noncrossing partitions and
+    quasisymmetric polynomials, and speculate about how this can deepen our
+    understanding of equivariant Schubert calculus. This is ongoing work with
+    Nantel Bergeron, Philippe Nadeau, Hunter Spink, and Vasu Tewari.
     
 - speaker: Jeronimo Valencia
   affiliation: Waterloo University
