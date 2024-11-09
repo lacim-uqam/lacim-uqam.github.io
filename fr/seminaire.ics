@@ -3,7 +3,7 @@ layout: null
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:http://www.bephpug.com/
+PRODID:https://lacim.uqam.ca
 METHOD:PUBLISH
 {% for seminar_talk in site.data.lacim-seminar %}
 {%- assign speaker = seminar_talk.speaker | replace: ',', '\,' | replace: ';', '\;' -%}
@@ -16,7 +16,6 @@ METHOD:PUBLISH
 {%- else -%}
     {%- assign start_time = seminar_talk.time | date: "%H%M%S" -%}
 {%- endif -%}
-{%- assign start_time = start_time | plus: 40000 -%}
 {%- assign end_time = start_time | plus: 10000 -%}
 BEGIN:VEVENT
 UID:{{ date }}-{{ "now" | date: "%s" }}@lacim.uqam.ca
@@ -25,9 +24,9 @@ LOCATION:Pavillon Président Kennedy (Local PK-4323)\, 201 avenue du Président 
 SUMMARY:{{ speaker }} ({{ affiliation }}): {{ title }}
 DESCRIPTION:Abstract/Résumé: {{ abstract }} (https://lacim.uqam.ca/fr/seminaire.html)
 CLASS:PUBLIC
-DTSTART:{{ date }}T{{ start_time }}Z
-DTEND:{{ date }}T{{ end_time }}Z
-DTSTAMP:{{ date }}T{{ start_time }}Z
+DTSTART;TZID=America/New_York:{{ date }}T{{ start_time }}
+DTEND;TZID=America/New_York:{{ date }}T{{ end_time }}
+DTSTAMP:{{ date }}T{{ start_time }}
 END:VEVENT
 {% endfor %}
 END:VCALENDAR
