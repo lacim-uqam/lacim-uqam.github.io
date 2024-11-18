@@ -17,10 +17,16 @@
 - speaker: Leo Jiang
   affiliation: University of Toronto
   title: >
-    TBA
+    Topology of real matroid Schubert varieties
   date: 2024-11-29
   abstract: >
-    TBA
+    Every linear representation of a matroid determines a matroid Schubert
+    variety whose geometry encodes combinatorics of the matroid. When the
+    representation is over the real numbers, we study the topology of the real
+    points of the variety. Our main tool is an explicit cell decomposition,
+    which depends only on the oriented matroid structure and can be extended to
+    define a combinatorially interesting topological space for any oriented
+    matroid. This is joint work with Yu Li.
 
 - speaker: Lucas Gagnon
   affiliation: York University
