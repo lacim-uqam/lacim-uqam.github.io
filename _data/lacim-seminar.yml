@@ -9,10 +9,20 @@
 - speaker: Alexis Leroux-Lapierre
   affiliation: McGill University
   title: >
-    TBA
+    comparing two biperfect bases using category O
   date: 2024-12-06
   abstract: >
-    TBA
+    The apparently elementary question of writing down perfect bases for the
+    finite dimensional irreducible representations of semisimple Lie algebras is
+    a problem which finds its source in surprisingly involved mathematical
+    tools. Two such sources are a version of the geometric Satake equivalence
+    (giving rise to the so-called Mirkovic-Vilonen bases) and a categorification
+    of $U_q^{-}$ using KLR algebras (giving rise to the so-called dual canonical
+    bases). It has been shown that those two families of bases do not coincide,
+    raising the question of understanding the change of basis matrix. Building
+    upon the results of Kamnitzer-Tingley-Webster-Weekes-Yacobi, we show how one
+    can use category O for truncated shifted Yangians to better understand the
+    discrepancies between the bases. This is joint work with Joel Kamnitzer.
 
 - speaker: Leo Jiang
   affiliation: University of Toronto
