@@ -1,3 +1,11 @@
+- speaker: Kaveh Mousavand
+  affiliation: Okinawa Institute of Science and Technology
+  title: >
+    TBA
+  date: 2025-01-17
+  abstract: >
+    TBA
+
 - speaker: Clément Chenevière
   affiliation: Université Paris-Saclay
   title: >
@@ -9,10 +17,26 @@
 - speaker: Tianyi Yu
   affiliation: UQAM
   title: > 
-    TBA
+    Standard Crystals for symmetric Grothendieck Polynomials
   date: 2024-12-13
   abstract: >
-    TBA
+    Schur polynomials form a fundamental basis for symmetric polynomials.
+    Motivated by geometry and representation theory, researchers have expanded
+    various polynomials into the Schur basis positively, including (i) skew
+    Schur polynomials, (ii) products of Schur polynomials, and (iii) Stanley
+    symmetric polynomials. Standard crystals provide an elegant framework that
+    effectively demonstrates these Schur expansions. Symmetric Grothendieck
+    polynomials are non-homogeneous analogues of Schur polynomials, arising from
+    the K-theory of flag varieties. Analogous expansions into symmetric
+    Grothendieck polynomials have garnered significant attention over the past
+    decades: Buch established the K-theoretic analogues of (i) and (ii), while
+    Buch, Kresch, Shimozono, Tamvakis, and Yong resolved (iii). In this talk, we
+    present an analogue of standard crystal theory, introducing a powerful new
+    tool for establishing symmetric Grothendieck positivity. This framework not
+    only recovers the three K-theoretic expansions mentioned above but also
+    sheds light on related problems, including a conjecture of Ikeda and Naruse.
+    This work is based on ongoing joint work with Eric Marberg and Kam Hung
+    Tong.
 
 - speaker: Alexis Leroux-Lapierre
   affiliation: McGill University
