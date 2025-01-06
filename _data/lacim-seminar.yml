@@ -1,3 +1,11 @@
+- speaker: Job Daisie Rock
+  affiliation: KU Leuven, Belgique
+  title: >
+    TBA
+  date: 2025-03-14
+  abstract: >
+    TBA
+
 - speaker: Nathan Chapelier-Laget
   affiliation: Université du Littoral côte d'Opale, Calais
   title: >
@@ -5,7 +13,7 @@
   date: 2025-01-31
   abstract: >
     TBA
-    
+
 - speaker: Kaveh Mousavand
   affiliation: Okinawa Institute of Science and Technology
   title: >
@@ -17,10 +25,26 @@
 - speaker: Clément Chenevière
   affiliation: Université Paris-Saclay
   title: >
-    TBA
+    Une nouvelle description des treillis m-cambriens
   date: 2025-01-10
   abstract: >
-    TBA
+    Les treillis cambriens, introduits par N. Reading en 2006, sont une
+    généralisation du treillis de Tamari, à tout choix d'élément de Coxeter,
+    dans tout groupe de Coxeter fini. Le treillis de Tamari correspond au "type
+    A linéaire". Ces ordres partiels admettent plusieurs descriptions, non
+    trivialement équivalentes. Celles-ci donnent lieu à une généralisation
+    commune, comme définie par C. Stump, H. Thomas et N. Williams. Toutefois,
+    aucune de ces descriptions ne fournit de modèle combinatoire pratique.
+
+    Dans un travail en cours avec Wenjie Fang et Corentin Henriet, nous
+    proposons une nouvelle définition équivalente des treillis m-cambriens. Nous
+    donnons un critère de comparaison simple et effectif sur des objets simples
+    appelés m-partitions non croisées. Cette définition est obtenue en montrant
+    qu'il existe une unique chaîne c-croissante entre n'importe quelle paire
+    d'éléments comparables, et cette dernière est calculée par un algorithme
+    glouton. Ce faisant, nous introduisons un (presque) ordre partiel
+    intéressant sur les intervalles d'un treillis cambriens, qui est nouveau,
+    même pour le cas du treillis de Tamari.
 
 - speaker: Tianyi Yu
   affiliation: UQAM
