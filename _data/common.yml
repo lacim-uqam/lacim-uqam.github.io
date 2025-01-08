@@ -3,6 +3,11 @@ director:
     title: Directeur du LACIM
     email: saliola.franco@uqam.ca
 
+deputy-director:
+    name: Alejandro Morales
+    title: Directeur adjoint du LACIM
+    email: morales_borrero.alejandro@uqam.ca
+
 coordinator:
     name: Alexandra Haedrich
     title: Coordonnatrice scientifique

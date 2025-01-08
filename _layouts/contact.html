@@ -6,32 +6,23 @@
 
         <h2>
         {% if page.lang == "en" %}
-            Scientific Coordinator
+            LACIM Direction Team
         {% elsif page.lang == "fr" %}
-            Coordonnatrice Scientifique
+            Équipe de direction du LACIM
         {% endif %}
         </h2>
         <p class="contact-info">
-            <b> {{ site.data.common.coordinator.name }} </b>
-            <br />
-            <a href="mailto:{{ site.data.common.coordinator.email }}">{{ site.data.common.coordinator.email }}</a>
-            <br />
-            {{ site.data.common.coordinator.phone }}
-        </p>
-
-        <h2>
-        {% if page.lang == "en" %}
-            Director of LACIM
-        {% elsif page.lang == "fr" %}
-            Directeur du LACIM
-        {% endif %}
-        </h2>
-        <p class="contact-info">
-            <b> {{ site.data.common.director.name }} </b>
-            <br />
-            <a href="mailto:{{ site.data.common.director.email }}">{{ site.data.common.director.email }}</a>
-            <br />
-            {{ site.data.common.contact.phone }}
+        <ul>
+            <li>
+                <b>{{ site.data.common.director.name }}</b> (Directeur)
+            </li>
+            <li>
+                <b>{{ site.data.common.deputy-director.name }}</b> (Directeur adjoint)
+            </li>
+            <li>
+                adresse courriel: <a href="mailto:{{ site.data.common.coordinator.email }}">{{ site.data.common.coordinator.email }}</a>
+            </li>
+        </ul>
         </p>
 
         <h2>
