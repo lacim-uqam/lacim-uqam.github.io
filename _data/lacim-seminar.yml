@@ -38,26 +38,28 @@
   date: 2025-01-17
   abstract: >
     Let A be a finite-dimensional algebra over an algebraically closed field k.
-    A finite-dimensional (left) A-module X is called a brick (or Schur
+    A finite-dimensional (left) A-module is called a brick (or Schur
     representation) if its endomorphism algebra is isomorphic to k. A set S of
-    A-modules is called a semibrick if every element of S is a brick, and
-    furthermore, each pair of distinct bricks in S is Hom-orthogonal. A
-    semibrick can be infinite, that is, it may contain infinitely many pairwise
-    Hom-orthogonal bricks. Roughly speaking, semibricks can be viewed as a
-    conceptual generalization of semisimple modules, and they have important
-    applications in the representation theory of algebras.
+    bricks over A is said to be a semibrick if every pair of distinct bricks in
+    S are Hom-orthogonal. Bricks (respectively, semibricks) can be viewed as a
+    conceptual generalization of simple (respectively, semisimple) modules, and
+    they have important applications in representation theory of algebras. In
+    2021, Enomoto posed a conjecture, now known as the Semibrick Conjecture: an
+    algebra A admits infinitely many non-isomorphic bricks if and only if A
+    admits an infinite semibrick-- i.e., there exists an infinite set of
+    pairwise Hom-orthogonal bricks. 
 
-    In 2021, Enomoto posed a conjecture, now known as the Semibrick Conjecture:
-    an algebra A admits infinitely many non-isomorphic bricks if and only if A
-    admits an infinite semibrick. In our recent work, we showed that the
-    Semibrick Conjecture follows from a conjecture that I first proposed in
-    2019, now known as the Second brick-Brauer-Thrall Conjecture. Although both
-    of these conjectures are still open in full generality, we verify (stronger
-    versions of) them for all biserial algebras. In particular, we prove a
-    reduction theorem and consequently treat the conjectures over an explicit
-    list of gentle algebras, where we make use of the simple combinatorics of
-    strings and bands. This talk is based on a series of joint work with Charles
-    Paquette.
+    In our recent work (arXiv:2407.20877), we made important progress on a
+    series of open conjectures. Specifically, we treated the Semibrick
+    Conjecture as well as a conjecture I first proposed in 2019, now referred to
+    as the Second Brick-Brauer-Thrall (2nd bBT) Conjecture. While both the 2nd
+    bBT and Semibrick conjectures remain open in full generality, we verify them
+    for some new families. In fact, we prove that the Semibrick Conjecture
+    follows from the 2nd bBT Conjecture. For biserial algebras, we reduce the
+    setting to an explicit list of gentle algebras, where we use the
+    combinatorics of strings and bands to resolve the conjectures. This talk is
+    based on earlier work from my PhD studies and a series of joint work with
+    Charles Paquette.
 
 - speaker: Clément Chenevière
   affiliation: Université Paris-Saclay
