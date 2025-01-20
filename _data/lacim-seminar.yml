@@ -6,6 +6,14 @@
   abstract: >
     TBA
 
+- speaker: Théo Pinet
+  affiliation: McGill University
+  title: >
+    TBA
+  date: 2025-04-11
+  abstract: >
+    TBA
+
 - speaker: Angèle Foley
   affiliation: Wilfrid Laurier University
   title: >
@@ -14,8 +22,8 @@
   abstract: >
     TBA
 
-- speaker: Théo Pinet
-  affiliation: McGill University
+- speaker: Fan Qin
+  affiliation: Beijing Normal University
   title: >
     TBA
   date: 2025-03-28
@@ -53,6 +61,29 @@
   date: 2025-02-07
   abstract: >
     TBA
+
+- speaker: Mitsuki Hanada
+  affiliation: University of California, Berkeley
+  title: >
+    A charge monomial basis of the Garsia-Procesi ring
+  date: 2025-01-31
+  time: 15h
+  abstract: >
+    The two well-known monomial bases of the (classical) coinvariant ring, the
+    Artin basis and the descent basis, are indexed by permutations and
+    correspond to the statistics inv and maj respectively. Both bases give
+    combinatorial explanations for the Hilbert series of the coinvariant ring,
+    which is $[n]_q!$. 
+
+    We construct a basis of the Garsia-Procesi ring $R_\mu$, a quotient of the
+    coinvariant ring, using the catabolizability type of standard Young tableaux
+    and the charge statistic. This basis is  a subset of the descent basis and
+    is compatible with the Hilbert series of $R_\mu$ in the same manner.  Our
+    construction of the basis provides the first direct connection between the
+    combinatorics of the basis with the combinatorial formula for the modified
+    Hall-Littlewood polynomials $\tilde{H}_\mu[X;q]$, due to Lascoux. We use
+    this description to give an elementary proof of the fact that the graded
+    Frobenius character of $R_{\mu}$ is given by $\tilde{H}_\mu[X;q]$.
 
 - speaker: Nathan Chapelier-Laget
   affiliation: Université du Littoral côte d'Opale, Calais
