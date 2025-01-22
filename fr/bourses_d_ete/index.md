@@ -6,7 +6,6 @@ sidebar: false
 
 ## Bourses d'initiation à la recherche 2025
 
-
 Les stages d'initiation à la recherche de premier cycle ont pour but de
 stimuler l'intérêt des étudiants pour la recherche en leur fournissant
 l'occasion d'acquérir de l'expérience dans un laboratoire universitaire et de
