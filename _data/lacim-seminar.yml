@@ -6,6 +6,14 @@
   abstract: >
     TBA
 
+- speaker: Santiago Estupiñán
+  affiliation: Waterloo University
+  title: >
+    TBA
+  date: 2025-04-25
+  abstract: >
+    TBA
+
 - speaker: Théo Pinet
   affiliation: McGill University
   title: >
@@ -88,10 +96,14 @@
 - speaker: Nathan Chapelier-Laget
   affiliation: Université du Littoral côte d'Opale, Calais
   title: >
-    TBA
+    Longueur atomique et partitions coeurs
   date: 2025-01-31
   abstract: >
-    TBA
+    Dans cet exposé j'introduirai une nouvelle fonction de longueur dans les
+    groupes de Weyl d'algèbres de Kac-Moody. Nous verrons comment cette fonction
+    généralise la fonction de longueur usuelle puis nous verrons certaines
+    conséquences en théorie des nombres, notamment la paramétrisation des
+    solutions d'équations de Pell-Fermat via les coeurs généralisés.
 
 - speaker: Kaveh Mousavand
   affiliation: Okinawa Institute of Science and Technology
