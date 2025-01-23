@@ -31,6 +31,6 @@ invited to contact a [LACIM member](members.html) with whom they would like to
 work. Several sources of funding are available, including:
 
 - [NSERC Undergraduate Student Research Awards](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_eng.asp)
-- [ISM Undergraduate Summer Scholarships](http://ism.uqam.ca/~ism/accueil/bourses/?language=default#4)
+- [ISM Undergraduate Summer Scholarships](https://ism.uqam.ca/accueil/bourses/?language=default#4)
 - [Bourse d'initiation à la recherche du LACIM](https://lacim.uqam.ca/bourse-du-lacim-de-stage-dinitiation-a-la-recherche-de-1er-cycle/)
 

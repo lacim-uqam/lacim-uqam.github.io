@@ -37,8 +37,8 @@ qui ils souhaitent travailler avant la fin du mois de janvier. Plusieurs
 sources de financement existent, dont:
 
 - [Bourses de recherche de premier cycle du CRSNG](https://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_fra.asp)
-- [Bourses d’été de premier cycle de l’ISM](http://ism.uqam.ca/~ism/accueil/bourses/#4)
-- [Bourse d'initiation à la recherche du LACIM](https://lacim.uqam.ca/bourse-du-lacim-de-stage-dinitiation-a-la-recherche-de-1er-cycle/)
+- [Bourses d’été de premier cycle de l’ISM](https://ism.uqam.ca/accueil/bourses/#4)
+- [Bourses d'initiation à la recherche du LACIM](/fr/bourses_d_ete/index.html)
 
 
 <!--
