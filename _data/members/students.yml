@@ -22,6 +22,12 @@
   degree: étudiante au doctorat
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
+- name: Yakob Kahane
+  supervisor: Alejandro Morales
+  affiliation: UQAM
+  degree: étudiant au doctorat
+  website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
+
 - name: Antoine Labelle
   supervisor: Joel Kamnitzer
   affiliation: McGill
@@ -51,12 +57,6 @@
   affiliation: McGill
   degree: étudiant au doctorat
   website: https://www.math.mcgill.ca/alapierre/
-
-- name: Louis Marin
-  supervisor: Alexandre Blondin-Massé et Alain Goupil
-  affiliation: UQAM (Mathématiques)
-  degree: étudiant à la maîtrise
-  website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
 - name: Philippe Petit
   supervisor: Hugh Thomas
