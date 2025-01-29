@@ -1,7 +1,18 @@
 - name: Nicolas England
   supervisor: Franco Saliola
-  affiliation: UQAM
+  affiliation: UQAM (Mathématiques)
   degree: étudiant à la maîtrise
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
+- name: Louis Marin
+  supervisor: Alexandre Blondin-Massé et Alain Goupil
+  affiliation: UQAM (Mathématiques)
+  degree: étudiant à la maîtrise
+  website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
+- name: Florence Maas-Gariépy
+  supervisor: Franco Saliola
+  affiliation: UQAM (Mathématiques)
+  degree: étudiant au doctorat
+  thesis: Étude du pléthysme à l'aide de la combinatoire des tableaux
+  website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
