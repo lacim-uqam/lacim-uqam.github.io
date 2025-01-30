@@ -62,6 +62,14 @@
   abstract: >
     TBA
 
+- speaker: Yakob Kahane
+  affiliation: UQAM
+  title: >
+    TBA
+  date: 2025-02-14
+  abstract: >
+    TBA
+
 - speaker: Félix Gélinas
   affiliation: York University
   title: >
@@ -101,9 +109,9 @@
     is compatible with the Hilbert series of $R_\mu$ in the same manner.  Our
     construction of the basis provides the first direct connection between the
     combinatorics of the basis with the combinatorial formula for the modified
-    Hall-Littlewood polynomials $\tilde{H}_\mu[X;q]$, due to Lascoux. We use
-    this description to give an elementary proof of the fact that the graded
-    Frobenius character of $R_{\mu}$ is given by $\tilde{H}_\mu[X;q]$.
+    Hall-Littlewood polynomials $\widetilde{H}_{\mu}{[X;q]}$, due to Lascoux. We 
+    use this description to give an elementary proof of the fact that the graded
+    Frobenius character of $R_{\mu}$ is given by $\widetilde{H}_{\mu}{[X;q]}$.
 
 - speaker: Kaveh Mousavand
   affiliation: Okinawa Institute of Science and Technology
