@@ -81,10 +81,28 @@
 - speaker: Félix Gélinas
   affiliation: York University
   title: >
-    TBA
+    Caractérisation du poset hypergraphique à partir des sources d'orientations
+    acycliques
   date: 2025-02-07
   abstract: >
-    TBA
+    Pour un hypergraphe $\mathbb{H} sur $[n]$, le poset hypergraphique
+    $P_{\mathbb{H}}$  est défini comme la fermeture transitive du 1-squelette
+    orienté du polytope hypergraphique $\Delta_{\mathbb{H}}$, qui est la somme
+    de Minkowski des simplices standards $\Delta_H$  associés à chaque
+    hyperarête $H\in \mathbb{H}$. En 2019, C. Benedetti, N. Bergeron et J.
+    Machacek ont établi une correspondance entre cette fermeture transitive et
+    le graphe de flips des orientations acycliques de $\mathbb{H}$. En
+    considérant une orientation de $\mathbb{H}$ comme une application $A$ de
+    $\mathbb{H}$ vers $[n]$, les sources des orientations acycliques sont
+    définies par les valeurs $A(H)$ pour chaque hyperarête $H \in \mathbb{H}$.
+    Récemment, N. Bergeron et V. Pilaud ont proposé une caractérisation de
+    $P_{\mathbb{H}}$ basée sur les sources des orientations acycliques pour les
+    hypergraphes d'intervalle. En particulier, deux orientations acycliques
+    distinctes $A$ et $B$ de $\mathbb{H}$ sont comparables dans $P_{\mathbb{H}}$
+    si et seulement si leurs sources satisfont $A(H) \leq B(H)$ pour toutes les
+    hyperarêtes $H\in \mathbb{H}$. Je présenterai une généralisation et une
+    nouvelle preuve du résultat de Bergeron-Pilaud à tous les hypergraphes.
+    Aucun prérequis n'est nécessaire.
 
 - speaker: Nathan Chapelier-Laget
   affiliation: Université du Littoral côte d'Opale, Calais
