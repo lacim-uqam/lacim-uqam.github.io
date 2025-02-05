@@ -85,7 +85,7 @@
     acycliques
   date: 2025-02-07
   abstract: >
-    Pour un hypergraphe $\mathbb{H} sur $[n]$, le poset hypergraphique
+    Pour un hypergraphe $\mathbb{H}$ sur $[n]$, le poset hypergraphique
     $P_{\mathbb{H}}$  est défini comme la fermeture transitive du 1-squelette
     orienté du polytope hypergraphique $\Delta_{\mathbb{H}}$, qui est la somme
     de Minkowski des simplices standards $\Delta_H$  associés à chaque
