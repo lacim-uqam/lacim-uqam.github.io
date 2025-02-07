@@ -91,10 +91,25 @@
 - speaker: Yakob Kahane
   affiliation: UQAM
   title: >
-    TBA
+    Marches aléatoires à série transcendantale différentiellement sur les
+    graphes auto-similaires.
   date: 2025-02-14
   abstract: >
-    TBA
+    Soit $A$ une classe d'objets munie d'une taille $n$ tel que $a_n$, le nombre
+    d'objets de taille $n$ soit fini et soit $f(x)$ sa série génératrice
+    associée. Il est pertinent de se demander quand $f(x)$ est rationnelle,
+    algébrique ou solution d'une équation différentielle, car ces propriétés
+    impliquent des structures sur $A$. Il n'y pas pour l'instant pas de critères
+    combinatoires simples pour discriminer si une classe d'objets produira une
+    série génératrice algébrique ou non. En 2023, L. Di Vizio, G. Fernandes et
+    M. Mishna ont montré que les équations inhomogènes itératives d'ordre 1
+    produisaient soit des séries quasi-rationnelles, soit des séries
+    transcendantales différentiellement ouvrant la voie pour prouver la
+    non-algébricité de séries génératrices de manière plus systématique. Je
+    présenterai une classification des marches aléatoires sur des graphes
+    auto-similaires en fonction de l'algébricité de leur série probabiliste et
+    le lien avec une conjecture de Krön et Teufl à propos du spectre du
+    laplacien de la matrice.
 
 - speaker: Félix Gélinas
   affiliation: York University
