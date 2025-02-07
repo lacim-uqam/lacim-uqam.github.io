@@ -62,6 +62,24 @@
   abstract: >
     TBA
 
+- speaker: Ada Stelzer
+  affiliation: University of Illinois Urbana-Champaign
+  title: >
+    RSK as a linear operator
+  date: 2025-02-21
+  time: 15h
+  abstract: >
+    The Robinson-Schensted-Knuth correspondence (RSK) is a bijection of central
+    importance in algebraic combinatorics, mapping nonnegative integer matrices
+    to pairs $(P, Q)$ of semistandard Young tableaux. This set-theoretic
+    bijection extends to define a linear operator on the coordinate ring of the
+    space ${\sf Mat}_{m, n}$ of $m\times n$ matrices. The linear operator
+    properties of RSK have received little study, despite the usefulness of this
+    operator in several classical applications. In this talk, we will
+    characterize the diagonalizability of the RSK linear operator in terms of
+    Dynkin diagrams and present several results on its eigenvalues, trace, and
+    determinant. Based on joint work with Alexander Yong, arXiv:2410.23009.
+
 - speaker: Linus Setiabrata
   affiliation: The University of Chicago
   title: >
