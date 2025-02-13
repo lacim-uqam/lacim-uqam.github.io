@@ -1,3 +1,11 @@
+- speaker: Derek Moran
+  affiliation: Simon Fraser University
+  title: >
+    TBA
+  date: 2025-05-09
+  abstract: >
+    TBA
+
 - speaker: Christophe Hohlweg
   affiliation: UQAM
   title: >
@@ -15,7 +23,7 @@
     TBA
 
 - speaker: Théo Pinet
-  affiliation: McGill University
+  affiliation: LACIM - McGill University
   title: >
     TBA
   date: 2025-04-11
@@ -55,7 +63,7 @@
     TBA
 
 - speaker: Jonathan Boretsky
-  affiliation: LACIM - McGill
+  affiliation: LACIM - McGill University
   title: >
     TBA
   date: 2025-02-28
@@ -252,7 +260,7 @@
     Tong.
 
 - speaker: Alexis Leroux-Lapierre
-  affiliation: McGill University
+  affiliation: LACIM - McGill University
   title: >
     Comparing two biperfect bases using category O
   date: 2024-12-06
