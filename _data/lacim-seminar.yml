@@ -91,10 +91,17 @@
 - speaker: Linus Setiabrata
   affiliation: The University of Chicago
   title: >
-    TBA
+    Double orthodontia formulas and Lascoux positivity
   date: 2025-02-21
   abstract: >
-    TBA
+    Motivated by our search for a representation theoretic avatar for double
+    Grothendieck polynomials $\mathfrak G_w(\mathbf x; \mathbf y)$, we give a
+    new formula for $\mathfrak G_w(\mathbf x;\mathbf y)$ based on Magyar's
+    orthodontia algorithm for diagrams. Our formula gives a curious positivity
+    result: Writing $\mathfrak S_w(\mathbf x;\mathbf y)$ for a vexillary double
+    Schubert polynomial, the polynomial $x_1^n\dots x_n^n \mathfrak
+    S_w(x_n^{-1},\dots, x_1^{-1}; 1,\dots,1)$ is a graded nonnegative sum of
+    Lascoux polynomials. Joint work with Avery St. Dizier.
 
 - speaker: Yakob Kahane
   affiliation: UQAM
