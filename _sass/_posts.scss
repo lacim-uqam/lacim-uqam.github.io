@@ -16,7 +16,7 @@
     content: ")";
 }
 
-blockquote {
+.posts blockquote {
   background: #f4f4f4;
   border-left: 8px solid #ccc;
   margin: 0px 0px 0px 10px;
@@ -26,7 +26,7 @@ blockquote {
   font-style: italic;
 }
 
-blockquote:before {
+.posts blockquote:before {
   color: #ccc;
   content: open-quote;
   font-size: 4em;
@@ -35,18 +35,18 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 
-blockquote p:first-child {
+.posts blockquote p:first-child {
   display: inline;
   text-align: left;
 }
 
-blockquote p:last-child {
+.posts blockquote p:last-child {
   display: block;
   text-align: right;
   margin-top: 5px;
 }
 
-dl {
+.posts dl {
   background: #f4f4f4;
   border-left: 8px solid #ccc;
   margin-top: 10px;
@@ -56,7 +56,7 @@ dl {
   font-style: italic;
 }
 
-dt, dd {
+.posts dt, dd {
   margin: 0px;
   padding-top: 0px;
   padding-left: 10px;
@@ -64,7 +64,7 @@ dt, dd {
   padding-bottom: 3px;
 }
 
-dt {
+.posts dt {
   font-weight: 900;
   font-family: "Cardo", "Georgia", serif;
   font-style: italic;
