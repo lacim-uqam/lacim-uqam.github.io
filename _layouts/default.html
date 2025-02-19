@@ -10,11 +10,7 @@
         {{ content }}
     </div>
 
-    {% if page.sidebar %}
-    <div class="sidebar">
-        <img src="{{ page.sidebar.image }}" width="100%" />
-    </div>
-    {% endif %}
+    {% include sidebar.html %}
 </div>
 
 {% include sponsors.html %}

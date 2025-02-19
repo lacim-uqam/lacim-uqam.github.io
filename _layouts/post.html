@@ -16,27 +16,7 @@
         <div class='post-info-date'>publié le {{ page.date | date: "%Y-%m-%d" }}</div>
     </div>
 
-    {% if page.sidebar %}
-    <div class="sidebar">
-        {% if page.sidebar.image %}
-            <div align='center'>
-                <img src="{{ page.sidebar.image }}" width="100%" />
-            </div>
-        {% elsif page.sidebar.images %}
-            {% assign images = page.sidebar.images %}
-            {% for image in images %}
-            {% if image.width %}
-                {% assign width = image.width %}
-            {% else %}
-                {% assign width = "100%" %}
-            {% endif %}
-            <div align='center'>
-                <img src="{{ image.filename }}" width="{{ width }}" />
-            </div>
-            {% endfor %}
-        {% endif %}
-    </div>
-    {% endif %}
+    {% include sidebar.html %}
 </div>
 
 {% include sponsors.html %}
