@@ -44,13 +44,17 @@
   ISBN: "?"
 
 - volume: "06"
-  title: Notes On Schubert Polynomials
+  title: <b>Notes On Schubert Polynomials*</b>
   author: I. G. Macdonald
-  year: 1991
-  copyright: "?"
-  copyright_long: "?"
+  year: 1991; <b>recompiled in February 2025</b>
+  copyright: "LACIM"
+  copyright_long: "LACIM"
   type: Book
-  ISBN: "?"
+  ISBN: "2-89276-086-0 LACIM Montréal"
+  note: >
+    *This is a recompilation (with some modern conveniences) of the original
+    TeX source used to produce the 1991 published version. See the document for
+    more details.
 
 - volume: "07"
   title: Combinatoire des tableaux oscillants et des polynômes de Bessel
