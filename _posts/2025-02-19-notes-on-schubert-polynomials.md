@@ -51,6 +51,6 @@ Le LACIM remercie sincèrement la *succession de Ian Grant Macdonald* pour avoir
 accordé l'autorisation de recompiler et de diffuser cette œuvre en ligne, ainsi
 qu'aux administrateurs du *[The Combinatorics Consortium
 (TCC)](https://www.tccpublishing.org)*,
-*Sara Billey*, *Vic Reiner*, *Volkmar Welker*, and *Mike Zabrocki*,
+*Sara Billey*, *Vic Reiner*, *Volkmar Welker*, et *Mike Zabrocki*,
 pour leur soutien inestimable dans la gestion des aspects juridiques et
 techniques du transfert des droits d'auteur.
