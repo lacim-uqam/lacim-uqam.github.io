@@ -12,5 +12,5 @@ l'occasion d'acquérir de l'expérience dans un laboratoire universitaire et de
 les encourager à entreprendre des études supérieures.
 
 Pour tous les détails, consultez [le site web consacré au programme de
-bourses](/fr/bourses_d_ete/).
+bourses](/fr/bourses_ete/).
 
