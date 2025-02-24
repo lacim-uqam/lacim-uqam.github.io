@@ -65,10 +65,25 @@
 - speaker: Jonathan Boretsky
   affiliation: LACIM - McGill University
   title: >
-    TBA
+    On two Notions of Flag Positivity
   date: 2025-02-28
   abstract: >
-    TBA
+    The totally positive flag variety of rank r, defined by Lusztig, can be
+    described as the set of rank r flags of real linear subspaces which can be
+    represented by a matrix whose minors are all positive. We show that, for
+    flag varieties of consecutive rank, this equals the subset of the flag
+    variety with positive Plücker coordinates, yielding a straightforward
+    condition to determine whether a flag is totally positive. This generalizes
+    the well-established fact, proven independently by many authors including
+    Rietsch, Talaska and Williams, Lam, and Lusztig, that the totally positive
+    Grassmannian equals the subset of the Grassmannian with positive Plücker
+    coordinates. While this result is algebro-geometric in nature, we will also
+    spend time discussing the proof method, which is almost entirely 
+    combinatorial, relying heavily on graph theory and the combinatorics of the
+    Bruhat order. We will discuss related results, proven using similar
+    combinatorics, giving total positivity conditions for flag varieties of
+    types B, C, and D. This talk is primarily based on joint work with Chris Eur
+    and Lauren Williams.
 
 - speaker: Ada Stelzer
   affiliation: University of Illinois Urbana-Champaign
