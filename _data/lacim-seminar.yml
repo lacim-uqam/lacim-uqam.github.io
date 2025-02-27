@@ -1,3 +1,11 @@
+- speaker: Ryan Kavanagh
+  affiliation: UQAM
+  title: >
+    TBA
+  date: 2025-05-16
+  abstract: >
+    TBA
+
 - speaker: Derek Moran
   affiliation: Simon Fraser University
   title: >
@@ -19,14 +27,6 @@
   title: >
     TBA
   date: 2025-04-25
-  abstract: >
-    TBA
-
-- speaker: Pierre Baumann
-  affiliation: IRMA, Strasbourg (professeur visiteur au LACIM)
-  title: >
-    TBA
-  date: 2025-04-18
   abstract: >
     TBA
 
@@ -59,6 +59,14 @@
   title: >
     TBA
   date: 2025-03-21
+  abstract: >
+    TBA
+
+- speaker: Pierre Baumann
+  affiliation: IRMA, Strasbourg (professeur visiteur au LACIM)
+  title: >
+    TBA
+  date: 2025-03-14
   abstract: >
     TBA
 
