@@ -65,10 +65,18 @@
 - speaker: Pierre Baumann
   affiliation: IRMA, Strasbourg (professeur visiteur au LACIM)
   title: >
-    TBA
+    Sur les polytopes MV
   date: 2025-03-14
   abstract: >
-    TBA
+    Soit G un groupe algébrique complexe semisimple. En 2001, J. Anderson
+    introduisit une famille de polytopes décrivant la combinatoire (dimension
+    des espaces de poids, multiplicités des simples dans les produits
+    tensoriels) des représentations de G. Ces polytopes, initialement définis
+    comme l'image par une application moment de cycles algébriques introduits
+    par Mirković et Vilonen, ont ensuite été décrits de façon très explicite par
+    J. Kamnitzer. Dans l'exposé, j'expliquerai comment ces polytopes peuvent
+    être caractérisés par l'étude des sous-B-modules des représentations de G,
+    où B est un sous-groupe de Borel.
 
 - speaker: Jonathan Boretsky
   affiliation: LACIM - McGill University
