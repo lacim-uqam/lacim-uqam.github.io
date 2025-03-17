@@ -1,3 +1,11 @@
+- speaker: Gaku Liu
+  affiliation: University of Washington
+  title: >
+    TBA
+  date: 2025-05-30
+  abstract: >
+    TBA
+
 - speaker: Ryan Kavanagh
   affiliation: UQAM
   title: >
@@ -55,12 +63,33 @@
     TBA
 
 - speaker: Monica Garcia
-  affiliation: Université Laval
+  affiliation: LACIM - Université Laval
   title: >
-    TBA
+    Thick subcategories and g-finiteness in the category of projective
+    presentations
   date: 2025-03-21
   abstract: >
-    TBA
+    The category of projective presentations, or 2-term complexes, behaves in
+    many ways as a mirror of the category of finite-dimensional modules over a
+    finite-dimensional algebra. Both satisfy similar properties, however, unlike
+    the category of modules, the category of projective presentations is not
+    abelian, but rather an extriangulated category. In this talk, we reinforce
+    the relation between these two categories by establishing an analogue of the
+    Ingalls-Thomas correspondences within the category of projective
+    presentations. We will exhibit bijections between the sets of isomorphism
+    classes of 2-term silting objects, complete cotorsion pairs, and thick
+    subcategories with enough injectives of the category of projective
+    presentations. Furthermore, we will show how these correspondences mirror
+    those between the sets of isomorphism classes of support tau-tilting pairs,
+    functorially finite torsion classes, and left wide subcategories of the
+    module category.
+
+    Additionally, we introduce new equivalent conditions for an algebra to be
+    g-finite. Namely, we show that an algebra has finitely many isomorphism
+    classes of silting objects if and only if all cotorsion pairs are complete,
+    and if and only if there are finitely many thick subcategories of projective
+    presentations. We will establish that in such cases, all thick subcategories
+    have enough injectives.
 
 - speaker: Pierre Baumann
   affiliation: IRMA, Strasbourg (professeur visiteur au LACIM)
