@@ -66,10 +66,15 @@
 - speaker: Fan Qin
   affiliation: Beijing Normal University
   title: >
-    TBA
+    Cluster algebras, Skein algebras, and their bases
   date: 2025-03-28
   abstract: >
-    TBA
+    In this talk, we provide a gentle introduction to (quantum) cluster algebras
+    and skein algebras associated with surfaces. We focus on three most
+    important classes of bases—bangles, bands, and bracelets—presenting their
+    combinatorial structures and algebraic properties. We demonstrate how
+    surface cutting techniques significantly simplify the study of these bases.
+    We also briefly present the categorical interpretations of basis elements.
 
 - speaker: Monica Garcia
   affiliation: LACIM - Université Laval
