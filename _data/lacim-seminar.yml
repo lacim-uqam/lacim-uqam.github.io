@@ -58,10 +58,18 @@
 - speaker: Angèle Foley
   affiliation: Wilfrid Laurier University
   title: >
-    TBA
+    Identities for ninth variation Schur Q-functions
   date: 2025-04-04
   abstract: >
-    TBA
+    Okada algebraically defined the ninth variation skew Q-functions, in
+    parallel with Macdonald’s ninth variation skew Schur functions. Here we
+    introduce a skew shifted tableau definition of these, and prove, by means of
+    a non-intersecting lattice path model, a Pfaffian result in the form of a
+    ninth variation version of Hamel’s Pfaffian outside decomposition identity.
+    As corollaries to this, we derive Pfaffian identities generalizing those of
+    Jozefiak and Pragacz, Nimmo, and Okada. 
+
+    This is joint work with Ron King.
 
 - speaker: Fan Qin
   affiliation: Beijing Normal University
