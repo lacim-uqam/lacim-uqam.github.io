@@ -39,14 +39,6 @@
   abstract: >
     TBA
 
-- speaker: Christophe Hohlweg
-  affiliation: UQAM
-  title: >
-    TBA
-  date: 2025-05-02
-  abstract: >
-    TBA
-
 - speaker: Santiago Estupiñán
   affiliation: Waterloo University
   title: >
@@ -58,10 +50,21 @@
 - speaker: Théo Pinet
   affiliation: LACIM - McGill University
   title: >
-    TBA
+    Cristaux de monômes et catégorifications monoïdales d’algèbres amassées
   date: 2025-04-11
   abstract: >
-    TBA
+    Les cristaux de produits de monômes, dus à
+    Kamnitzer—Tingley—Webster—Weekes—Yacobi, sont des objets combinatoires aux
+    propriétés surprenantes. Ils permettent en particulier d’étiqueter les
+    représentations simples de Yangiens décalés, des algèbres d’importance
+    fondamentale en géométrie et dans l’étude des systèmes intégrables et des
+    algèbres amassées. Dans cet exposé, je présenterai la combinatoire liée à
+    ces cristaux et utiliserai cette combinatoire pour démontrer une conjecture
+    de Frenkel—Hernandez sur une catégorification monoïdale d’algèbre
+    amassée.
+
+    Cet exposé est basé sur un travail conjoint avec Artem Kalmykov, Joel 
+    Kamnitzer, Alexis Leroux-Lapierre et Alex Weekes.
 
 - speaker: Angèle Foley
   affiliation: Wilfrid Laurier University
