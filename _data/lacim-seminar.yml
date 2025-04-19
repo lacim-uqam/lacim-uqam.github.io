@@ -50,10 +50,20 @@
 - speaker: Santiago Estupiñán
   affiliation: Waterloo University
   title: >
-    TBA
+    A new shifted Littlewood-Richardson rule
   date: 2025-04-25
   abstract: >
-    TBA
+    As Littlewood-Richardson rules compute linear representation theory of
+    symmetric groups, shifted Littlewood-Richardson rules compute analogous
+    projective representation theory of symmetric groups. The first shifted
+    Littlewood-Richardson rule is due to Stembridge (1989), building on a
+    natural generalization by Sagan and Worley (1979/1984) of the jeu de taquin
+    algorithm to shifted Young tableaux. We give a new shifted
+    Littlewood-Richardson rule that requires consideration of fewer tableaux
+    than Stembridge's rule and is provably faster on a family of structure
+    coefficients. Our rule derives from applying old ideas of Lascoux and
+    Schützenberger (1981) to the study of Haiman's mixed insertion (1989) and
+    Serrano's shifted plactic monoid (2010). (Joint work with Oliver Pechenik.)
 
 - speaker: Théo Pinet
   affiliation: LACIM - McGill University
