@@ -42,12 +42,26 @@
 - speaker: Jake Levinson
   affiliation: LACIM - Université de Montréal
   title: >
-    TBA
+    Groupes des cactus pondérés et espaces des modules des courbes
   date: 2025-05-02
   abstract: >
-    TBA
+    Les groupes fondamentaux ordinaires et $S_n$-équivariants de l'espace des
+    modules des courbes (réelles, stables, $(n+1)$-marquées, en genre 0) sont
+    appelés groupes des cactus. Outre leurs applications à l'étude des courbes,
+    ils apparaissent dans la topologie algébrique, où ils jouent un rôle
+    similaire à celui des groupes des tresses, ainsi que dans le calcul de
+    Schubert et dans la théorie des représentations.
 
-- speaker: Santiago Estupiñán
+    Cet exposé portera sur le calcul de l'analogue du groupe des cactus pour
+    l'espace des modules des courbes pondérées, introduit par Hassett. Notre
+    calcul de ce groupe, qu'on désigne par le nom de groupe des cactus pondérés,
+    repose sur une décomposition cellulaire de l'espace des modules. Cette
+    décomposition est en fait polyédrale : chaque cellule est homéomorphe à un
+    produit de permutoèdres.
+
+    Travail conjoint avec Haggai Liu (Simon Fraser University).
+
+- speaker: Santiago Estupiñán Salamanca
   affiliation: Waterloo University
   title: >
     A new shifted Littlewood-Richardson rule
