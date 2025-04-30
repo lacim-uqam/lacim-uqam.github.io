@@ -22,6 +22,21 @@
   abstract: >
     TBA
 
+- speaker: Sabin Cautis
+  affiliation: University of British Columbia
+  title: >
+    Abelian Hall categories
+  date: 2025-05-16
+  time: 13h
+  abstract: >
+    We will explain how, to any quiver, one can associate a finite length
+    abelian category which categorifies the corresponding K-theoretic Hall
+    algebra. The simples in this category provide a (dual) canonical basis of
+    the Hall algebra. In particular, if the quiver is affine, this provides a
+    basis for the positive half of the corresponding quantum toroidal algebra.
+    We also explain how this abelian category is naturally endowed with
+    renormalized r-matrices.
+
 - speaker: Ryan Kavanagh
   affiliation: UQAM
   title: >
