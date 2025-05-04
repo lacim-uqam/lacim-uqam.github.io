@@ -51,7 +51,20 @@
     TBA
   date: 2025-05-09
   abstract: >
-    TBA
+    Tableau coswitching is a bijection on pairs of skew Young tableaux which
+    swaps their relative positions. This function was originally defined by
+    David Speyer to describe the monodromy of certain smooth covers of the
+    moduli space M_{0,r}-bar. Coswitching is defined by first performing JDT
+    rectification on the union of the tableaux, switching the resulting pair,
+    then unrectifying the union. This definition requires us to perform
+    large-scale modifications to the skew shapes during the rectification and
+    unrectification steps, which is both computationally taxing and obscures the
+    effect of coswitching on the pair of skew tableaux. In this talk, we will
+    present an algorithm which computes coswitching as a sequence of local
+    steps, meaning we do not alter the skew shapes during the computation. We
+    also highlight a connection between this algorithm and the Schützenberger
+    involution, a fundamental operation on Young tableaux with applications in
+    representation theory.
 
 - speaker: Jake Levinson
   affiliation: LACIM - Université de Montréal
