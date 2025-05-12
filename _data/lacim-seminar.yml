@@ -40,10 +40,26 @@
 - speaker: Ryan Kavanagh
   affiliation: UQAM
   title: >
-    TBA
+    Order-theoretic Semantics for Recursive Session-Typed Processes
   date: 2025-05-16
   abstract: >
-    TBA
+    Session-typed programming languages help programmers correctly implement
+    communicating systems. Though many techniques exist for reasoning about
+    these languages and their processes, few treat general recursive types and
+    few are compositional. As a consequence, they cannot be applied to many
+    useful programs and they do not support modular reasoning. In this talk, I
+    will present a denotational semantics for Polarized Intuitionistic Processes
+    (PIP), a session-typed proofs-as-processes interpretation of polarized
+    intuitionistic linear logic. PIP features general recursion, channel
+    transmission, choices, and synchronization. This semantics generalizes
+    Kahn’s semantics for dataflow networks to support bidirectional,
+    session-typed communication. It supports modular reasoning and validates
+    expected program equivalences. Moreover, it is sound relative to barbed
+    congruence (the canonical behavioural notion of process equivalence), and it
+    is fully abstract in the absence of negative channel transmission. As a
+    result, our semantics provides an intuitively reasonable account of
+    session-typed communication and a foundation for reasoning about processes
+    in more realistic session-typed languages. 
 
 - speaker: Derek Moran
   affiliation: Simon Fraser University
