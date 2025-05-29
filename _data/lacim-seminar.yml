@@ -17,10 +17,15 @@
 - speaker: Gaku Liu
   affiliation: University of Washington
   title: >
-    TBA
+    A regular unimodular triangulation of the matroid base polytope
   date: 2025-05-30
   abstract: >
-    TBA
+    We produce the first regular unimodular triangulation of an arbitrary
+    matroid base polytope. We then extend our triangulation to integral
+    generalized permutahedra. Prior to this work it was unknown whether each
+    matroid base polytope admitted a unimodular cover. I will also discuss
+    connections to other open problems in matroid theory, namely White's
+    conjecture.
 
 - speaker: Sabin Cautis
   affiliation: University of British Columbia
