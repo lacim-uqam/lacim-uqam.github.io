@@ -1,11 +1,17 @@
 - speaker: Tobias Rossmann
   affiliation: University of Galway
   title: >
-    TBA
+    Symbolic enumeration of orbits
   date: 2025-06-20
   time: 15h30
   abstract: >
-    TBA
+    In this talk, I will provide an overview of recent work on generating
+    functions enumerating linear orbits and conjugacy classes of unipotent
+    groups. We will study these generating functions by means of their
+    linearised siblings, so-called "ask zeta functions", obtained by averaging
+    over sizes of kernels in collections of matrices. The study of the latter
+    functions involves a (sometimes surprising!) blend of techniques from
+    algebra, combinatorics, and geometry.
 
 - speaker: Yuhan Jiang
   affiliation: Harvard University
@@ -18,11 +24,22 @@
 - speaker: Angela Carnevale
   affiliation: University of Galway
   title: >
-    TBA
+    Permutation statistics in enumerative algebra and beyond
   date: 2025-06-13
   time: 15h30
   abstract: >
-    TBA
+    The study of permutation statistics is a classical theme in algebraic and
+    enumerative combinatorics. These combinatorial functions recently found
+    several applications in asymptotic and enumerative algebra. In this lecture
+    I will give an overview of applications of permutation statistics in this
+    context. I will start by recalling some classical results, with pointers to
+    recent applications in the world of zeta functions in algebra. I will then
+    discuss a few extended examples of permutation statistics in the context of
+    Coxeter and Weyl groups, and certain complex reflection groups.
+    
+    These permutation statistics arose from or have applications to describing
+    (numerators of) rational functions associated with various types of zeta
+    functions, as well as to the enumeration of matrices over finite fields.
 
 - speaker: Sarah Brauner
   affiliation: Brown University
