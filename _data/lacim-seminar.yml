@@ -52,10 +52,20 @@
 - speaker: Sarah Brauner
   affiliation: Brown University
   title: >
-    TBA
+    Crystal skeletons: combinatorics and axioms
   date: 2025-06-13
   abstract: >
-    TBA
+    Crystal graphs provide combinatorial tools to study the representation
+    theory of Lie algebras. In this talk, I will discuss joint work with Sylvie
+    Corteel, Zajj Daugherty and Anne Schilling investigating the (Type A)
+    crystal skeleton, which is a graph obtained by contracting certain
+    components of a crystal graph. On the level of characters, crystal skeletons
+    model the expansion of Schur functions into Gessel's fundamental
+    quasisymmetric functions. Motivated by questions of Schur positivity, we
+    provide a combinatorial description of crystal skeletons, and prove many new
+    properties, including a conjecture by Maas-Gariépy that crystal skeletons
+    generalize dual equivalence graphs. We then characterize the crystal
+    skeleton axiomatically, in analogy to the Stembridge axioms for crystals.
 
 - speaker: Gaku Liu
   affiliation: University of Washington
@@ -716,3 +726,4 @@
     are not mutation equivalent to an acyclic quiver. This talk is partially
     based on joint work with Sergey Fomin [arXiv:2406.03604]
 
+  
