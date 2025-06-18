@@ -24,10 +24,19 @@
 - speaker: Yuhan Jiang
   affiliation: Harvard University
   title: >
-    TBA
+    Ehrhart series of positroid and alcoved polytopes
   date: 2025-06-20
   abstract: >
-    TBA
+    Alcoved polytopes are convex polytopes that are the closure of a union of
+    alcoves in an affine Coxeter arrangement. A positroid is a matroid realized
+    by a matrix such that all maximal minors are non-negative. Positroid
+    polytopes are the matroid polytopes of positroids, which are precisely those
+    matroid polytopes that are alcoved. We give a combinatorial formula for the
+    Ehrhart h*-polynomial of any positroid polytope. With Elisabeth Bullock, we
+    give a formula for the Ehrhart series of any alcoved polytope for any Lie
+    type. We also show a bijection between Early’s formula for the h*-polynomial
+    of the hypersimplex counted by decorated ordered set partitions and our
+    formula.
 
 - speaker: Angela Carnevale
   affiliation: University of Galway
