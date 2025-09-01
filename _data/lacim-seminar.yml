@@ -1,3 +1,31 @@
+
+
+- speaker: Ilani Axelrod-Freed
+  affiliation: Massachusetts Institute of Technology
+  title: >
+    TBA
+  date: 2025-12-19
+  abstract: >
+    TBA
+
+
+- speaker: Portia X. Anderson
+  affiliation: Queens University
+  title: >
+    TBA
+  date: 2025-12-12
+  abstract: >
+    TBA
+
+- speaker: Elena Hafner
+  affiliation: Cornell University
+  title: >
+    TBA
+  date: 2025-12-05
+  abstract: >
+    TBA
+
+
 - speaker: Benjamin Dequêne
   affiliation: Leeds University
   title: >
@@ -5,6 +33,24 @@
   date: 2025-10-31
   abstract: >
     TBA
+
+- speaker: Leonid Rybnikov
+  affiliation: Université de Montréal
+  title: >
+    TBA
+  date: 2025-09-12
+  abstract: >
+    TBA
+
+
+- speaker: Eric Marberg
+  affiliation: The Hong Kong University of Science and Technology
+  title: >
+    Harmonic functions on filtered and shifted Young graphs
+  date: 2025-08-29
+  abstract: >
+    We consider the convex set of harmonic functions on the Young lattice and some related graphs. One can precisely describe the boundary of this set by understanding the Schur positive specializations of the algebra of symmetric functions, which in turn are completely parametrized by the Edrei-Thoma theorem. Yeliussizov solved the analogous classification problem for the filtered Young lattice by studying Grothendieck positive specializations. This talk will explain these results and discuss their shifted variants. In the filtered shifted case, achieving the desired classification requires us to use a general Chevalley formula in equivariant K-theory due to Lenart-Postnikov to prove a positivity property of K-Stanley symmetric functions for signed permutations.
+
 
 - speaker: Tobias Rossmann
   affiliation: University of Galway
