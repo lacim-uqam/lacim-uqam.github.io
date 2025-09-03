@@ -14,5 +14,4 @@ Président-Kennedy de l’UQAM (PK-4323).
 - [Mónica Garcia (UQAM)](https://sites.google.com/view/monica-garcia-math/)
 - [Samuele Giraudo (UQAM)](https://igm.univ-mlv.fr/~giraudo/Home.html)
 - [Christophe Reutenauer (UQAM)](https://reutenauer.math.uqam.ca/)
-- [Tianyi Yu (UQAM)](https://bastidas-jose.codeberg.page/)
-
+- [Tianyi Yu (UQAM)](https://tianyi-math.github.io)
