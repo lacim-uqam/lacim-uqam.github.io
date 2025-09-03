@@ -42,6 +42,25 @@
   abstract: >
     TBA
 
+- speaker: Alejandro Morales
+  affiliation: UQAM
+  title: >
+    Formes gauches, positivités d’Ehrhart et au-delà!
+  date: 2025-09-05
+  abstract: >
+    Un résultat classique de Kreweras (1965) permet de calculer le nombre de
+    partitions planes d'une forme gauche donnée et de ses parties bornées comme
+    déterminants. Nous prouvons que ces déterminants se développent sous forme
+    de polynômes à coefficients positifs. Ce résultat peut être reformulé en
+    termes de polynômes d'ordre de cellules de formes gauches et explique
+    d'importants phénomènes de positivité concernant les polynômes d'Ehrhart
+    des polytopes de tesson, des matroïdes et des polytopes d'ordre. Entre
+    autres applications, nous généralisons une affirmation de positivité du
+    calcul de Schubert de Fomin et Kirillov (1997) des formes droites aux
+    formes gauches.
+
+    Basé sur un travail avec Luis Ferroni et Greta Panova.
+
 
 - speaker: Eric Marberg
   affiliation: The Hong Kong University of Science and Technology
