@@ -10,6 +10,9 @@ septembre à juin (et parfois l’été) les **vendredis de 11h à midi** au Pav
 Président-Kennedy de l’UQAM (PK-4323).
 
 **Organisateurs**
-- [Jose Bastidas (UQAM)](https://bastidas-jose.codeberg.page/)
+
+- [Mónica Garcia (UQAM)](https://sites.google.com/view/monica-garcia-math/)
 - [Samuele Giraudo (UQAM)](https://igm.univ-mlv.fr/~giraudo/Home.html)
 - [Christophe Reutenauer (UQAM)](https://reutenauer.math.uqam.ca/)
+- [Tianyi Yu (UQAM)](https://bastidas-jose.codeberg.page/)
+
