@@ -58,6 +58,13 @@
   degree: étudiant au doctorat
   website: https://www.math.mcgill.ca/alapierre/
 
+- name: Sonia Oueslati
+  supervisor: Christophe Reutenauer
+  affiliation: UQAM
+  degree: étudiante à la maitrise
+  website: 
+
+
 - name: Philippe Petit
   supervisor: Hugh Thomas
   affiliation: UQAM
@@ -76,11 +83,29 @@
   degree: étudiant au doctorat
   website: https://math.uqam.ca/le-departement/etudiants-aux-cycles-superieurs/
 
+- name: Catalina Quincosis
+  supervisor: Jean-Philippe Labbé
+  affiliation: UQAM
+  degree: étudiante à la maitrise
+  webiste:
+
 - name: Adrien Segovia
   supervisor: Samuele Giraudo et Hugh Thomas
   affiliation: UQAM
   degree: étudiant au doctorat
   website: https://sites.google.com/view/adriensegovia
+
+- name: Sooa Song
+  supervisor: Alejandro Morales
+  affiliation: UQAM
+  degree: étudiante au doctorat
+  website: 
+
+- name: Sarah Sekheri
+  supervisor: François Bergeron et Christophe Reutenauer
+  affiliation: UQAM
+  degree: étudiante à la maitrise
+  website: https://sites.google.com/view/adriensegovia  
 
 - name: Etienne Tétreault
   supervisor: François Bergeron
