@@ -45,10 +45,23 @@
 - speaker: Leonid Rybnikov
   affiliation: Université de Montréal
   title: >
-    TBA
+    Maximal transitivity of the cactus group on standard Young tableaux
   date: 2025-09-19
+  time: 13h00
   abstract: >
-    TBA
+    (Joint work with Sophia Liao)
+    The action of the cactus group on Young tableaux of a given shape goes back
+    to Berenstein and Kirillov and arises naturally in the study of crystal
+    bases and quantum integrable systems. We show that this action is
+    2-transitive on standard Young tableaux of the shape $\lambda$ if and only
+    if $\lambda$ is not self-transpose and not a single hook. Moreover, we show
+    that in these cases, the image of the cactus group in the permutation group
+    of standard Young tableaux is either the whole permutation group or the
+    alternating group. As an application, this implies that the Galois group of
+    solutions to the Bethe ansatz in the Gaudin model attached to the Lie group
+    $GL_n$ is, in many cases, at least the alternating group. This also extends
+    the results of Sottile and White on the multiple transitivity of the Galois
+    group of Schubert calculus problems in Grassmannians to many new cases.
 
 - speaker: Alejandro Morales
   affiliation: UQAM
