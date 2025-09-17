@@ -62,7 +62,7 @@
   supervisor: Christophe Reutenauer
   affiliation: UQAM
   degree: étudiante à la maitrise
-  website: 
+  website:
 
 
 - name: Philippe Petit
@@ -95,17 +95,17 @@
   degree: étudiant au doctorat
   website: https://sites.google.com/view/adriensegovia
 
+- name: Sarah Sekheri
+  supervisor: Christophe Reutenauer et Franco Saliola
+  affiliation: UQAM
+  degree: étudiante à la maitrise
+  website: https://sites.google.com/view/adriensegovia
+
 - name: Sooa Song
   supervisor: Alejandro Morales
   affiliation: UQAM
   degree: étudiante au doctorat
-  website: 
-
-- name: Sarah Sekheri
-  supervisor: François Bergeron et Christophe Reutenauer
-  affiliation: UQAM
-  degree: étudiante à la maitrise
-  website: https://sites.google.com/view/adriensegovia  
+  website:
 
 - name: Etienne Tétreault
   supervisor: François Bergeron
