@@ -1,5 +1,3 @@
-
-
 - speaker: Ilani Axelrod-Freed
   affiliation: Massachusetts Institute of Technology
   title: >
@@ -7,7 +5,6 @@
   date: 2025-12-19
   abstract: >
     TBA
-
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
@@ -25,6 +22,21 @@
   abstract: >
     TBA
 
+- speaker: Sébastien Labbé 
+  affiliation:  CNRS, Laboratoire Bordelais de Recherche en Informatique, Université de Bordeaux
+  title: >
+    TBA
+  date: 2025-11-28
+  abstract: >
+    TBA
+
+- speaker: Karen Yeats
+  affiliation: University of Waterloo
+  title: >
+    TBA
+  date: 2025-11-07
+  abstract: >
+    TBA
 
 - speaker: Benjamin Dequêne
   affiliation: Leeds University
@@ -41,6 +53,30 @@
   date: 2025-10-17
   abstract: >
     TBA
+
+- speaker: Jianping Pan
+  affiliation: Arizona State University
+  title: >
+    TBA
+  date: 2025-10-10
+  abstract: >
+    TBA
+
+- speaker: Peter Selinger
+  affiliation: Dalhousie University
+  title: >
+    TBA
+  date: 2025-10-03
+  abstract: >
+    TBA
+
+- speaker: François Bergeron
+  affiliation: UQAM
+  title: >
+    TBA
+  date: 2025-09-26
+  abstract: >
+    TBA    
 
 - speaker: Leonid Rybnikov
   affiliation: Université de Montréal
