@@ -232,14 +232,19 @@
     Vladimir Makarenkov's research focuses mainly on bioinformatics, data
     analysis, and machine learning.
 
-- name: Alejandro Morales
+- name: Alejandro H. Morales
   affiliation: UQAM (Mathématiques)
   email: morales_borrero.alejandro@uqam.ca
   website: https://sites.google.com/view/ahmorales
   interets_de_recherche: >
-    Domaines de recherche: Combinatoire énumérative et algébrique
+    Domaines de recherche: Les recherches d'Alejandro H. Morales portent sur 
+    la combinatoire énumérative et algébrique. Son programme de recherche porte sur l'étude, 
+    l'énumération et asymptotiques de tableaux de forme gauche, les extensions linéaire des ordres, et polynômes de Schubert. 
+    Il étudie aussi les polytopes de flots et analogues de factorisations de permutations dans d’autres groupes et algèbres.
   research_interests: >
-    Research areas: Enumerative and Algebraic Combinatorics
+    Research areas: Alejandro H. Morales' research is on Enumerative and Algebraic Combinatorics. He studies the enumeration and asymptotics 
+    of standard tableaux of skew shape, linear extensions of posets, and Schubert polynomials. He also studies flow polytopes 
+    of graphs and analogues of factorizations of permutations in other groups and algebras.
 
 - name: Christophe Reutenauer
   affiliation: UQAM (Mathématiques)
