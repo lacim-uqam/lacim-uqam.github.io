@@ -45,6 +45,14 @@
   date: 2025-10-31
   abstract: >
     TBA
+    
+- speaker: Jonathan Novak
+  affiliation: UC San Diego
+  title: >
+    TBA
+  date: 2025-10-30
+  abstract: >
+    TBA
 
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
@@ -65,10 +73,13 @@
 - speaker: Peter Selinger
   affiliation: Dalhousie University
   title: >
-    TBA
+    On 3-terminal positions in Hex
   date: 2025-10-03
   abstract: >
-    TBA
+    Combinatorial game theory is a formalism for analyzing sequential perfect information games that was introduced by Berlekamp, Conway, and Guy. 
+    There are various flavours of combinatorial game theory, for example, for normal play (where the last person to make a move wins), misère play (where the last person to make a move loses), and for scoring games (where the player with the higher score wins). 
+    In this talk, I'll discuss a flavour of combinatorial games that is appropriate for monotone set colouring games such as Hex. 
+    I'll apply this theory to solve some open problems in Hex. This is joint work with Eric Demer.
 
 - speaker: François Bergeron
   affiliation: UQAM
