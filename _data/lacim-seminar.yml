@@ -65,10 +65,17 @@
 - speaker: Jianping Pan
   affiliation: Arizona State University
   title: >
-    TBA
+    c-Birkhoff polytopes
   date: 2025-10-10
   abstract: >
-    TBA
+    In 2017, Davis and Sagan found that a pattern-avoiding Birkhoff subpolytope and an order polytope have the same normalized volume. 
+    They ask whether the two polytopes are unimodularly equivalent. 
+    We give an affirmative answer to a generalization of this question. 
+    For each Coxeter element c in the symmetric group, we define a pattern-avoiding Birkhoff subpolytope, which we call the c-Birkhoff polytope, 
+    and an order polytope of the heap poset of the c-sorting word of the longest permutation.
+    We show the two polytopes are unimodularly equivalent. 
+    As a consequence, we show the normalized volume of the c-Birkhoff polytope is equal to the number of the longest chains in a corresponding Cambrian lattice. 
+    In particular, when c = s_1s_2…s_{n-1}, this resolves the question by Davis and Sagan.
 
 - speaker: Peter Selinger
   affiliation: Dalhousie University
