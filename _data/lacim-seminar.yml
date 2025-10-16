@@ -57,10 +57,19 @@
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
   title: >
-    TBA
+    Enumerating Posets through Incidence matrices
   date: 2025-10-17
   abstract: >
-    TBA
+    Partially ordered sets (posets) have long served as fundamental
+    combinatorial structures connecting order theory, lattice theory, and
+    algebraic combinatorics. In this talk, we will present a matrix-based
+    framcheoework for studying and enumerating finite posets through their
+    incidence matrices called poset matrices. By encoding the order relation
+    into a (0,1)-matrix representation, we obtain an algebraic and algorithmic
+    approach to the classification and enumeration of posets up to isomorphism.
+    This perspective allows us to reformulate several classical enumeration
+    problems in poset theory. This talk will also include recent results on
+    enumeration as well as applications to operad structures.
 
 - speaker: Jianping Pan
   affiliation: Arizona State University
