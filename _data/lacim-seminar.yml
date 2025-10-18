@@ -30,6 +30,33 @@
   abstract: >
     TBA
 
+- speaker: Doron Puder
+  affiliation: Tel Aviv University
+  title: >
+    TBA
+  date: 2025-11-21
+  time: 13h30
+  abstract: >
+    TBA
+
+- speaker: Alejandro Galvan
+  affiliation: Dartmouth College
+  title: >
+    TBA
+  date: 2025-11-14
+  time: 13h30
+  abstract: >
+    TBA
+
+- speaker: Abbas Mehrabian
+  affiliation: Google DeepMind
+  title: >
+    TBA
+  date: 2025-11-14
+  time: 11h00
+  abstract: >
+    TBA
+
 - speaker: Karen Yeats
   affiliation: University of Waterloo
   title: >
@@ -49,10 +76,14 @@
 - speaker: Jonathan Novak
   affiliation: UC San Diego
   title: >
-    TBA
+    Generalized Cauchy determinants
   date: 2025-10-30
   abstract: >
-    TBA
+    To any power series $G(z)$ we can associate a multivariate power series defined by $G_N(z,a_1,\dots,a_N,b_1,\dots,B_N) = \frac{\det[G(za_ib_j)]}{\Delta(za_1,\dots,za_N)\Delta(b_1,\dots,b_N)},$ where $\Delta$ is the Vandermonde polynomial and the denominator of $G_N$ divides its numerator because the determinant is an alternating function of its rows and columns. 
+    We call $G_N$ the Cauchy determinant with generating function $G$. 
+    Indeed, when $G$ is the geometric series the classical Cauchy identity evaluates $G_N$ explicitly. 
+    This lecture is about what happens when $G$ is something more general than the geometric series, for example a hypergeometric function. 
+    We will see that hypergeometric Cauchy determinants have many remarkable features, including connections with Hurwitz theory and quasimodular forms.
 
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
@@ -63,7 +94,7 @@
     Partially ordered sets (posets) have long served as fundamental
     combinatorial structures connecting order theory, lattice theory, and
     algebraic combinatorics. In this talk, we will present a matrix-based
-    framcheoework for studying and enumerating finite posets through their
+    framework for studying and enumerating finite posets through their
     incidence matrices called poset matrices. By encoding the order relation
     into a (0,1)-matrix representation, we obtain an algebraic and algorithmic
     approach to the classification and enumeration of posets up to isomorphism.
