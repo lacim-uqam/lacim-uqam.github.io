@@ -68,10 +68,17 @@
 - speaker: Benjamin Dequêne
   affiliation: Leeds University
   title: >
-    TBA
+    Méandres arc-en-ciel sur des chemins de Dyck
   date: 2025-10-31
   abstract: >
-    TBA
+    Un méandre (de longueur n) est une paire de correspondances non-croisées sur {1,...,n}. 
+    On peut le représenter sur le plan réel comme un paire d'ensembles de demi-cercles, qui ne s'intersectent pas deux à deux, reliant n points sur une droite. 
+    Cette représentation géométrique permet d'introduire des notions de connexités qui se révèlent utiles dans plusieurs domaines : la théorie des nœuds, les algèbres de Lie, la combinatoire des mots et la théorie des représentations de carquois. 
+    Dans ces domaines, nous nous focalisons généralement sur l'étude d'une sous-famille de méandres, dites arc-en-ciel, paramétrés par des paires de compositions de n.
+    Dans cet exposé, nous allons introduire une nouvelle famille de méandres construits comme des méandres arc-en-ciel sur des chemins de Dyck, qui généralisera, d'une certaine manière, les méandres arc-en-ciel classiques. 
+    Ces derniers sont inspirés de travaux récents menés en collaboration avec M. Lapointe, Y. Palu, P.-G. Plamondon, C. Reutenauer et H. Thomas.  
+    Nous proposerons ensuite un algorithme, fondé sur des calculs arithmétiques, qui permettra de déterminer, par calcul, les caractéristiques géométriques d'un tel méandre. 
+    Nous mettrons également en avant son efficacité par rapport à celui obtenu par A. Karnauhova et S. Liebscher pour les méandres arc-en-ciel classiques.
     
 - speaker: Jonathan Novak
   affiliation: UC San Diego
