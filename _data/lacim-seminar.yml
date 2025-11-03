@@ -59,10 +59,10 @@
 - speaker: Karen Yeats
   affiliation: University of Waterloo
   title: >
-    TBA
+    Sizes of witnesses in covtree
   date: 2025-11-07
   abstract: >
-    TBA
+    Here is a purely combinatorial problem that arose in causal set theory. Let {P_1, ... , P_k} be distinct unlabelled posets all with n elements. Suppose there is a poset Q such that {P_1, ... , P_k} is exactly the set of downsets of Q of size n up to isomorphism. Given n and k can we give a tight upper bound on the minimum size of such a Q? As with newspaper headlines, the answer to the question is no, at least for the moment, but I'll explain what we do know and why this question has something to do with quantum gravity. Joint work with Jette Gutzeit, Kimia Shaban, and Stav Zalel.
 
 - speaker: Benjamin Dequêne
   affiliation: Leeds University
