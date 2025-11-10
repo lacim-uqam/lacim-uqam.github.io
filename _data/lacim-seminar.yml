@@ -54,7 +54,7 @@ In this talk, we give a characterization of triangular partitions and the cells 
   title: >
     AlphaEvolve for mathematical discovery
   date: 2025-11-14
-  time: 11h00
+  time: 11h00 (PK-5115)
   abstract: >
     I will explain how combining large language models and automatic evaluators can lead to discovering new mathematical objects, discussing some challenges working with language models as well as success stories. 
     The talk is based on https://arxiv.org/abs/2506.13131 and https://arxiv.org/abs/2511.02864.
