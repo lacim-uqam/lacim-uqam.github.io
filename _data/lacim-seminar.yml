@@ -25,10 +25,10 @@
 - speaker: Sébastien Labbé 
   affiliation:  CNRS, Laboratoire Bordelais de Recherche en Informatique, Université de Bordeaux
   title: >
-    TBA
+    $q$-analogs of rational numbers: from Ostrowski numeration systems to perfect matchings
   date: 2025-11-28
   abstract: >
-    TBA
+    We consider the $q$-deformation of rational numbers introduced recently by Morier-Genoud and Ovsienko. We propose three enumerative interpretations of these $q$-rationals: in terms of a new version of Ostrowski's numeration system for integers, in terms of order ideals of fence posets and in terms of perfect matchings of snake graphs. Contrary to previous results which are restricted to rational numbers greater than one, our interpretations work for all positive rational numbers and are based on a single combinatorial object for defining both the numerator and denominator. The proofs rest on order-preserving bijections between posets over these objects. We recover a formula for a $q$-analog of Markoff numbers. We also deduce a fourth interpretation given in terms of the integer points inside a polytope in $\mathbb{R}^k$ on both sides of a hyperplane where $k$ is the length of the continued fraction expansion. This is joint work with Jean-Christophe Aval: https://arxiv.org/abs/2511.11290.
 
 - speaker: Doron Puder
   affiliation: Tel Aviv University
