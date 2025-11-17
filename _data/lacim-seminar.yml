@@ -37,8 +37,8 @@
   date: 2025-11-21
   abstract: >
     Around 1992, Aldous made the following bold conjecture. Let A be any set of transpositions in the symmetric group Sym(N). Then the spectral gap of the Cayley graph Cay(Sym(N),A) is identical to that of a relatively tiny N-vertex graph defined by A. So even though the spectrum of the Cayley graph contains N! eigenvalues, the largest non-trivial one always comes from a tiny pool of N of them. This conjecture was proven nearly 20 years later by Caputo, Liggett and Richthammer (JAMS, 2010). 
-In a joint work with Gil Alon, driven by the conviction that such a stunning phenomenon cannot possibly be isolated, we found a probable parallel of this phenomenon in the unitary group U(N). We have a concrete conjecture supported by simulations, and we prove it in several non-trivial special cases. As it turns out, the corresponding spectrum in the case of U(N) contains the one in Sym(N). Moreover, the critical part of the spectrum in U(N) coincides with the spectrum of an interesting discrete process we call the "multiset process". 
-I will explain the original conjecture of Aldous, the new conjecture and our findings.
+    In a joint work with Gil Alon, driven by the conviction that such a stunning phenomenon cannot possibly be isolated, we found a probable parallel of this phenomenon in the unitary group U(N). We have a concrete conjecture supported by simulations, and we prove it in several non-trivial special cases. As it turns out, the corresponding spectrum in the case of U(N) contains the one in Sym(N). Moreover, the critical part of the spectrum in U(N) coincides with the spectrum of an interesting discrete process we call the "multiset process". 
+    I will explain the original conjecture of Aldous, the new conjecture and our findings.
 
 - speaker: Alejandro Galvan
   affiliation: Dartmouth College
