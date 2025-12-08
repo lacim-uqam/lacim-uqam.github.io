@@ -1,18 +1,18 @@
 - speaker: Ilani Axelrod-Freed
   affiliation: Massachusetts Institute of Technology
   title: >
-    TBA
+    The Chute Moves Lattice
   date: 2025-12-19
   abstract: >
-    TBA
+    For each permutation $w$, we consider the set $\mathcal{RP}(w)$ of reduced pipe dreams for $w$, partially ordered so that cover relations correspond to (generalized) chute moves. Settling a conjecture of Rubey from 2012, we prove that $\mathcal{RP}(w)$ is a lattice. To establish this result, introduce another poset consisting of objects called \emph{Lehmer tableaux} with relation given by entrywise comparison. We provide a global description of the partial order on $\mathcal{RP}(w)$ by showing that these two posets are isomorphic. In addition, we prove that $\mathcal{RP}(w)$ is a semidistributive polygonal lattice whose polygons are all diamonds or pentagons.
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
   title: >
-    TBA
+    Commutative Properties of Schubert Puzzles with Convex Polygonal Boundary Shapes
   date: 2025-12-12
   abstract: >
-    TBA
+    Schubert puzzles are combinatorial gadgets that perform computations in Schubert calculus, i.e. they compute the structure constants of the cohomology ring of the Grassmannian. While Schubert puzzles are classically triangular, in this talk we generalize them to include puzzles of other convex polygonal shapes. We present theorems on the commutative properties of these convex polygonal puzzles, which generalize the basic commutative property of triangular puzzles.
 
 - speaker: Elena Hafner
   affiliation: University of Washington
