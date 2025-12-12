@@ -4,7 +4,7 @@
     The Chute Moves Lattice
   date: 2025-12-19
   abstract: >
-    For each permutation $w$, we consider the set $\mathcal{RP}(w)$ of reduced pipe dreams for $w$, partially ordered so that cover relations correspond to (generalized) chute moves. Settling a conjecture of Rubey from 2012, we prove that $\mathcal{RP}(w)$ is a lattice. To establish this result, introduce another poset consisting of objects called \emph{Lehmer tableaux} with relation given by entrywise comparison. We provide a global description of the partial order on $\mathcal{RP}(w)$ by showing that these two posets are isomorphic. In addition, we prove that $\mathcal{RP}(w)$ is a semidistributive polygonal lattice whose polygons are all diamonds or pentagons.
+    For each permutation $w$, we consider the set $\mathcal{RP}(w)$ of reduced pipe dreams for $w$, partially ordered so that cover relations correspond to (generalized) chute moves. Settling a conjecture of Rubey from 2012, we prove that $\mathcal{RP}(w)$ is a lattice. To establish this result, introduce another poset consisting of objects called Lehmer tableaux with relation given by entrywise comparison. We provide a global description of the partial order on $\mathcal{RP}(w)$ by showing that these two posets are isomorphic. In addition, we prove that $\mathcal{RP}(w)$ is a semidistributive polygonal lattice whose polygons are all diamonds or pentagons.
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
