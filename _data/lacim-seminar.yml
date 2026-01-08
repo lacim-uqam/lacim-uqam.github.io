@@ -1,10 +1,52 @@
+- speaker: Scott Neville
+  affiliation: LACIM
+  title: > TBA
+  date: 2026-01-30
+  abstract: > 
+
+- speaker: Judith Marquardt
+  affiliation: Université Grenoble Alpes - UVSQ
+  title: > TBA
+  date: 2026-01-23
+  abstract: > 
+
+- speaker: Antoine Abram
+  affiliation: Université de Liège
+  title: > TBA
+  date: 2026-01-16
+  abstract: > 
+
+- speaker: Louigi Addario-Berry
+  affiliation: McGill University
+  title: > Heights and diameters of random trees and graphs
+  date: 2026-01-09
+  abstract: > 
+  Fix a finite set S of graphs, and let U be a uniformly random sample from S. We ask the question: what is the behaviour of the diam(U), the greatest graph distance between any two vertices in U? Many variants of this question have been asked, including for branching process trees (starting with the work of Kolmogorov 1938) and regular graphs (starting with the work of Bollobás 1982).Two natural and very general settings for this question are when $S$ has the form
+  \[
+  \begin{center}
+  S_1=\{T \text{ is a rooted tree with vertex set } V(G)=\{1,\ldots,n\} 
+  \text{ and vertex degrees } (d_1,\ldots,d_n)\}
+  \end{center}
+  \]
+  or
+  \[
+  \begin{center}
+  S_2=\{G \text{ is a graph with vertex set } V(G)=\{1,\ldots,n\} 
+  \text{ and vertex degrees } (d_1,\ldots,d_n)\}
+  \end{center}
+  \]
+We explain how to answer such questions, and to prove tight diameter upper bounds, in both cases. One of the challenges in proving the results for $S_2$ is that in general we know neither how to approximately enumerate nor how to efficiently sample from sets of the form $S_2$. Time permitting, I may also discuss diameter lower bounds.
+Based in part on joint work with Serte Donderwinkel, Gabriel Crudele, and Igor Kortchemski.
+
+  
+
 - speaker: Ilani Axelrod-Freed
   affiliation: Massachusetts Institute of Technology
   title: >
     The Chute Moves Lattice
   date: 2025-12-19
   abstract: >
-    For each permutation $w$, we consider the set $\mathcal{RP}(w)$ of reduced pipe dreams for $w$, partially ordered so that cover relations correspond to (generalized) chute moves. Settling a conjecture of Rubey from 2012, we prove that $\mathcal{RP}(w)$ is a lattice. To establish this result, introduce another poset consisting of objects called Lehmer tableaux with relation given by entrywise comparison. We provide a global description of the partial order on $\mathcal{RP}(w)$ by showing that these two posets are isomorphic. In addition, we prove that $\mathcal{RP}(w)$ is a semidistributive polygonal lattice whose polygons are all diamonds or pentagons.
+    For each permutation $w$, we consider the set $RP(w)$ of reduced pipe dreams for $w$, partially ordered so that cover relations correspond to (generalized) chute moves. Settling a conjecture of Rubey from 2012, we prove that $RP(w)$ is a lattice. To establish this result, introduce another poset consisting of objects called Lehmer tableaux with relation given by entrywise comparison. We provide a global description of the partial order on $RP(w)$ by showing that these two posets are isomorphic. In addition, we prove that $RP(w)$ is a semidistributive polygonal lattice whose polygons are all diamonds or pentagons.
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
