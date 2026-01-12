@@ -91,15 +91,10 @@
     (starting with the work of Kolmogorov 1938) and regular graphs (starting
     with the work of Bollobás 1982). Two natural and very general settings for
     this question are when $S$ has the form
-    \\[
-    S_1=\big\\{T \text{ is a rooted tree with vertex set } V(G)=\\{1,\ldots,n\\} 
-    \text{ and vertex degrees } (d_1,\ldots,d_n) \big\\}
-    \\]
-    or
-    \\[
-    S_2=\big\\{G \text{ is a graph with vertex set } V(G)=\\{1,\ldots,n\\} 
-    \text{ and vertex degrees } (d_1,\ldots,d_n)\big\\}
-    \\]
+    $S_1=\{T$ is a rooted tree with vertex set $V(G)=\{1,\ldots,n\}$ and vertex
+    degrees $(d_1,\ldots,d_n)\}$ or
+    $S_2=\{G$ is a graph with vertex set $V(G)=\{1,\ldots,n\}$ and vertex
+    degrees $(d_1,\ldots,d_n)\}$.
 
     We explain how to answer such questions, and to prove tight diameter upper bounds, in both cases. One of the challenges in proving the results for $S_2$ is that in general we know neither how to approximately enumerate nor how to efficiently sample from sets of the form $S_2$. Time permitting, I may also discuss diameter lower bounds.
 
