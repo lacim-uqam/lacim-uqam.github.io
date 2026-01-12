@@ -1,24 +1,87 @@
+- speaker: Nicolas Avila
+  affiliation: LACIM
+  title: > TBA
+  date: 2026-04-17
+  abstract: >
+
+- speaker: Emine Yildirim
+  affiliation: International Center for Mathematical Sciences (ICMS) - Sofia
+  title: > TBA
+  date: 2026-04-10
+  abstract: >
+
+- speaker: Houcine Ben Dali
+  affiliation: Harvard University
+  title: > TBA
+  date: 2026-03-27
+  abstract: >
+
+- speaker: Viktória Klász
+  affiliation: University of Bonn
+  title: > TBA
+  date: 2026-03-20
+  abstract: >
+
+- speaker: Azzurra Ciliberti
+  affiliation: Ruhr University Bochum
+  title: > TBA
+  date: 2026-03-13
+  abstract: >
+
+- speaker: Matt Larson
+  affiliation: Princeton University
+  title: > TBA
+  date: 2026-02-27
+  abstract: >
+
+- speaker: Adrien Segovia
+  affiliation: LACIM
+  title: > TBA
+  date: 2026-02-20
+  abstract: >
+  
+- speaker: Yakob Kahane
+  affiliation: LACIM
+  title: > TBA
+  date: 2026-02-13
+  abstract: >
+
+- speaker: Portia X. Anderson
+  affiliation: Queens University
+  title: > TBA
+  date: 2026-02-06
+  abstract: >
+
 - speaker: Scott Neville
   affiliation: LACIM
-  title: TBA
+  title: > TBA
   date: 2026-01-30
   abstract: > 
 
 - speaker: Judith Marquardt
   affiliation: Université Grenoble Alpes - UVSQ
-  title: TBA
+  title: > TBA
   date: 2026-01-23
   abstract: > 
 
 - speaker: Antoine Abram
   affiliation: Université de Liège
-  title: TBA
+  title: > 
+    Quotients de puissance de monoïdes simili-plaxique
   date: 2026-01-16
-  abstract: > 
+  abstract: >
+  La genèse de ce projet réside dans le, récement découvert, monoïde stylique qui peut être défini comme le quotient du monoïde plaxique par les relations $x^2=x$ pour chaque lettre $x$. Inspirés par les belles propriétés de ce dernier, nous avons étudié une famille plus générale de quotients, les quotients de puissance, qui sont obtenus en quotientant par les relations $x^\sigma(x) = x$, où $\sigma$ est une fonction de l'alphabet vers les entiers plus grands que $2$.
+  Nous avons étudié les quotients de puissance de certains monoïdes pouvant être définis à l'aide d'un algorithme d'insertion de lettres dans un objet combinatoire, parfois appelés monoïdes simili-plaxiques ou "plactic-like monoids" en anglais.
+  Les monoïdes ainsi obtenus possèdent une structure riches ayant d'intéressantes propriétés. Par exemple, ils peuvent être aussi définis à l'aide d'algorithmes d'insertion, et, en plus d'être finies, leurs cardinalités sont liées à des suites de nombres déjà connues telles que les nombres de Bell, de Catalan ou de Borel.
+De plus, dans tous les cas étudiés, la compréhension de la structure de n'importe quel quotient de puissance peut être réduite à celle du $2$-quotient $2$-quotient, où $\sigma(x)=2$ pour tout $x$.
+Ils se divisent en deux grandes familles (non-disjointes) possédant chacune des propriétés particulières.
+Durant l'exposé, nous nous concentrerons sur le monoïde chinois et le monoïde sylvestre.
+La présentation est basée sur un travail en colaboration avec F. Hivert, J. Mitchell, J.-C. Novelli and M. Tsalakou.
 
 - speaker: Louigi Addario-Berry
   affiliation: McGill University
-  title: Heights and diameters of random trees and graphs
+  title: > 
+    Heights and diameters of random trees and graphs
   date: 2026-01-09
   abstract: > 
     Fix a finite set $S$ of graphs, and let $U$ be a uniformly random sample
