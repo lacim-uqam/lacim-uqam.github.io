@@ -60,9 +60,28 @@
 
 - speaker: Judith Marquardt
   affiliation: Université Grenoble Alpes - UVSQ
-  title: TBA
+  title: Dégénérescences des familles de bandes et de cordes pour les algèbres aimables
   date: 2026-01-23
   abstract: > 
+    Soit $A$ une algèbre aimable. Elle est donnée par un carquois (graphe
+    orienté) et des $0$-relations (chemins orientés non admissibles). Les
+    représentations indécomposables de $A$ sont déterminées par la combinatoire
+    des cordes et des bandes (chemins non orientés sur le carquois). Donc
+    chaque représentation admet un diagramme, une famille de chemins qui la
+    décrit. On considère la variété de représentations d’une certaine
+    dimension. Cette variété admet une action de groupe tel que les orbites
+    sont les classes d’isomorphisme de représentations. On veut considérer
+    l’union de ces orbites dépendant des diagrammes sous-jacents. On montre que
+    ces unions sont totalement déterminées par les dimensions de certains
+    espaces d’homomorphismes. Si on ferme ces unions, on peut considérer
+    l’ordre partiel d’inclusion, appelé dégénérescence. On montre que certain
+    de ces dégénérescences sont induites par la combinatoire des cordes et des
+    bandes, comme ce qu'on appelle le baiser des diagrammes de cordes et de
+    bandes.
+
+    Cet exposé sera en anglais. Des questions en français sont bienvenues. On
+    travaillera avec un exemple courant pour expliquer les notions ci-dessus et
+    présentera certains des posets qui apparaissent.
 
 - speaker: Antoine Abram
   affiliation: Université de Liège
