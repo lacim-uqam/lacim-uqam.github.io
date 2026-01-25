@@ -54,9 +54,10 @@
 
 - speaker: Scott Neville
   affiliation: LACIM
-  title: TBA
+  title: Forks and Frozens
   date: 2026-01-30
   abstract: > 
+    Quivers and their mutations form the combinatorial foundation of cluster algebras. In this talk, we focus on quivers with a unique descent, called forks (introduced by Mattias Warkentin). We will survey several surprising properties of this family of quivers.
 
 - speaker: Judith Marquardt
   affiliation: Université Grenoble Alpes - UVSQ
