@@ -16,6 +16,13 @@
   date: 2026-03-27
   abstract: >
 
+- speaker: Duncan Laurie
+  affiliation: University of Edinburgh
+  title: TBA
+  date: 2026-03-20
+  time: 13h30
+  abstract: >
+
 - speaker: Viktória Klász
   affiliation: University of Bonn
   title: TBA
@@ -48,9 +55,10 @@
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
-  title: TBA
+  title: Commutative Properties of Schubert Puzzles with Convex Polygonal Boundary Shapes
   date: 2026-02-06
   abstract: >
+    Schubert puzzles are combinatorial gadgets that perform computations in Schubert calculus, i.e. they compute the structure constants of the cohomology ring of the Grassmannian. While Schubert puzzles are classically triangular, in this talk we generalize them to include puzzles of other convex polygonal shapes. We present theorems on the commutative properties of these convex polygonal puzzles, which generalize the basic commutative property of triangular puzzles.
 
 - speaker: Scott Neville
   affiliation: LACIM
