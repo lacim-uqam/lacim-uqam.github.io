@@ -4,7 +4,7 @@ custom_body_class: stages-page
 sidebar: false
 ---
 
-## Bourses d'initiation à la recherche 2025
+## Bourses d'initiation à la recherche 2026
 
 Les stages d'initiation à la recherche de premier cycle ont pour but de
 stimuler l'intérêt des étudiants pour la recherche en leur fournissant
@@ -17,7 +17,7 @@ qui ils souhaitent travailler avant la fin du mois de janvier.
 Ils vous guideront dans la soumission de la demande.
 
 ***Pour soumettre une demande.***
-Envoyez les documents suivants avant le **14 mars 2025** à
+Envoyez les documents suivants avant le **13 mars 2026** à
 [lacim@uqam.ca](mailto:lacim@uqam.ca):
 - description du projet de recherche;
 - copie du relevé de notes;
