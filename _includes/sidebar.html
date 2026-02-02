@@ -1,5 +1,26 @@
     {% if page.sidebar %}
     <div class="sidebar">
+        <h3>
+            {% if page.lang == "en" %}
+                Upcoming activities
+            {% elsif page.lang == "fr" %}
+                Activités à venir
+            {% endif %}
+        </h3>
+        <ul style="margin-left: 20px; padding-left: 0px; padding-right: 10px;">
+            {% for activity in site.data.upcoming-activities %}
+                <li style="padding-bottom: 1em;">
+                    <a href="{{ activity.url }}">{{ activity.title }}</a>
+                    <br>
+                    <small>({{ activity.dates }})</small>
+                </li>
+            {% endfor %}
+
+        {% if page.sidebar.text %}
+            <div>
+                {{ page.sidebar.text }}
+            </div>
+        {% endif %}
         {% if page.sidebar.image %}
             <div align='center'>
                 <img src="{{ page.sidebar.image }}" width="100%" />

@@ -3,7 +3,6 @@ layout: home
 custom_body_class: home-page
 sidebar:
     images:
-        - filename: /images/LogoLacim.jpeg
         - filename: /images/Tamari42_dec-251x300.jpeg
           width: 80%
 ---
