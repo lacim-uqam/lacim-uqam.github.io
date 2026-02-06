@@ -38,10 +38,13 @@ projet.
 : Superviseure : [Véronique Bazier-Matte](https://sites.google.com/view/veronique-bazier-matte)  (à Laval)  
 : Description : Ce projet explore comment les mouvements de Reidemeister, qui transforment les diagrammes de nœuds sans changer leur nature topologique, affectent la structure sous-jacente des états de Kauffman. Il s'agit de calculer les treillis de ces états pour des nœuds simples, appliquera systématiquement les trois types de mouvements de Reidemeister, puis analysera les transformations observées pour identifier des motifs récurrents. L'objectif final est de formuler une description générale, voire une conjecture, sur la manière dont ces mouvements préservent ou modifient la structure du treillis, tout en maintenant l'invariance du polynôme d'Alexander.
 
+<!-- -->
 
 ***Exploration de problèmes de combinatoire algébrique***
 : Superviseur : [François Bergeron](http://bergeron.math.uqam.ca/)
 : Description : Le but est d’explorer expérimentalement des propriétés d’objets combinatoires, et d’en dégager des liens avec des objets algébriques. 
+
+<!-- -->
 
 ***La suite des suites d'entiers en combinatoire***
 : Superviseur : [Alejandro H. Morales](https://ahmorales.combinatoria.co)
