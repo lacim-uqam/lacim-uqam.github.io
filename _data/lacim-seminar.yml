@@ -49,9 +49,10 @@
   
 - speaker: Yakob Kahane
   affiliation: LACIM
-  title: TBA
+  title: Polynôme d'Ordre des posets palissades, Polynôme d'Ehrhart et conjecture de Watanabe—Yoshida.
   date: 2026-02-13
   abstract: >
+    Durant cette présentation, nous verrons une nouvelle approche pour calculer les coefficients des polynômes d'ordres d'un Poset, leur lien avec les polynômes d'Ehrhart du polytope d'Ordre associé. Nous verrons comment cette approche peut être utilisée pour d'une part redémontrer une partie de la conjecture de Watanabe—Yoshida, et d'autre part de définir une statistique sur les permutations permettant de décrire ces polynômes pour les posets palissades.   
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
