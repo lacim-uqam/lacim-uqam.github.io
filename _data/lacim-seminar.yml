@@ -9,13 +9,13 @@
   title: TBA
   date: 2026-05-15
   abstract: >
-  
+
 - speaker: Jack Chou
   affiliation: University of Florida
   title: TBA
   date: 2026-05-08
   abstract: >
-  
+
 - speaker: Graham Denham
   affiliation: University Of Western Ontario
   title: TBA
@@ -71,7 +71,7 @@
   title: Complementary vectors of doubly Cohen-Macaulay complexes
   date: 2026-02-27
   abstract: >
-    Doubly Cohen-Macaulay complexes are a family of simplicial complexes that includes triangulations of spheres, Bergman complexes of matroids, and independence complexes of coloopless matroids. Work of Adiprasito, Papadakis, and Petrotou implies that the $h$-vector of a doubly Cohen-Macaulay complex of dimension $d - 1$ satisfies $h_i \le h_{d-i}$ for $i \le d/2$. The complementary vector is $(h_d - h_0, h_{d-1} - h_1, \dotsc)$. We show that the complementary vector of a doubly Cohen-Macaulay complex is the Hilbert function of a module over a polynomial ring which is generated in degree 0, and that any such Hilbert functions is the complementary vector of a doubly Cohen-Macaulay complex. Joint work with Alan Stapledon. 
+    Doubly Cohen-Macaulay complexes are a family of simplicial complexes that includes triangulations of spheres, Bergman complexes of matroids, and independence complexes of coloopless matroids. Work of Adiprasito, Papadakis, and Petrotou implies that the $h$-vector of a doubly Cohen-Macaulay complex of dimension $d - 1$ satisfies $h_i \le h_{d-i}$ for $i \le d/2$. The complementary vector is $(h_d - h_0, h_{d-1} - h_1, \dotsc)$. We show that the complementary vector of a doubly Cohen-Macaulay complex is the Hilbert function of a module over a polynomial ring which is generated in degree 0, and that any such Hilbert functions is the complementary vector of a doubly Cohen-Macaulay complex. Joint work with Alan Stapledon.
 
 - speaker: Adrien Segovia
   affiliation: LACIM
@@ -80,13 +80,13 @@
   abstract: >
     La dimension d’un ordre, souvent difficile à calculer, est une mesure de sa complexité. Dilworth a montré que la dimension d’un treillis distributif est la largeur de son sous-ordre induit sur ses sup-irréductibles. Nous généralisons ce résultat en montrons que la dimension d’un treillis semi-distributif extrémal est le nombre chromatique du complément de son graphe de Galois (voir la partie 3.5 de https://arxiv.org/abs/2511.18540). Nous appliquons ce résultat pour montrer que la dimension du treillis des classes de torsion d’un arbre aimable à n sommets est de dimension n.
     Aucune connaissance avancée n’est requise pour suivre la présentation.
-  
+
 - speaker: Yakob Kahane
   affiliation: LACIM
   title: Polynôme d'Ordre des posets palissades, Polynôme d'Ehrhart et conjecture de Watanabe—Yoshida.
   date: 2026-02-13
   abstract: >
-    Durant cette présentation, nous verrons une nouvelle approche pour calculer les coefficients des polynômes d'ordres d'un Poset, leur lien avec les polynômes d'Ehrhart du polytope d'Ordre associé. Nous verrons comment cette approche peut être utilisée pour d'une part redémontrer une partie de la conjecture de Watanabe—Yoshida, et d'autre part de définir une statistique sur les permutations permettant de décrire ces polynômes pour les posets palissades.   
+    Durant cette présentation, nous verrons une nouvelle approche pour calculer les coefficients des polynômes d'ordres d'un Poset, leur lien avec les polynômes d'Ehrhart du polytope d'Ordre associé. Nous verrons comment cette approche peut être utilisée pour d'une part redémontrer une partie de la conjecture de Watanabe—Yoshida, et d'autre part de définir une statistique sur les permutations permettant de décrire ces polynômes pour les posets palissades.
 
 - speaker: Portia X. Anderson
   affiliation: Queens University
@@ -99,14 +99,14 @@
   affiliation: LACIM
   title: Forks and Frozens
   date: 2026-01-30
-  abstract: > 
+  abstract: >
     Quivers and their mutations form the combinatorial foundation of cluster algebras. In this talk, we focus on quivers with a unique descent, called forks (introduced by Mattias Warkentin). We will survey several surprising properties of this family of quivers.
 
 - speaker: Judith Marquardt
   affiliation: Université Grenoble Alpes - UVSQ
   title: Dégénérescences des familles de bandes et de cordes pour les algèbres aimables
   date: 2026-01-23
-  abstract: > 
+  abstract: >
     Soit $A$ une algèbre aimable. Elle est donnée par un carquois (graphe
     orienté) et des $0$-relations (chemins orientés non admissibles). Les
     représentations indécomposables de $A$ sont déterminées par la combinatoire
@@ -129,7 +129,7 @@
 
 - speaker: Antoine Abram
   affiliation: Université de Liège
-  title: > 
+  title: >
     Quotients de puissance de monoïdes simili-plaxique
   date: 2026-01-16
   abstract: >
@@ -143,10 +143,10 @@
 
 - speaker: Louigi Addario-Berry
   affiliation: McGill University
-  title: > 
+  title: >
     Heights and diameters of random trees and graphs
   date: 2026-01-09
-  abstract: > 
+  abstract: >
     Fix a finite set $S$ of graphs, and let $U$ be a uniformly random sample
     from $S$. We ask the question: what is the behaviour of the $diam(U)$, the
     greatest graph distance between any two vertices in $U$? Many variants of
@@ -187,7 +187,7 @@
   abstract: >
     Castelnuovo-Mumford polynomials are the maximal degree components of Grothendieck polynomials.  The support of each Castelnuovo-Mumford polynomial is conjectured to be M-convex, i.e. the set of integer points of a generalized permutahedron (Mészáros and St. Dizier, 2020).  This conjecture is known to hold in certain special cases but remains open in general. We define new families of permutations whose Castelnuovo-Mumford polynomials we show to have M-convex support.  Specifically, we investigate which permutations have Castelnuovo-Mumford polynomials whose supports are the set of integer points in a schubitope.
 
-- speaker: Sébastien Labbé 
+- speaker: Sébastien Labbé
   affiliation:  CNRS, IRL CRM-CNRS, Montréal, Canada
   title: >
     $q$-analogs of rational numbers: from Ostrowski numeration systems to perfect matchings
@@ -201,8 +201,8 @@
     Aldous-type spectral gaps in Unitary groups
   date: 2025-11-21
   abstract: >
-    Around 1992, Aldous made the following bold conjecture. Let A be any set of transpositions in the symmetric group Sym(N). Then the spectral gap of the Cayley graph Cay(Sym(N),A) is identical to that of a relatively tiny N-vertex graph defined by A. So even though the spectrum of the Cayley graph contains N! eigenvalues, the largest non-trivial one always comes from a tiny pool of N of them. This conjecture was proven nearly 20 years later by Caputo, Liggett and Richthammer (JAMS, 2010). 
-    In a joint work with Gil Alon, driven by the conviction that such a stunning phenomenon cannot possibly be isolated, we found a probable parallel of this phenomenon in the unitary group U(N). We have a concrete conjecture supported by simulations, and we prove it in several non-trivial special cases. As it turns out, the corresponding spectrum in the case of U(N) contains the one in Sym(N). Moreover, the critical part of the spectrum in U(N) coincides with the spectrum of an interesting discrete process we call the "multiset process". 
+    Around 1992, Aldous made the following bold conjecture. Let A be any set of transpositions in the symmetric group Sym(N). Then the spectral gap of the Cayley graph Cay(Sym(N),A) is identical to that of a relatively tiny N-vertex graph defined by A. So even though the spectrum of the Cayley graph contains N! eigenvalues, the largest non-trivial one always comes from a tiny pool of N of them. This conjecture was proven nearly 20 years later by Caputo, Liggett and Richthammer (JAMS, 2010).
+    In a joint work with Gil Alon, driven by the conviction that such a stunning phenomenon cannot possibly be isolated, we found a probable parallel of this phenomenon in the unitary group U(N). We have a concrete conjecture supported by simulations, and we prove it in several non-trivial special cases. As it turns out, the corresponding spectrum in the case of U(N) contains the one in Sym(N). Moreover, the critical part of the spectrum in U(N) coincides with the spectrum of an interesting discrete process we call the "multiset process".
     I will explain the original conjecture of Aldous, the new conjecture and our findings.
 
 - speaker: Alejandro Galvan
@@ -221,7 +221,7 @@
   date: 2025-11-14
   time: 11h00
   abstract: >
-    I will explain how combining large language models and automatic evaluators can lead to discovering new mathematical objects, discussing some challenges working with language models as well as success stories. 
+    I will explain how combining large language models and automatic evaluators can lead to discovering new mathematical objects, discussing some challenges working with language models as well as success stories.
     The talk is based on https://arxiv.org/abs/2506.13131 and https://arxiv.org/abs/2511.02864.
 
 
@@ -239,25 +239,25 @@
     Méandres arc-en-ciel sur des chemins de Dyck
   date: 2025-10-31
   abstract: >
-    Un méandre (de longueur n) est une paire de correspondances non-croisées sur {1,...,n}. 
-    On peut le représenter sur le plan réel comme un paire d'ensembles de demi-cercles, qui ne s'intersectent pas deux à deux, reliant n points sur une droite. 
-    Cette représentation géométrique permet d'introduire des notions de connexités qui se révèlent utiles dans plusieurs domaines : la théorie des nœuds, les algèbres de Lie, la combinatoire des mots et la théorie des représentations de carquois. 
+    Un méandre (de longueur n) est une paire de correspondances non-croisées sur {1,...,n}.
+    On peut le représenter sur le plan réel comme un paire d'ensembles de demi-cercles, qui ne s'intersectent pas deux à deux, reliant n points sur une droite.
+    Cette représentation géométrique permet d'introduire des notions de connexités qui se révèlent utiles dans plusieurs domaines : la théorie des nœuds, les algèbres de Lie, la combinatoire des mots et la théorie des représentations de carquois.
     Dans ces domaines, nous nous focalisons généralement sur l'étude d'une sous-famille de méandres, dites arc-en-ciel, paramétrés par des paires de compositions de n.
-    Dans cet exposé, nous allons introduire une nouvelle famille de méandres construits comme des méandres arc-en-ciel sur des chemins de Dyck, qui généralisera, d'une certaine manière, les méandres arc-en-ciel classiques. 
-    Ces derniers sont inspirés de travaux récents menés en collaboration avec M. Lapointe, Y. Palu, P.-G. Plamondon, C. Reutenauer et H. Thomas.  
-    Nous proposerons ensuite un algorithme, fondé sur des calculs arithmétiques, qui permettra de déterminer, par calcul, les caractéristiques géométriques d'un tel méandre. 
+    Dans cet exposé, nous allons introduire une nouvelle famille de méandres construits comme des méandres arc-en-ciel sur des chemins de Dyck, qui généralisera, d'une certaine manière, les méandres arc-en-ciel classiques.
+    Ces derniers sont inspirés de travaux récents menés en collaboration avec M. Lapointe, Y. Palu, P.-G. Plamondon, C. Reutenauer et H. Thomas.
+    Nous proposerons ensuite un algorithme, fondé sur des calculs arithmétiques, qui permettra de déterminer, par calcul, les caractéristiques géométriques d'un tel méandre.
     Nous mettrons également en avant son efficacité par rapport à celui obtenu par A. Karnauhova et S. Liebscher pour les méandres arc-en-ciel classiques.
-    
+
 - speaker: Jonathan Novak
   affiliation: UC San Diego
   title: >
     Generalized Cauchy determinants
   date: 2025-10-30
   abstract: >
-    To any power series $G(z)$ we can associate a multivariate power series defined by $G_N(z,a_1,\dots,a_N,b_1,\dots,B_N) = \frac{\det[G(za_ib_j)]}{\Delta(za_1,\dots,za_N)\Delta(b_1,\dots,b_N)},$ where $\Delta$ is the Vandermonde polynomial and the denominator of $G_N$ divides its numerator because the determinant is an alternating function of its rows and columns. 
-    We call $G_N$ the Cauchy determinant with generating function $G$. 
-    Indeed, when $G$ is the geometric series the classical Cauchy identity evaluates $G_N$ explicitly. 
-    This lecture is about what happens when $G$ is something more general than the geometric series, for example a hypergeometric function. 
+    To any power series $G(z)$ we can associate a multivariate power series defined by $G_N(z,a_1,\dots,a_N,b_1,\dots,B_N) = \frac{\det[G(za_ib_j)]}{\Delta(za_1,\dots,za_N)\Delta(b_1,\dots,b_N)},$ where $\Delta$ is the Vandermonde polynomial and the denominator of $G_N$ divides its numerator because the determinant is an alternating function of its rows and columns.
+    We call $G_N$ the Cauchy determinant with generating function $G$.
+    Indeed, when $G$ is the geometric series the classical Cauchy identity evaluates $G_N$ explicitly.
+    This lecture is about what happens when $G$ is something more general than the geometric series, for example a hypergeometric function.
     We will see that hypergeometric Cauchy determinants have many remarkable features, including connections with Hurwitz theory and quasimodular forms.
 
 - speaker: Gi-Sang Cheon
@@ -283,13 +283,13 @@
     $c$-Birkhoff polytopes
   date: 2025-10-10
   abstract: >
-    In 2017, Davis and Sagan found that a pattern-avoiding Birkhoff subpolytope and an order polytope have the same normalized volume. 
-    They ask whether the two polytopes are unimodularly equivalent. 
-    We give an affirmative answer to a generalization of this question. 
-    For each Coxeter element $c$ in the symmetric group, we define a pattern-avoiding Birkhoff subpolytope, which we call the $c$-Birkhoff polytope, 
+    In 2017, Davis and Sagan found that a pattern-avoiding Birkhoff subpolytope and an order polytope have the same normalized volume.
+    They ask whether the two polytopes are unimodularly equivalent.
+    We give an affirmative answer to a generalization of this question.
+    For each Coxeter element $c$ in the symmetric group, we define a pattern-avoiding Birkhoff subpolytope, which we call the $c$-Birkhoff polytope,
     and an order polytope of the heap poset of the $c$-sorting word of the longest permutation.
-    We show the two polytopes are unimodularly equivalent. 
-    As a consequence, we show the normalized volume of the $c$-Birkhoff polytope is equal to the number of the longest chains in a corresponding Cambrian lattice. 
+    We show the two polytopes are unimodularly equivalent.
+    As a consequence, we show the normalized volume of the $c$-Birkhoff polytope is equal to the number of the longest chains in a corresponding Cambrian lattice.
     In particular, when $c$ = $s_1 s_2 \cdots s_{n-1}$, this resolves the question by Davis and Sagan.
 
 - speaker: Peter Selinger
@@ -298,9 +298,9 @@
     On 3-terminal positions in Hex
   date: 2025-10-03
   abstract: >
-    Combinatorial game theory is a formalism for analyzing sequential perfect information games that was introduced by Berlekamp, Conway, and Guy. 
-    There are various flavours of combinatorial game theory, for example, for normal play (where the last person to make a move wins), misère play (where the last person to make a move loses), and for scoring games (where the player with the higher score wins). 
-    In this talk, I'll discuss a flavour of combinatorial games that is appropriate for monotone set colouring games such as Hex. 
+    Combinatorial game theory is a formalism for analyzing sequential perfect information games that was introduced by Berlekamp, Conway, and Guy.
+    There are various flavours of combinatorial game theory, for example, for normal play (where the last person to make a move wins), misère play (where the last person to make a move loses), and for scoring games (where the player with the higher score wins).
+    In this talk, I'll discuss a flavour of combinatorial games that is appropriate for monotone set colouring games such as Hex.
     I'll apply this theory to solve some open problems in Hex. This is joint work with Eric Demer.
 
 - speaker: François Bergeron
@@ -309,7 +309,7 @@
     $h$-vecteur de polytopes associaédraux et $h$-fonctions symétriques
   date: 2025-09-26
   abstract: >
-    Nous allons décrire en termes de fonctions symétriques homogènes le $h$-vecteur (ou $h$-polynôme) de polytopes dont les faces sont isomorphes à des produits d’associèdres.   
+    Nous allons décrire en termes de fonctions symétriques homogènes le $h$-vecteur (ou $h$-polynôme) de polytopes dont les faces sont isomorphes à des produits d’associèdres.
 
 - speaker: Leonid Rybnikov
   affiliation: Université de Montréal
@@ -408,7 +408,7 @@
     recent applications in the world of zeta functions in algebra. I will then
     discuss a few extended examples of permutation statistics in the context of
     Coxeter and Weyl groups, and certain complex reflection groups.
-    
+
     These permutation statistics arose from or have applications to describing
     (numerators of) rational functions associated with various types of zeta
     functions, as well as to the enumeration of matrices over finite fields.
@@ -481,7 +481,7 @@
     is fully abstract in the absence of negative channel transmission. As a
     result, our semantics provides an intuitively reasonable account of
     session-typed communication and a foundation for reasoning about processes
-    in more realistic session-typed languages. 
+    in more realistic session-typed languages.
 
 - speaker: Derek Moran
   affiliation: Simon Fraser University
@@ -560,7 +560,7 @@
     de Frenkel—Hernandez sur une catégorification monoïdale d’algèbre
     amassée.
 
-    Cet exposé est basé sur un travail conjoint avec Artem Kalmykov, Joel 
+    Cet exposé est basé sur un travail conjoint avec Artem Kalmykov, Joel
     Kamnitzer, Alexis Leroux-Lapierre et Alex Weekes.
 
 - speaker: Angèle Foley
@@ -575,7 +575,7 @@
     a non-intersecting lattice path model, a Pfaffian result in the form of a
     ninth variation version of Hamel’s Pfaffian outside decomposition identity.
     As corollaries to this, we derive Pfaffian identities generalizing those of
-    Jozefiak and Pragacz, Nimmo, and Okada. 
+    Jozefiak and Pragacz, Nimmo, and Okada.
 
     This is joint work with Ron King.
 
@@ -653,7 +653,7 @@
     Rietsch, Talaska and Williams, Lam, and Lusztig, that the totally positive
     Grassmannian equals the subset of the Grassmannian with positive Plücker
     coordinates. While this result is algebro-geometric in nature, we will also
-    spend time discussing the proof method, which is almost entirely 
+    spend time discussing the proof method, which is almost entirely
     combinatorial, relying heavily on graph theory and the combinatorics of the
     Bruhat order. We will discuss related results, proven using similar
     combinatorics, giving total positivity conditions for flag varieties of
@@ -765,7 +765,7 @@
     Artin basis and the descent basis, are indexed by permutations and
     correspond to the statistics inv and maj respectively. Both bases give
     combinatorial explanations for the Hilbert series of the coinvariant ring,
-    which is $[n]_q!$. 
+    which is $[n]_q!$.
 
     We construct a basis of the Garsia-Procesi ring $R_\mu$, a quotient of the
     coinvariant ring, using the catabolizability type of standard Young tableaux
@@ -773,7 +773,7 @@
     is compatible with the Hilbert series of $R_\mu$ in the same manner.  Our
     construction of the basis provides the first direct connection between the
     combinatorics of the basis with the combinatorial formula for the modified
-    Hall-Littlewood polynomials $\widetilde{H}_{\mu}{[X;q]}$, due to Lascoux. We 
+    Hall-Littlewood polynomials $\widetilde{H}_{\mu}{[X;q]}$, due to Lascoux. We
     use this description to give an elementary proof of the fact that the graded
     Frobenius character of $R_{\mu}$ is given by $\widetilde{H}_{\mu}{[X;q]}$.
 
@@ -794,7 +794,7 @@
     2021, Enomoto posed a conjecture, now known as the Semibrick Conjecture: an
     algebra A admits infinitely many non-isomorphic bricks if and only if A
     admits an infinite semibrick-- i.e., there exists an infinite set of
-    pairwise Hom-orthogonal bricks. 
+    pairwise Hom-orthogonal bricks.
 
     In our recent work (arXiv:2407.20877), we made important progress on a
     series of open conjectures. Specifically, we treated the Semibrick
@@ -834,7 +834,7 @@
 
 - speaker: Tianyi Yu
   affiliation: UQAM
-  title: > 
+  title: >
     Standard Crystals for symmetric Grothendieck Polynomials
   date: 2024-12-13
   abstract: >
@@ -909,7 +909,7 @@
     quasisymmetric polynomials, and speculate about how this can deepen our
     understanding of equivariant Schubert calculus. This is ongoing work with
     Nantel Bergeron, Philippe Nadeau, Hunter Spink, and Vasu Tewari.
-    
+
 - speaker: Jeronimo Valencia
   affiliation: Waterloo University
   title: >
@@ -1014,8 +1014,8 @@
     is the poset of regions in the Coxeter arrangement, the extended weak order
     is the poset of _quasiregions_.  Quasiregions include regions, but for
     infinite Coxeter group they also include more exotic objects (equivalent to
-    _biclosed sets_ of positive roots). 
-    
+    _biclosed sets_ of positive roots).
+
     For instance, in type $\widetilde{A}$, quasiregions are equivalent to
     translation-invariant total orderings of the integers (TITOs). In type
     $\widetilde{A}$, the extended weak order is a lattice, while the weak order
@@ -1023,7 +1023,7 @@
     quotient of the lattice of torsion classes for a type $\widetilde{A}$
     preprojective algebra. We also introduce the affine Tamari lattice, which is
     the poset of $312$-avoiding TITOs, and show how it describes a cluster
-    algebra for the oriented cycle quiver. 
+    algebra for the oriented cycle quiver.
 
 - speaker: Elisa Sasso
   affiliation: Università di Bologna
@@ -1089,5 +1089,3 @@
     can be used to show that various quivers are not mutation acyclic, i.e., they
     are not mutation equivalent to an acyclic quiver. This talk is partially
     based on joint work with Sergey Fomin [arXiv:2406.03604]
-
-  
