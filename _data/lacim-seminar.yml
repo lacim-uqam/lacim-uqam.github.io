@@ -1,3 +1,33 @@
+- speaker: Moriah Elkin
+  affiliation: Cornell University
+  title: TBA
+  date: 2026-05-22
+  abstract: >
+
+- speaker: Sheila Sundaram
+  affiliation: University of Minnesota
+  title: TBA
+  date: 2026-05-15
+  abstract: >
+  
+- speaker: Jack Chou
+  affiliation: University of Florida
+  title: TBA
+  date: 2026-05-08
+  abstract: >
+  
+- speaker: Graham Denham
+  affiliation: University Of Western Ontario
+  title: TBA
+  date: 2026-05-01
+  abstract: >
+
+- speaker: Sophie Rehberg
+  affiliation: LACIM
+  title: TBA
+  date: 2026-04-24
+  abstract: >
+
 - speaker: Nicolas Avila
   affiliation: LACIM
   title: TBA
@@ -23,29 +53,33 @@
   time: 13h30
   abstract: >
 
-- speaker: Viktória Klász
-  affiliation: University of Bonn
+  - speaker: Kelsey Brown
+  affiliation: Colorado State University
   title: TBA
   date: 2026-03-20
+  time: 11h00
   abstract: >
 
-- speaker: Azzurra Ciliberti
-  affiliation: Ruhr University Bochum
+- speaker: Viktória Klász
+  affiliation: University of Bonn
   title: TBA
   date: 2026-03-13
   abstract: >
 
 - speaker: Matt Larson
   affiliation: Princeton University
-  title: TBA
+  title: Complementary vectors of doubly Cohen-Macaulay complexes
   date: 2026-02-27
   abstract: >
+     Doubly Cohen-Macaulay complexes are a family of simplicial complexes that includes triangulations of spheres, Bergman complexes of matroids, and independence complexes of coloopless matroids. Work of Adiprasito, Papadakis, and Petrotou implies that the $h$-vector of a doubly Cohen-Macaulay complex of dimension $d - 1$ satisfies $h_i \le h_{d-i}$ for $i \le d/2$. The complementary vector is $(h_d - h_0, h_{d-1} - h_1, \dotsc)$. We show that the complementary vector of a doubly Cohen-Macaulay complex is the Hilbert function of a module over a polynomial ring which is generated in degree 0, and that any such Hilbert functions is the complementary vector of a doubly Cohen-Macaulay complex. Joint work with Alan Stapledon. 
 
 - speaker: Adrien Segovia
   affiliation: LACIM
-  title: TBA
+  title: La dimension des treillis semi-distributifs extrémaux
   date: 2026-02-20
   abstract: >
+    La dimension d’un ordre, souvent difficile à calculer, est une mesure de sa complexité. Dilworth a montré que la dimension d’un treillis distributif est la largeur de son sous-ordre induit sur ses sup-irréductibles. Nous généralisons ce résultat en montrons que la dimension d’un treillis semi-distributif extrémal est le nombre chromatique du complément de son graphe de Galois (voir la partie 3.5 de https://arxiv.org/abs/2511.18540). Nous appliquons ce résultat pour montrer que la dimension du treillis des classes de torsion d’un arbre aimable à n sommets est de dimension n.
+    Aucune connaissance avancée n’est requise pour suivre la présentation.
   
 - speaker: Yakob Kahane
   affiliation: LACIM
