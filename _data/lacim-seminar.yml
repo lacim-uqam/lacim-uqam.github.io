@@ -53,7 +53,7 @@
   time: 13h30
   abstract: >
 
-  - speaker: Kelsey Brown
+- speaker: Kelsey Brown
   affiliation: Colorado State University
   title: TBA
   date: 2026-03-20
@@ -71,7 +71,7 @@
   title: Complementary vectors of doubly Cohen-Macaulay complexes
   date: 2026-02-27
   abstract: >
-     Doubly Cohen-Macaulay complexes are a family of simplicial complexes that includes triangulations of spheres, Bergman complexes of matroids, and independence complexes of coloopless matroids. Work of Adiprasito, Papadakis, and Petrotou implies that the $h$-vector of a doubly Cohen-Macaulay complex of dimension $d - 1$ satisfies $h_i \le h_{d-i}$ for $i \le d/2$. The complementary vector is $(h_d - h_0, h_{d-1} - h_1, \dotsc)$. We show that the complementary vector of a doubly Cohen-Macaulay complex is the Hilbert function of a module over a polynomial ring which is generated in degree 0, and that any such Hilbert functions is the complementary vector of a doubly Cohen-Macaulay complex. Joint work with Alan Stapledon. 
+    Doubly Cohen-Macaulay complexes are a family of simplicial complexes that includes triangulations of spheres, Bergman complexes of matroids, and independence complexes of coloopless matroids. Work of Adiprasito, Papadakis, and Petrotou implies that the $h$-vector of a doubly Cohen-Macaulay complex of dimension $d - 1$ satisfies $h_i \le h_{d-i}$ for $i \le d/2$. The complementary vector is $(h_d - h_0, h_{d-1} - h_1, \dotsc)$. We show that the complementary vector of a doubly Cohen-Macaulay complex is the Hilbert function of a module over a polynomial ring which is generated in degree 0, and that any such Hilbert functions is the complementary vector of a doubly Cohen-Macaulay complex. Joint work with Alan Stapledon. 
 
 - speaker: Adrien Segovia
   affiliation: LACIM
