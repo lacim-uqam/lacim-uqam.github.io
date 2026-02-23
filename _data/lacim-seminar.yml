@@ -39,10 +39,11 @@
   title: TBA
   date: 2026-04-10
   abstract: >
+    In 1996, Knop and Sahi introduced a remarkable family of inhomogeneous symmetric polynomials, defined via vanishing conditions, whose top homogeneous parts are exactly the Macdonald polynomials.  Like the Macdonald polynomials, these interpolation Macdonald polynomials are closely connected to the Hecke algebra, and admit nonsymmetric versions, which generalize the nonsymmetric Macdonald polynomials.  I will present a combinatorial formula for interpolation Macdonald polynomials in terms of signed multiline queues.  This formula generalizes the combinatorial formula for Macdonald polynomials in terms of multiline queues given by Corteel–Mandelshtam–Williams. This is based on a joint work with Lauren Williams.
 
 - speaker: Houcine Ben Dali
   affiliation: Harvard University
-  title: TBA
+  title: A combinatorial formula for interpolation Macdonald polynomials
   date: 2026-03-27
   abstract: >
 
