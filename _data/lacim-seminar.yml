@@ -61,11 +61,27 @@
   time: 11h00
   abstract: >
 
+- speaker: Maria Gillespie
+  affiliation: Colorado State University
+  title: "(CRM-ISM Colloquium) Symmetry and Graph Coloring: Algebraic and Combinatorial Mysteries"
+  date: 2026-03-13
+  time: 15h30
+  room: PK-5115
+  abstract: >
+    The study of proper colorings of graphs is a longstanding and important area in mathematics.  The Four Color theorem for planar graphs is one famous success, and this simple problem in cartography launched a vast theory leading to many concrete applications, as well as to the algebraic study of chromatic polynomials and symmetric functions, which also arise in the geometry of Hessenberg varieties.
+
+    In 2024, Hikita announced a proof of the Stanley-Stembridge Conjecture on e-positivity of certain chromatic symmetric functions, which had been open for 32 years.  This breakthrough leaves open, and gives rise to, many followup mysteries.  We will discuss the significance of the symmetric functions arising in graph colorings, and give an overview of some of the important open problems in the area.  This discussion will include joint work with Joseph Pappe and Kyle Salois, towards the question, "When is the chromatic quasisymmetric function symmetric?".
+
+    (Part of the CRM-ISM Colloquium Series -- note the [special time and location](https://www.crmath.ca/en/activities/#/type/seminar/id/21204)).
+
+
 - speaker: Viktória Klász
   affiliation: University of Bonn
-  title: TBA
+  title: Auslander regularity and Coxeter matrices of lattice
   date: 2026-03-13
   abstract: >
+    In this talk, we explore connections between the representation theory of finite-dimensional algebras, combinatorics, and linear algebra. We begin by discussing a result of Iyama and Marczinzik that relates the homological notions of Auslander regularity and the Auslander-Reiten bijection to the lattice-theoretic concepts of distributivity and the rowmotion map. We then present a new result that reinterprets these ideas from a linear-algebraic perspective, using Coxeter matrices and their Bruhat decomposition. Building on this approach, we introduce the *Coxeter permutation* of a lattice (or, more generally, of a finite-dimensional algebra, or of a Dyck path), which is designed to generalise the rowmotion map.
+    This talk is based on joint works with René Marczinzik, Hugh Thomas, and Markus Kleinau.
 
 - speaker: Matt Larson
   affiliation: Princeton University
