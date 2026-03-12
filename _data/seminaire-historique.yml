@@ -1,10 +1,10 @@
 - speaker: Guillaume Laplante-Anfossi
   affiliation: Université Sorbonne Paris Nord
   title: >
-    TBA
+    Des arbres, des polytopes, et leur diagonale
   date: 2021-09-10
   abstract: >
-    TBA
+    Dans cet exposé, nous nous intéressons au problème de l’approximation cellulaire de la diagonale d’une famille de polytopes. Nous expliquerons d’abord ces notions avec des exemples simples, les simplexes et les cubes. Nous enchaînerons avec le cas des associaèdres, d’une complexité combinatoire plus grande, qui a été résolu récemment grâce à l’introduction d’une nouvelle méthode venant de la géométrie discrète. Enfin, à chaque arbre planaire, nous associerons un polytope dont les faces sont en bijection avec tous les parenthésages de cet arbre, et nous résoudrons le cas de la famille ainsi obtenue. Nous retrouverons les associaèdres et les permutoèdres, et présenterons des applications de ce résultat en topologie algébrique.
 
 - speaker: Eric Hanson
   affiliation: UQAM
@@ -12,7 +12,7 @@
     Decomposition and invariants of persistence modules
   date: 2021-09-24
   abstract: >
-    TBA
+    Persistence modules lie at the intersection of topological data analysis and representation theory. In applications, these structures can be used to encode the topological features of a large dataset. One of the ways to recover this topological information is to decompose the persistence module into a direct sum of indecomposable modules. In this talk, we will discuss why, even though such a decomposition is guaranteed to exist and be unique, this approach is not always feasible. We will then discuss an alternative way to study persistence modules, namely through the so-called rank invariant. Time permitting, we will conclude by discussing some recent results about both of these approaches from joint works with Benjamin Blanchette, Thomas Brüstle, and Job D. Rock.
 
 - speaker: Shuo Li
   affiliation: UQAM
@@ -21,7 +21,7 @@
     infinite products and beyond
   date: 2021-10-01
   abstract: >
-    TBA
+    In this talk, we will first recall some well-known arithmetic and analytical properties of automatic sequences concerning the Dirichlet series and infinite products. Then we will discuss an approach to generalize these results to a larger class of sequences: the morphic sequences. The infinite Fibonacci word will be particularly considered in the talk as a typical example of non-automatic morphic words.
 
 - speaker: Steven Karp
   affiliation: UQAM
@@ -29,7 +29,7 @@
     Wronskians, total positivity, and real Schubert calculus
   date: 2021-10-08
   abstract: >
-    TBA
+    The totally positive flag variety is the subset of the complete flag variety Fl(n) where all Plücker coordinates are positive. By viewing a complete flag as a sequence of subspaces of polynomials of degree at most n-1, we can associate a sequence of Wronskian polynomials to it. I will present a new characterization of the totally positive flag variety in terms of Wronskians, and explain how it sheds light on conjectures in the real Schubert calculus of Grassmannians. In particular, a conjecture of Eremenko (2015) is equivalent to the following conjecture: if V is a finite-dimensional subspace of polynomials such that all complex zeros of the Wronskian of V are real and negative, then all Plücker coordinates of V are positive. This conjecture is a totally positive strengthening of a result of Mukhin, Tarasov, and Varchenko (2009), and can be reformulated as saying that all complex solutions to a certain family of Schubert problems in the Grassmannian are real and totally positive.
 
 - speaker: Jose Bastidas
   affiliation: UQAM
@@ -37,7 +37,7 @@
     Type B Hopf monoids in (hyperoctahedral) species
   date: 2021-10-15
   abstract: >
-    TBA
+    The theory of species provides a unified framework to study families of combinatorial structures on finite sets. If the family of combinatorial objects has natural merge and break operations, the corresponding species becomes a Hopf monoid. N. Bergeron and P. Choquette (2008) introduced the notion of hyperoctahedral species, where the combinatorial structures are defined over finite sets with a fixed-point free involution. In this talk, we present a novel definition of type B Hopf monoids. Our construction involves an action of the monoidal category of (standard) species on the category of hyperoctahedral species. We present the basic definitions and some examples of Type B Hopf monoids constructed from (type B) set compositions, (symplectic) matroids, and (type B) generalized permutahedra. This is work in progress with M. Aguiar.
 
 - speaker: Vladimir Reinharz
   affiliation: UQAM
@@ -46,7 +46,20 @@
     RNAs
   date: 2021-10-22
   abstract: >
-    TBA
+    RNA molecules fulfill a large amount of fundamental tasks in every living organism.
+    To achieve this vast array of functions, from transmitting information to biological sensors, they rely on complex three-dimensional structures.
+    A low level representation that only considers canonical base pairs, called the secondary structure, has mathematical properties making it suitable for study under a Boltzmann ensemble framework.
+    Dynamic programming algorithms have shown to be particularly adept to understand the link between secondary structure and sequence in that framework.
+    Yet this is not enough to fully grasp fine networks of interactions, critical to the function, that are not captured by the secondary structure.
+    The Leontis-Westhof annotations of non-canonical interactions classifies all interactions beyond those in the secondary structure.
+    This ontology allows to represent RNA molecules in much more details, and can then be described as directed graph with labelled edges.
+    The discovery of conserved sub-structures can be transposed to the problem of maximal edge sub-isomorphismes.
+    While classically NP-hard, we can take advantage of structural properties to restrain the ensemble of admissible graphs.
+    In this talk, I will present the algorithms we developed for that case and interesting results that were obtained [1].
+    In particular, I will highlight the hierarchical organization of sub-structures, and how they are spread over vastly different functions.
+    I will then speculate briefly over the role of chemical-modifications and future work.
+
+    [1] Mining for recurrent long-range interactions in RNA structures reveals embedded hierarchies in network families; Reinharz, Soule, Westhof, Waldispuhl and Denise; NAR, 2018
 
 - speaker: Alessandro Iraci
   affiliation: UQAM
@@ -54,7 +67,7 @@
     Tiered trees, Theta operators, Delta conjectures
   date: 2021-11-05
   abstract: >
-    TBA
+    Theta operators are a family of operators on symmetric functions that have been introduced in order to state a compositional version of the Delta conjecture, with the idea, later proved successful, that this would have led to a proof via the Carlsson-Mellit Dyck path algebra. Theta operators show remarkable combinatorial properties; we are going to show that some specific instances of these operators coincide with the Kac polynomial of certain dandelion quivers (counting torus orbits on certain varieties) and the Tutte polynomials of certain families of graphs. Finally, we formulate a more general conjecture extending these results, in terms of labelled tiered trees and kappa-inversions.
 
 - speaker: Jean-Philippe Labbé
   affiliation: ETS Montréal
@@ -70,7 +83,7 @@
     Le tri permutarbre
   date: 2021-11-19
   abstract: >
-    TBA
+    Permutrees define combinatorial families interpolating between permutations, binary trees and binary sequences. They also correspond to certain congruence classes of the weak order lattice on permutations.  In this talk, we present the Permutree sorting algorithm which attempts to sort permutations following certain constraints, succeeding only when the permutation is minimal inside its permutree congruence class. In this sense, it is a generalization of the well known stack sorting from Knuth and the c-sorting related to Cambrian lattices defined by Reading. (joint work with D. Tamayo and V. Pilaud)
 
 - speaker: Christophe Hohlweg
   affiliation: UQAM
