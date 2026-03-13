@@ -50,6 +50,7 @@ projet.
 : Superviseure : [Nadia Lafranière](https://nadialafreniere.github.io)
 : Description : Les tableaux standards sont des objets centraux en combinatoire. Plusieurs généralisations des tableaux standards comme des remplissages de diagrammes de Ferrers ont été établies pour résoudre des problèmes souvent inspirés de la théorie de la représentation. Nous investiguerons les actions combinatoires définies sur les tableaux standards et chercherons à les étendre à d’autres types de tableaux.
 
+<!-- -->
 
 ***La suite des suites d'entiers en combinatoire***
 : Superviseur : [Alejandro H. Morales](https://ahmorales.combinatoria.co)
