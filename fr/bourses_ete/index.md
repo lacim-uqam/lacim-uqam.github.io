@@ -46,6 +46,11 @@ projet.
 
 <!-- -->
 
+***Actions combinatoires sur les tableaux standards et au-delà***
+: Superviseure : [Nadia Lafranière](https://nadialafreniere.github.io)
+: Description : Les tableaux standards sont des objets centraux en combinatoire. Plusieurs généralisations des tableaux standards comme des remplissages de diagrammes de Ferrers ont été établies pour résoudre des problèmes souvent inspirés de la théorie de la représentation. Nous investiguerons les actions combinatoires définies sur les tableaux standards et chercherons à les étendre à d’autres types de tableaux.
+
+
 ***La suite des suites d'entiers en combinatoire***
 : Superviseur : [Alejandro H. Morales](https://ahmorales.combinatoria.co)
 : Description : L'encyclopédie des suites d'entiers, l'[OEIS](https://oeis.org) et [FindStat](https://www.findstat.org) contient plus de 30,000 suites et statistiques combinatoires utilisées par la communauté\'e tous les jours. Le projet consiste à identifier 5 à 10 suites importantes qui ne contiennent pas suffisamment de termes. Il faut étudier les objets et trouver de nouveaux termes pour ces suites avec l’aide d’algorithmes combinatoires et de calculs informatiques de pointe (grappes de calcul haute performance).
