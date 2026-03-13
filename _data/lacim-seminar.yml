@@ -49,17 +49,22 @@
 
 - speaker: Duncan Laurie
   affiliation: University of Edinburgh
-  title: TBA
+  title: Combinatorics of representations of quantum toroidal algebras
   date: 2026-03-20
   time: 13h30
   abstract: >
+    Quantum toroidal algebras are the ‘double affine’ objects within the quantum world. In type A, many of their most important representations have explicit combinatorial models in terms of coloured (plane) partitions.
+    After giving a brief and gentle introduction to these algebras, I shall outline work in progress with Théo Pinet which seeks to establish special categories of representations as monoidal categorifications of cluster algebras.
+    A special role is played by so-called T-systems, proven using partition combinatorics. On one side, these describe decompositions of tensor product representations; on the other, they arise as mutation relations in our cluster algebras.
+    Along the way, the notion of ‘folding’ cluster algebras arises naturally in our work, providing a source of particular interest and confusion!
 
 - speaker: Kelsey Brown
   affiliation: Colorado State University
-  title: TBA
+  title: Tableaux coswitching and Type A+ tableaux
   date: 2026-03-20
   time: 11h00
   abstract: >
+    Motivated by the Schubert calculus problem of intersecting of Schubert varieties over the real numbers, we discuss a coplactic switching (coswitching) operation on tableaux in types A and B and algorithms for simplifying this computation (joint work with Derek Moran). We aim to generalize this operation from tableaux to the broader setting of posets, finding ourselves with a restriction to the class of d-complete posets as the most general setting in which we can define this coswitching operation. In this talk, we narrow our focus to the natural first step toward this generalization, which we call Type A+, and give some partial results towards generalizing the fundamental tableaux notions of jeu de taquin, semistandard tableau, ballotness, and more to this setting.
 
 - speaker: Maria Gillespie
   affiliation: Colorado State University
@@ -77,7 +82,7 @@
 
 - speaker: Viktória Klász
   affiliation: University of Bonn
-  title: Auslander regularity and Coxeter matrices of lattice
+  title: Auslander regularity and Coxeter matrices of lattices
   date: 2026-03-13
   abstract: >
     In this talk, we explore connections between the representation theory of finite-dimensional algebras, combinatorics, and linear algebra. We begin by discussing a result of Iyama and Marczinzik that relates the homological notions of Auslander regularity and the Auslander-Reiten bijection to the lattice-theoretic concepts of distributivity and the rowmotion map. We then present a new result that reinterprets these ideas from a linear-algebraic perspective, using Coxeter matrices and their Bruhat decomposition. Building on this approach, we introduce the *Coxeter permutation* of a lattice (or, more generally, of a finite-dimensional algebra, or of a Dyck path), which is designed to generalise the rowmotion map.
