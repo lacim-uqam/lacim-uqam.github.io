@@ -1,6 +1,12 @@
 - speaker: Moriah Elkin
   affiliation: Cornell University
   title: TBA
+  date: 2026-05-29
+  abstract: >
+  
+- speaker: Kaveh Musavand
+  affiliation: Okinawa Institute of Science and Technology
+  title: TBA
   date: 2026-05-22
   abstract: >
 
@@ -28,17 +34,19 @@
   date: 2026-04-24
   abstract: >
 
-- speaker: Nicolas Avila
-  affiliation: LACIM
+- speaker: Maria Gillespie
+  affiliation: Colorado State University
   title: TBA
   date: 2026-04-17
   abstract: >
 
 - speaker: Emine Yildirim
   affiliation: International Center for Mathematical Sciences (ICMS) - Sofia
-  title: TBA
+  title: A mirror deformation of Markov numbers
   date: 2026-04-10
   abstract: >
+    We introduce a q-deformation of the Markov equation and study a class of its solutions. We establish a factorization property that leads to the definition of new q-deformed Markov numbers, which we call mirror Markov numbers. These numbers satisfy a mirror mutation rule and admit a geometric interpretation on a punctured sphere with three orbifold points. This is based on joint work with L. Bittmann, P. Jouteur, E. Kantarcı Oğuz, and M. Molander.
+  
 
 - speaker: Houcine Ben Dali
   affiliation: Harvard University
