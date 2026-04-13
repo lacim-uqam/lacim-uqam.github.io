@@ -1,3 +1,9 @@
+- speaker: Mohammad Bardestani
+  affiliation: John Abbott College
+  title: TBA
+  date: 2026-06-05
+  abstract: >
+
 - speaker: Moriah Elkin
   affiliation: Cornell University
   title: TBA
@@ -36,9 +42,11 @@
 
 - speaker: Maria Gillespie
   affiliation: Colorado State University
-  title: TBA
+  title: Higher Specht bases for Garsia-Procesi modules and more
   date: 2026-04-17
   abstract: >
+    It is often helpful to find a basis for a quotient of a polynomial ring, thought of as a vector space.  When the ring also admits an action of the symmetric group, it is an extra advantage to find a basis that respects the decomposition into irreducible S_n-modules.  Such a basis, called a higher Specht basis, has now been constructed for the "coinvariant ring" and several of its generalizations arising in Schubert calculus and symmetric function theory.
+    We discuss the ongoing search for a higher Specht basis for the Garsia-Procesi modules and a new result for three row and hook shapes.  This is joint work with Raymond Chou and Mitsuki Hanada.
 
 - speaker: Emine Yildirim
   affiliation: International Center for Mathematical Sciences (ICMS) - Sofia
