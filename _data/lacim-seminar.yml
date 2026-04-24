@@ -38,11 +38,13 @@
 
 - speaker: Sophie Rehberg
   affiliation: LACIM
-  title: Chromatic word-quasisymmetric functions of matroids: a partial result and a conjecture
+  title: "Chromatic word-quasisymmetric functions of matroids: a partial result and a conjecture"
   date: 2026-04-24
   abstract: > 
     Billera, Jia, and Reiner (2009) introduced the quasisymmetric functions of matroids and showed that this defines a Hopf algebra homomorphism which is a (weakly) valuative invariant, i.e., isomorphic matroids have the same quasisymmetric function and polytopal decompositions of matroid base polytopes define relations among the corresponding quasisymmetric functions. 
+
     In this project we study an analogue in non-commuting variables, the word-quasisymmetric functions. To every matroid $M$ we associate a word-quasisymmetric function $\psi(M)$ and call this the chromatic word-quasisymmetric functions of a matroid. Matroids and word-quasisymmetric functions form Hopf algebras, and our map $\psi$ between them is a homomorphism.  We want to study the kernel, equivalently the image, of the map $\psi$ from matroids to word-quasisymmetric functions, that is, we would like to understand which matroids are indistinguishable by the chromatic word-quasisymmetric functions.  The map $\psi$ is not an invariant, but we can show that it is (weakly) valuative. Using Schubert matroids and nested matroids, special classes of matroids, we prove a lower bound of $2d − d$ for the rank of the map $\psi$ from matroids to the chromatic word-quasisymmetric functions in degree $d$ and conjecture the upper bound of $d!$ is tight.
+
     This is joint work with Raul Penaguiao.
 
 - speaker: Maria Gillespie
@@ -59,7 +61,6 @@
   date: 2026-04-10
   abstract: >
     We introduce a q-deformation of the Markov equation and study a class of its solutions. We establish a factorization property that leads to the definition of new q-deformed Markov numbers, which we call mirror Markov numbers. These numbers satisfy a mirror mutation rule and admit a geometric interpretation on a punctured sphere with three orbifold points. This is based on joint work with L. Bittmann, P. Jouteur, E. Kantarcı Oğuz, and M. Molander.
-  
 
 - speaker: Houcine Ben Dali
   affiliation: Harvard University
