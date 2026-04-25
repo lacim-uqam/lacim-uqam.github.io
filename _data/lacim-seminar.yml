@@ -24,15 +24,17 @@
 
 - speaker: Jack Chou
   affiliation: University of Florida
-  title: TBA
+  title: Coxeter and Schubert combinatorics of $\mu$-Involutions
   date: 2026-05-08
   abstract: >
+    The variety of complete quadrics is the wonderful compactification of $GL_n/O_n$ and admits a cell decomposition into Borel orbits indexed by combinatorial objects called $\mu$--involutions. We study Coxeter–theoretic properties of $\mu$--involutions with results including a combinatorial description for their atoms, an exchange lemma, and transposition-like operators that characterize their Bruhat order. The corresponding orbit closures can be realized inside the flag variety. In this setting, we study the cohomology representatives of these orbits, which are, up to a scalar, the $\mu$--involution Schubert polynomials. We expand $\mu$--involution Schubert polynomials as a multiplicity-free sum of $\nu$--involution Schubert polynomials when $\nu$ refines $\mu$ and provide recurrences analogous to Monk's rule for Schubert polynomials. This is joint work with Zachary Hamaker.
 
 - speaker: Graham Denham
   affiliation: University Of Western Ontario
-  title: TBA
+  title: Distances in trees and inequalities for matroids
   date: 2026-05-01
   abstract: >
+    The distance matrix of a tree appears in a range of contexts, from phylogenetics to physical chemistry. I will describe a new result about the spectrum of this matrix, one that gives affirmative answers to some questions about matroid positivity properties.  Those are both strengthenings of Mason's conjectures about the log-concavity of sequence of numbers of independent sets of a matroid, proposed by Dowling in 1980 and much more recently by Giansiracusa, Rincón, Schleis, Ulirsch.  At the heart is a characterization of the gross substitutes property from economics in terms of the Lorentzian property of a certain generating function.
 
 - speaker: Sophie Rehberg
   affiliation: LACIM
