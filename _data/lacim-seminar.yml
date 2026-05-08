@@ -18,14 +18,16 @@
 
 - speaker: Sheila Sundaram
   affiliation: University of Minnesota
-  title: TBA
+  title: Some conjectures around on a curious variant of Lie(n)
   date: 2026-05-15
   abstract: >
-
+    Fundamental work of Reutenauer and Garsia (1980s-1990s) launched a renewed interest and vast literature on the  representation Lie(n) of the symmetric group S_n on the multilinear component of the free Lie algebra on n generators. This talk will discuss a curious variant Lie(n,2) of the celebrated representation Lie(n). Introduced a few years ago by the speaker, the variant Lie(n,2)  satisfies the analogue of almost every known property of Lie(n). As one example, the exterior powers of the variant Lie(n,2) decompose the regular representation of S_n. The classical free Lie algebra counterpart of this result is the 1942 theorem of Robert Thrall which also follows from the earlier Poincar\'e-Birkhoff-Witt theorem: it is the well-known decomposition of the regular representation given by the symmetrised powers of the representations Lie(n) (the higher Lie modules). There are tantalising hints of analogies with the homology groups associated to the partition lattice as well. I will discuss these connections and other conjectures.
+    
 - speaker: Jack Chou
   affiliation: University of Florida
   title: Coxeter and Schubert combinatorics of $\mu$-Involutions
   date: 2026-05-08
+  time: 13h30
   abstract: >
     The variety of complete quadrics is the wonderful compactification of $GL_n/O_n$ and admits a cell decomposition into Borel orbits indexed by combinatorial objects called $\mu$--involutions. We study Coxeter–theoretic properties of $\mu$--involutions with results including a combinatorial description for their atoms, an exchange lemma, and transposition-like operators that characterize their Bruhat order. The corresponding orbit closures can be realized inside the flag variety. In this setting, we study the cohomology representatives of these orbits, which are, up to a scalar, the $\mu$--involution Schubert polynomials. We expand $\mu$--involution Schubert polynomials as a multiplicity-free sum of $\nu$--involution Schubert polynomials when $\nu$ refines $\mu$ and provide recurrences analogous to Monk's rule for Schubert polynomials. This is joint work with Zachary Hamaker.
 
