@@ -9,7 +9,7 @@
   title: TBA
   date: 2026-05-29
   abstract: >
-  
+
 - speaker: Kaveh Musavand
   affiliation: Okinawa Institute of Science and Technology
   title: TBA
@@ -21,8 +21,8 @@
   title: Some conjectures around on a curious variant of Lie(n)
   date: 2026-05-15
   abstract: >
-    Fundamental work of Reutenauer and Garsia (1980s-1990s) launched a renewed interest and vast literature on the  representation Lie(n) of the symmetric group S_n on the multilinear component of the free Lie algebra on n generators. This talk will discuss a curious variant Lie(n,2) of the celebrated representation Lie(n). Introduced a few years ago by the speaker, the variant Lie(n,2)  satisfies the analogue of almost every known property of Lie(n). As one example, the exterior powers of the variant Lie(n,2) decompose the regular representation of S_n. The classical free Lie algebra counterpart of this result is the 1942 theorem of Robert Thrall which also follows from the earlier Poincar\'e-Birkhoff-Witt theorem: it is the well-known decomposition of the regular representation given by the symmetrised powers of the representations Lie(n) (the higher Lie modules). There are tantalising hints of analogies with the homology groups associated to the partition lattice as well. I will discuss these connections and other conjectures.
-    
+    Fundamental work of Reutenauer and Garsia (1980s-1990s) launched a renewed interest and vast literature on the representation Lie(n) of the symmetric group S_n on the multilinear component of the free Lie algebra on n generators. This talk will discuss a curious variant Lie(n,2) of the celebrated representation Lie(n). Introduced a few years ago by the speaker, the variant Lie(n,2)  satisfies the analogue of almost every known property of Lie(n). As one example, the exterior powers of the variant Lie(n,2) decompose the regular representation of S_n. The classical free Lie algebra counterpart of this result is the 1942 theorem of Robert Thrall which also follows from the earlier Poincaré-Birkhoff-Witt theorem: it is the well-known decomposition of the regular representation given by the symmetrised powers of the representations Lie(n) (the higher Lie modules). There are tantalising hints of analogies with the homology groups associated to the partition lattice as well. I will discuss these connections and other conjectures.
+
 - speaker: Jack Chou
   affiliation: University of Florida
   title: Coxeter and Schubert combinatorics of $\mu$-Involutions
@@ -42,8 +42,8 @@
   affiliation: LACIM
   title: "Chromatic word-quasisymmetric functions of matroids: a partial result and a conjecture"
   date: 2026-04-24
-  abstract: > 
-    Billera, Jia, and Reiner (2009) introduced the quasisymmetric functions of matroids and showed that this defines a Hopf algebra homomorphism which is a (weakly) valuative invariant, i.e., isomorphic matroids have the same quasisymmetric function and polytopal decompositions of matroid base polytopes define relations among the corresponding quasisymmetric functions. 
+  abstract: >
+    Billera, Jia, and Reiner (2009) introduced the quasisymmetric functions of matroids and showed that this defines a Hopf algebra homomorphism which is a (weakly) valuative invariant, i.e., isomorphic matroids have the same quasisymmetric function and polytopal decompositions of matroid base polytopes define relations among the corresponding quasisymmetric functions.
 
     In this project we study an analogue in non-commuting variables, the word-quasisymmetric functions. To every matroid $M$ we associate a word-quasisymmetric function $\psi(M)$ and call this the chromatic word-quasisymmetric functions of a matroid. Matroids and word-quasisymmetric functions form Hopf algebras, and our map $\psi$ between them is a homomorphism.  We want to study the kernel, equivalently the image, of the map $\psi$ from matroids to word-quasisymmetric functions, that is, we would like to understand which matroids are indistinguishable by the chromatic word-quasisymmetric functions.  The map $\psi$ is not an invariant, but we can show that it is (weakly) valuative. Using Schubert matroids and nested matroids, special classes of matroids, we prove a lower bound of $2d − d$ for the rank of the map $\psi$ from matroids to the chromatic word-quasisymmetric functions in degree $d$ and conjecture the upper bound of $d!$ is tight.
 
