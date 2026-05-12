@@ -20,6 +20,7 @@
   affiliation: University of Minnesota
   title: Some conjectures around on a curious variant of Lie(n)
   date: 2026-05-15
+  time: 14h00
   abstract: >
     Fundamental work of Reutenauer and Garsia (1980s-1990s) launched a renewed interest and vast literature on the representation Lie(n) of the symmetric group S_n on the multilinear component of the free Lie algebra on n generators. This talk will discuss a curious variant Lie(n,2) of the celebrated representation Lie(n). Introduced a few years ago by the speaker, the variant Lie(n,2)  satisfies the analogue of almost every known property of Lie(n). As one example, the exterior powers of the variant Lie(n,2) decompose the regular representation of S_n. The classical free Lie algebra counterpart of this result is the 1942 theorem of Robert Thrall which also follows from the earlier Poincaré-Birkhoff-Witt theorem: it is the well-known decomposition of the regular representation given by the symmetrised powers of the representations Lie(n) (the higher Lie modules). There are tantalising hints of analogies with the homology groups associated to the partition lattice as well. I will discuss these connections and other conjectures.
 
