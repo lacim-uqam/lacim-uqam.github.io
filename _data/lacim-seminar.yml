@@ -11,7 +11,7 @@
   abstract: >
     In the space of type A quiver representations, putting rank conditions on the maps cuts out subvarieties called "open quiver loci." These subvarieties are closed under the group action that changes bases in the vector spaces, so their closures define classes in equivariant cohomology, called "quiver polynomials." Knutson, Miller, and Shimozono found a pipe dream formula to compute these polynomials in 2006. To study the geometry of the open quiver loci themselves, we might instead compute "equivariant Chern-Schwartz-MacPherson classes," which interpolate between cohomology classes and Euler characteristic. I will introduce objects called "chained generic pipe dreams" that allow us to compute these CSM classes combinatorially.
 
-- speaker: Kaveh Musavand
+- speaker: Kaveh Mousavand
   affiliation: Okinawa Institute of Science and Technology
   title: Characterization of some (finite and infinite) lattices via brick-directed algebras
   date: 2026-05-22
