@@ -6,15 +6,17 @@
 
 - speaker: Moriah Elkin
   affiliation: Cornell University
-  title: TBA
+  title: Open quiver loci, CSM classes, and chained generic pipe dreams
   date: 2026-05-29
   abstract: >
+    In the space of type A quiver representations, putting rank conditions on the maps cuts out subvarieties called "open quiver loci." These subvarieties are closed under the group action that changes bases in the vector spaces, so their closures define classes in equivariant cohomology, called "quiver polynomials." Knutson, Miller, and Shimozono found a pipe dream formula to compute these polynomials in 2006. To study the geometry of the open quiver loci themselves, we might instead compute "equivariant Chern-Schwartz-MacPherson classes," which interpolate between cohomology classes and Euler characteristic. I will introduce objects called "chained generic pipe dreams" that allow us to compute these CSM classes combinatorially.
 
 - speaker: Kaveh Musavand
   affiliation: Okinawa Institute of Science and Technology
-  title: TBA
+  title: Characterization of some (finite and infinite) lattices via brick-directed algebras
   date: 2026-05-22
   abstract: >
+    Among the various generalizations of finite distributive lattices, semidistributive lattices have attracted considerable attention. Other important classes include left modular lattices and extremal lattices, each extending finite distributive lattices in a different direction. Moving beyond the setting of finite lattices, this talk focuses on a family of completely semidistributive lattices that arise naturally in the representation theory of finite-dimensional algebras: the lattices of torsion classes. In this context, we give a simultaneous characterization of left modularity and extremality in terms of bricks; certain indecomposable modules. If time permits, I will move beyond the representation-theoretical framework and also discuss extensions of these results to arbitrary infinite lattices that are completely semidistributive and weakly atomic, where we generalize and study the notions of left modularity and extremality. This talk is based on recent joint work with Sota Asai, Osamu Iyama, and Charles Paquette.
 
 - speaker: Sheila Sundaram
   affiliation: University of Minnesota
