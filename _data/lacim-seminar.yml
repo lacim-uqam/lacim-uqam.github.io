@@ -1,8 +1,11 @@
 - speaker: Mohammad Bardestani
   affiliation: John Abbott College
-  title: TBA
+  title: Chromatic Quasisymmetric Functions and Counting Matrices in Nilpotent Hessenberg Lie Algebras
   date: 2026-06-05
-  abstract: >
+  abstract: > 
+    To every Hessenberg function one can associate a nilpotent Hessenberg Lie algebra. Counting matrices with a prescribed Jordan form in these Lie algebras is closely connected to chromatic quasisymmetric functions. In this talk, we explain this connection and describe how combinatorial data arising from chromatic quasisymmetric functions encodes information about the geometry and representation theory of Hessenberg varieties.
+    Moreover, a Hessenberg function naturally determines an element in the Kazhdan–Lusztig basis of the Hecke algebra of the symmetric group. For certain families of Hessenberg functions, we show how the functions counting matrices with prescribed Jordan form in the corresponding nilpotent Hessenberg Lie algebras can be used to study the values of irreducible characters on these Kazhdan–Lusztig basis elements.
+    This talk is based on joint work in progress with Keivan Mallahi-Karai.
 
 - speaker: Moriah Elkin
   affiliation: Cornell University
