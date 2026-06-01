@@ -13,7 +13,7 @@
 - name: Juan Carlos Bustamanate
   affiliation: Université de Sherbrooke
   website: https://jcbustamante.espaceweb.usherbrooke.ca
-  
+
 - name: Camille Coti
   affiliation: ETS Montréal
   email: camille.coti@etsmtl.ca
@@ -79,6 +79,11 @@
   affiliation: Université d'Orsay
   email: viviane.pons@lri.fr
   website: https://www.lri.fr/~pons/
+
+- name: Luis Scoccola
+  affiliation: LACIM
+  email: luis.scoccola@maths.ox.ac.uk
+  website: https://luisscoccola.com/
 
 - name: Timothy Walsh
   affiliation: UQAM (Informatique)
