@@ -26,6 +26,19 @@
     Les recherches de Dr. Boretsky portent sur la combinatoire algébrique et la
     geometrie algébrique, avec un accent particulier sur la positivité.
 
+- name: Patty Commins
+  phd_institution: University of Minnesotta
+  phd_year: 2025
+  phd_supervisor: Vic Reiner
+  email: commi010@umn.edu
+  website: https://sites.google.com/umn.edu/patty-commins  
+  research_interests: >
+    Dr. Commins's research interests lie in the intersection of algebraic
+    combinatorics and representation theory.
+  interets_de_recherche: >
+    Les recherches de Dr. Comins portent sur la combinatoire algébrique et la
+    théorie de la representation.
+
 - name: Mónica Garcia
   phd_institution: Paris-Saclay
   phd_year: 2024
