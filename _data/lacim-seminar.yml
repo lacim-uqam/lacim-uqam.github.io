@@ -1,3 +1,42 @@
+- speaker: Sergi Elizalde
+  affiliation: Dartmouth College
+  title: TBA
+  date: 2026-10-09
+  abstract: >
+
+- speaker: Nicolas Avila
+  affiliation: LACIM
+  title: TBA
+  date: 2026-10-02
+  abstract: >
+  
+- speaker: Alex Vidinas 
+  affiliation: Cornell University
+  title: TBA
+  date: 2026-09-25
+  abstract: >
+
+- speaker: Alex Black 
+  affiliation: Bowdoin College
+  title: Non-symmetric Macdonald Polynomials and Graph Coloring
+  date: 2026-09-18
+  abstract: > 
+    Many polynomials in algebraic combinatorics are defined implicitly, so even describing their supports, the sets of monomials that appear with nonzero coefficient, is nontrivial. One approach to this question is to show the saturated Newton polytope property, which says that a monomial is in the support if and only if its exponent vector is contained in an associated polytope called its Newton polytope. In 2019, Monical, Tockan, and Yong conjectured that this property holds for non-symmetric Macdonald polynomials, a beautiful and prominent family of polynomials from statistical mechanics and representation theory. In this talk, I will introduce a novel interpretation of non-symmetric Macdonald polynomials from a combinatorial viewpoint using graph coloring and discuss how I used this perspective to prove this conjecture in joint work with Milo Bechtloff Weising.
+
+- speaker: José Samper
+  affiliation: PUC Chile
+  title: TBA
+  date: 2026-09-11
+  abstract: >
+  
+- speaker: Vyjayanthi Chari
+  affiliation: UC Riverside
+  title:  Combinatorics of $q$-characters
+  date: 2026-09-04
+  abstract: >
+    We discuss the representation theory of quantum aﬃne $sl_{n+1}$. The irreducible representations of the algebra are indexed by unordered collections of pairs, consisting of a column of height $i$ and an integer $a$. The corresponding character theory is a refinement of the usual notion of $sl_{n+1}$ character theory.
+    In this talk we shall focus on a family of representations and explain how the q-characters can be described using column tableaux and head/tail swap operators.
+    
 - speaker: Ian Cavey
   affiliation: UMass Amherst
   title: Polytopes associated to divisors on $\overline{M_{0,n}}$.
@@ -18,7 +57,6 @@
   abstract: >
     Schubert polynomials, introduced by Lascoux and Schutzenberger in 1982 as models for Schubert classes in the cohomology of flag manifolds, now count among the key characters in algebraic combinatorics.  These polynomials S_w(x1, x2, .. ) are indexed by permutations w; in addition to their origins in enumerative geometry, they admit many wonderful combinatorial descriptions.
     In this talk, I’ll discuss the integers N_w = S_w(1, 1, .. ) obtained by setting all variables equal to 1 in a Schubert polynomial.  About 10 years ago, in two apparently unrelated contexts, Merzon-Smirnov and Stanley asked about the maximum value of N_w, for w in the group of permutations of [n], and about the asymptotics of this value as n grows.  Morales-Pak-Panova addressed these questions for a special class of “layered permutations”, and gave precise asymptotic formulas in this case.  In general, however, computational barriers make exhaustive search intractable already around n=15.  I’ll explain how recent work with Panova and Petrov on (bumpless) pipe-dream sampling led us to find non-layered permutations with large N_w, why we think that the asymptotics may nonetheless be captured by layered permutations, and the extent to which new AI tools did or didn’t help us.
-    
     
 - speaker: Alexis Leroux-Lapierre
   affiliation: McGill University
