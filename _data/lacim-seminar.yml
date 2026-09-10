@@ -25,9 +25,12 @@
 
 - speaker: José Samper
   affiliation: PUC Chile
-  title: TBA
+  title: Poset algebraic shifting
   date: 2026-09-11
   abstract: >
+    Shifting operations aim to replace a simplicial complex by a simpler complex that retains some of its basic invariants. The classical example is Kalai's exterior algebraic shifting: acting with a generic invertible matrix turns any complex into a shifted one with the same f-vector and the same Betti numbers.
+    I will discuss what happens when the acting matrix is not necessarily generic, but constrained by a partial order P on the vertex set. The resulting operation, poset algebraic shifting, produces a complex that is shifted only along P, and it comes with a dial: when P is an antichain nothing moves, when P is a chain one recovers Kalai's construction, and the interesting behaviour lives in between.
+    This is joint work with Jean-Philippe Labbé.
   
 - speaker: Vyjayanthi Chari
   affiliation: UC Riverside
