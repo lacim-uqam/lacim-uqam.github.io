@@ -1,3 +1,15 @@
+- speaker: Gi-Sang Cheon
+  affiliation: Sungkyunkwan University
+  title: TBA
+  date: 2026-10-30
+  abstract: >
+  
+- speaker: Nick Early
+  affiliation: Institute for Advanced Study
+  title: TBA
+  date: 2026-10-23
+  abstract: >
+
 - speaker: Sergi Elizalde
   affiliation: Dartmouth College
   title: TBA
@@ -6,9 +18,10 @@
 
 - speaker: Nicolas Avila
   affiliation: LACIM
-  title: TBA
+  title: Luck and Magic for Pitman-Stanley Polytopes and Parking Functions
   date: 2026-10-02
-  abstract: >
+  abstract: > 
+    Pitman and Stanley introduced a rich family of lattice polytopes now commonly called Pitman–Stanley polytopes. These polytopes appear in different contexts, including probability, statistics, and algebraic combinatorics, and it is well known that there is a relationship between these polytopes and parking functions by counting lattice points. In this talk, we will show that the relationship between these two families is deeper, particularly within the framework of Ehrhart theory. Parking functions refine the Ehrhart polynomial in the "magic basis" using a "lucky cars" statistic, this implies a positivity phenomenon in that basis and implies the $h^*$-polynomial is real-rooted. And the $h^*$-polynomial can also be characterized by parking functions by an ascent statistic.
   
 - speaker: Alex Vidinas 
   affiliation: Cornell University
