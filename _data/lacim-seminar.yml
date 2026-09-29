@@ -12,9 +12,12 @@
 
 - speaker: Sergi Elizalde
   affiliation: Dartmouth College
-  title: TBA
+  title:  Cylindric growth diagrams, walks in simplices, and exclusion processes
   date: 2026-10-09
   abstract: >
+    We establish bijections between three classes of combinatorial objects that have been studied in different contexts: lattice walks in simplicial regions as introduced by Mortimer-Prellberg, standard cylindric tableaux as introduced by Gessel-Krattenthaler and Postnikov, and sequences of states in the totally asymmetric simple exclusion process on a cycle. This perspective allows us to translate symmetries from one setting into another, revealing unexpected properties of these objects.
+    Specifically, we show that a recent bijection of Courtiel et al. between certain simplicial walks with forward and backward steps is equivalent to a cylindric analogue of the Robinson--Schensted correspondence. Originally defined by Neyman by iterating an insertion operation, we provide an alternative description of this correspondence by introducing a cylindric version of Fomin's growth diagrams. 
+    This natural description elucidates the symmetry of the correspondence, and it allows us to interpret the above walks as oscillating cylindric tableaux.
 
 - speaker: Nicolas Avila
   affiliation: LACIM
