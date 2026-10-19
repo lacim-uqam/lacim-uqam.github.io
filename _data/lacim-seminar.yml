@@ -1,3 +1,21 @@
+- speaker: Théo Pinet
+  affiliation: McGill University
+  title: TBA
+  date: 2026-11-20
+  abstract: >
+  
+- speaker: Patty Commins
+  affiliation: LACIM
+  title: TBA
+  date: 2026-11-13
+  abstract: >
+  
+- speaker: François Bergeron
+  affiliation: LACIM
+  title: TBA
+  date: 2026-11-06
+  abstract: >
+  
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
   title: TBA
@@ -6,9 +24,10 @@
   
 - speaker: Nick Early
   affiliation: Institute for Advanced Study
-  title: TBA
+  title: Harder–Narasimhan polytopes and the positive tropical Grassmannian
   date: 2026-10-23
-  abstract: >
+  abstract: > 
+    With Thomas Lam we showed that the integer points of the positive tropical Grassmannian $\mathrm{Trop}^+G(k,n)$, modulo lineality, are in bijection with noncrossing tableaux.  These are also the integer points of the noncrossing fan of Santos, Stump and Welker, but for $3 \le k \le n-3$ the bijection is not an isomorphism of fans.  In a positive parametrization, the positive tropical Grassmannian corresponds to the normal fan of the product of the Plücker coordinates.  In 2021 I proposed replacing some of the Plücker coordinates by other polynomials, so that the normal fan becomes the noncrossing fan.  The new polynomials give conjectured solutions to binary u-equations, which define a generalized worldsheet associahedron for CEGM amplitudes.  Arkani-Hamed, Frost, Plamondon, Salvatori and Thomas have since attached u-equations to every algebra of finite representation type, with boundaries governed by Harder–Narasimhan polytopes, the convex hulls of the dimension vectors of subrepresentations.  As they note, the u-equations of 2021 come from a gentle algebra on a grid, with details in joint work in progress with Pierre-Guy Plamondon and Hugh Thomas.  I will discuss these ideas from the point of view of tropical geometry and geometric combinatorics, where the representation theory enters through Newton polytopes: the Newton polytope of an F-polynomial is the Harder–Narasimhan polytope of its module.
 
 - speaker: Sergi Elizalde
   affiliation: Dartmouth College
