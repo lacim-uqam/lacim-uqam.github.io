@@ -18,9 +18,10 @@
   
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
-  title: TBA
+  title: Restricted pattern avoidance in naturally labeled posets enumerated by classical sequences
   date: 2026-10-30
-  abstract: >
+  abstract: > 
+    Pattern avoidance in posets has been studied extensively, particularly for unlabelled posets. In this talk, we introduce a restricted pattern avoidance for naturally labelled posets that depends on both the order relations and the relative order of the labels. We show that restricted $({\bf 2}+{\bf 1})$-free NL posets on $[n]$ are in bijection with permutations on $[n]$. Using this correspondence, we prove that natural series-parallel posets are enumerated by the large Schröder numbers, whereas restricted $({\bf 2}+{\bf 2})$-free involution posets are enumerated by the Motzkin numbers. We also construct bijections with bushes and Schröder paths, yielding subclasses enumerated by the small Schröder and Catalan numbers. Finally, we refine these enumerative results with respect to several natural poset statistics.
   
 - speaker: Nick Early
   affiliation: Institute for Advanced Study
