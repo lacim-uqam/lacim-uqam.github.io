@@ -16,17 +16,26 @@
   date: 2026-12-04
   abstract: >
 
+- speaker: Christophe Hohlweg
+  affiliation: LACIM
+  title: TBA
+  date: 2026-11-27
+  abstract: >
+    
+
 - speaker: Théo Pinet
   affiliation: McGill University
-  title: TBA
+  title: Plier les algèbres amassées et leurs catégorifications monoïdales
   date: 2026-11-20
   abstract: >
+    Les algèbres amassées sont des algèbres commutatives à la combinatoire remarquable issues du travail de Fomin-Zelevinsky sur les bases canoniques. Dans cet exposé, je présenterai des résultats à propos d’une notion de « pliage » pour ces algèbres avec des applications à l’étude de conjectures concernant les catégorifications monoïdales et les bases duales canoniques. La présentation reposera sur un travail en cours avec Duncan Laurie.
 
 - speaker: François Bergeron 
   affiliation: LACIM
-  title: TBA
+  title: Une $(q,t)$-synthèse des $q$-analogues
   date: 2026-11-13
-  abstract: >
+  abstract: > 
+    Par homogénéisation, on peut bijectivement transformer un $q$-analogue en $(q,t)$-analogue symétrique. Cette simple correspondance rend naturels de nombreux concepts, et plusieurs démonstrations découlent directement des propriétés classiques des fonctions symétriques à deux variables. Une extension non homogène, plus élaborée, est également considéée. Nous illustrons cette approche en revisitant des avancées récentes concernant la $\gamma$-positivité, les analogues de Lucas et le monoïde des fonctions génératrices cyclotomiques. Cela conduit de manière naturelle, à de nouvelles constructions et conjectures. Nous explorons d'autres pistes de recherche, notamment la $\gamma$-positivité et la $\gamma$-anti-positivité (aussi appelées $\gamma$-positivité alternée) dans des contextes gradués et équivariants.
 
 - speaker: Patty Commins
   affiliation: LACIM
