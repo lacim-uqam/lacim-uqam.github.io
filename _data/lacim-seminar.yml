@@ -3,14 +3,14 @@
   title: TBA
   date: 2026-12-18
   abstract: >
-  
+
 - speaker: Jinting Liang
   affiliation: University of British Columbia
   title: TBA
   date: 2026-12-11
   abstract: >
-  
-- speaker: Mélodie Lapointe 
+
+- speaker: Mélodie Lapointe
   affiliation: Université du Québec à Chicoutimi
   title: TBA
   date: 2026-12-04
@@ -21,7 +21,7 @@
   title: TBA
   date: 2026-11-27
   abstract: >
-    
+
 
 - speaker: Théo Pinet
   affiliation: McGill University
@@ -30,11 +30,11 @@
   abstract: >
     Les algèbres amassées sont des algèbres commutatives à la combinatoire remarquable issues du travail de Fomin-Zelevinsky sur les bases canoniques. Dans cet exposé, je présenterai des résultats à propos d’une notion de « pliage » pour ces algèbres avec des applications à l’étude de conjectures concernant les catégorifications monoïdales et les bases duales canoniques. La présentation reposera sur un travail en cours avec Duncan Laurie.
 
-- speaker: François Bergeron 
+- speaker: François Bergeron
   affiliation: LACIM
   title: Une $(q,t)$-synthèse des $q$-analogues
   date: 2026-11-13
-  abstract: > 
+  abstract: >
     Par homogénéisation, on peut bijectivement transformer un $q$-analogue en $(q,t)$-analogue symétrique. Cette simple correspondance rend naturels de nombreux concepts, et plusieurs démonstrations découlent directement des propriétés classiques des fonctions symétriques à deux variables. Une extension non homogène, plus élaborée, est également considéée. Nous illustrons cette approche en revisitant des avancées récentes concernant la $\gamma$-positivité, les analogues de Lucas et le monoïde des fonctions génératrices cyclotomiques. Cela conduit de manière naturelle, à de nouvelles constructions et conjectures. Nous explorons d'autres pistes de recherche, notamment la $\gamma$-positivité et la $\gamma$-anti-positivité (aussi appelées $\gamma$-positivité alternée) dans des contextes gradués et équivariants.
 
 - speaker: Patty Commins
@@ -42,26 +42,26 @@
   title: "[POSTPONED]"
   date: 2026-11-13
   abstract: >
-  
+
 - speaker: Nick Early
   affiliation: Institute for Advanced Study
   title: Harder–Narasimhan polytopes and the positive tropical Grassmannian
   date: 2026-11-06
-  abstract: > 
+  abstract: >
     With Thomas Lam we completed the proof of a bijection, proposed in my 2021 paper, between the integer points of the positive tropical Grassmannian $\mathrm{Trop}^+G(k,n)$, modulo lineality, and noncrossing tableaux. These are also the integer points of the noncrossing fan of Santos, Stump and Welker, but for $3 \le k \le n-3$ the bijection is not an isomorphism of fans.  In a positive parametrization, the positive tropical Grassmannian corresponds to the normal fan of the product of the Plücker coordinates.  In 2021 I proposed replacing some of the Plücker coordinates by other polynomials, so that the normal fan becomes the noncrossing fan.  The new polynomials give conjectured solutions to binary u-equations, which define a generalized worldsheet associahedron for CEGM amplitudes.  Arkani-Hamed, Frost, Plamondon, Salvatori and Thomas have since attached u-equations to every algebra of finite representation type, with boundaries governed by Harder–Narasimhan polytopes, the convex hulls of the dimension vectors of subrepresentations.  As they note, the u-equations of 2021 come from a gentle algebra on a grid, with details in joint work in progress with Pierre-Guy Plamondon and Hugh Thomas.  I will discuss these ideas from the point of view of tropical geometry and geometric combinatorics, where the representation theory enters through Newton polytopes: the Newton polytope of an F-polynomial is the Harder–Narasimhan polytope of its module.
-  
+
 - speaker: Gi-Sang Cheon
   affiliation: Sungkyunkwan University
   title: Restricted pattern avoidance in naturally labeled posets enumerated by classical sequences
   date: 2026-10-30
-  abstract: > 
+  abstract: >
     Pattern avoidance in posets has been studied extensively, particularly for unlabelled posets. In this talk, we introduce a restricted pattern avoidance for naturally labelled posets that depends on both the order relations and the relative order of the labels. We show that restricted $({\bf 2}+{\bf 1})$-free NL posets on $[n]$ are in bijection with permutations on $[n]$. Using this correspondence, we prove that natural series-parallel posets are enumerated by the large Schröder numbers, whereas restricted $({\bf 2}+{\bf 2})$-free involution posets are enumerated by the Motzkin numbers. We also construct bijections with bushes and Schröder paths, yielding subclasses enumerated by the small Schröder and Catalan numbers. Finally, we refine these enumerative results with respect to several natural poset statistics.
-  
+
 - speaker: Nick Early
   affiliation: Institute for Advanced Study
   title: "[POSTPONED] Harder–Narasimhan polytopes and the positive tropical Grassmannian"
   date: 2026-10-23
-  abstract: > 
+  abstract: >
     With Thomas Lam we completed the proof of a bijection, proposed in my 2021 paper, between the integer points of the positive tropical Grassmannian $\mathrm{Trop}^+G(k,n)$, modulo lineality, and noncrossing tableaux. These are also the integer points of the noncrossing fan of Santos, Stump and Welker, but for $3 \le k \le n-3$ the bijection is not an isomorphism of fans.  In a positive parametrization, the positive tropical Grassmannian corresponds to the normal fan of the product of the Plücker coordinates.  In 2021 I proposed replacing some of the Plücker coordinates by other polynomials, so that the normal fan becomes the noncrossing fan.  The new polynomials give conjectured solutions to binary u-equations, which define a generalized worldsheet associahedron for CEGM amplitudes.  Arkani-Hamed, Frost, Plamondon, Salvatori and Thomas have since attached u-equations to every algebra of finite representation type, with boundaries governed by Harder–Narasimhan polytopes, the convex hulls of the dimension vectors of subrepresentations.  As they note, the u-equations of 2021 come from a gentle algebra on a grid, with details in joint work in progress with Pierre-Guy Plamondon and Hugh Thomas.  I will discuss these ideas from the point of view of tropical geometry and geometric combinatorics, where the representation theory enters through Newton polytopes: the Newton polytope of an F-polynomial is the Harder–Narasimhan polytope of its module.
 
 - speaker: Sergi Elizalde
@@ -70,28 +70,28 @@
   date: 2026-10-09
   abstract: >
     We establish bijections between three classes of combinatorial objects that have been studied in different contexts: lattice walks in simplicial regions as introduced by Mortimer-Prellberg, standard cylindric tableaux as introduced by Gessel-Krattenthaler and Postnikov, and sequences of states in the totally asymmetric simple exclusion process on a cycle. This perspective allows us to translate symmetries from one setting into another, revealing unexpected properties of these objects.
-    Specifically, we show that a recent bijection of Courtiel et al. between certain simplicial walks with forward and backward steps is equivalent to a cylindric analogue of the Robinson--Schensted correspondence. Originally defined by Neyman by iterating an insertion operation, we provide an alternative description of this correspondence by introducing a cylindric version of Fomin's growth diagrams. 
+    Specifically, we show that a recent bijection of Courtiel et al. between certain simplicial walks with forward and backward steps is equivalent to a cylindric analogue of the Robinson--Schensted correspondence. Originally defined by Neyman by iterating an insertion operation, we provide an alternative description of this correspondence by introducing a cylindric version of Fomin's growth diagrams.
     This natural description elucidates the symmetry of the correspondence, and it allows us to interpret the above walks as oscillating cylindric tableaux.
 
 - speaker: Nicolas Avila
   affiliation: LACIM
   title: Luck and Magic for Pitman-Stanley Polytopes and Parking Functions
   date: 2026-10-02
-  abstract: > 
+  abstract: >
     Pitman and Stanley introduced a rich family of lattice polytopes now commonly called Pitman–Stanley polytopes. These polytopes appear in different contexts, including probability, statistics, and algebraic combinatorics, and it is well known that there is a relationship between these polytopes and parking functions by counting lattice points. In this talk, we will show that the relationship between these two families is deeper, particularly within the framework of Ehrhart theory. Parking functions refine the Ehrhart polynomial in the "magic basis" using a "lucky cars" statistic, this implies a positivity phenomenon in that basis and implies the $h^\ast$-polynomial is real-rooted. And the $h^\ast$-polynomial can also be characterized by parking functions by an ascent statistic.
-  
-- speaker: Alex Vidinas 
+
+- speaker: Alex Vidinas
   affiliation: Cornell University
   title: A dimer view on Fox's trapezoidal conjecture
   date: 2026-09-25
   abstract: >
     Abstract: Fox's conjecture (1962) states that the sequence of absolute values of the coefficients of the Alexander polynomial of alternating links is trapezoidal. While the conjecture remains open in general, a number of special cases have been settled, some, quite recently:  Fox's conjecture was shown to hold for special alternating links by Hafner, Mészáros, and Vidinas (2023) and for certain diagrammatic Murasugi sums of special alternating links by Azarpendar,  Juhász, and Kálmán (2024).  Any alternating link can be written as a diagrammatic Murasugi sum of special alternating links; thus, if one could remove the *certain* adjective in the previous result, it would settle Fox's conjecture. In this paper, we give an alternative proof of  Azarpendar, Juhász, and Kálmán's aforementioned result via a dimer model for the Alexander polynomial. In doing so, we not only obtain a significantly shorter proof of  Azarpendar,  Juhász, and Kálmán's result than the original, but we also obtain several theorems of independent interest regarding the Alexander polynomial, which are readily visible from the dimer point of view. Moreover,  we explain, backed with computational evidence,  why our result is only for *certain* diagrammatic Murasugi sums of special alternating links as opposed to all.  While the latter does not settle an open question, it strikes us as important to bring to attention, given the interest in finding a solution to Fox's conjecture. This talk is based on joint work with Karola Mészáros and Melissa Sherman-Bennett.
 
-- speaker: Alex Black 
+- speaker: Alex Black
   affiliation: Bowdoin College
   title: Non-symmetric Macdonald Polynomials and Graph Coloring
   date: 2026-09-18
-  abstract: > 
+  abstract: >
     Many polynomials in algebraic combinatorics are defined implicitly, so even describing their supports, the sets of monomials that appear with nonzero coefficient, is nontrivial. One approach to this question is to show the saturated Newton polytope property, which says that a monomial is in the support if and only if its exponent vector is contained in an associated polytope called its Newton polytope. In 2019, Monical, Tockan, and Yong conjectured that this property holds for non-symmetric Macdonald polynomials, a beautiful and prominent family of polynomials from statistical mechanics and representation theory. In this talk, I will introduce a novel interpretation of non-symmetric Macdonald polynomials from a combinatorial viewpoint using graph coloring and discuss how I used this perspective to prove this conjecture in joint work with Milo Bechtloff Weising.
 
 - speaker: José Samper
@@ -102,7 +102,7 @@
     Shifting operations aim to replace a simplicial complex by a simpler complex that retains some of its basic invariants. The classical example is Kalai's exterior algebraic shifting: acting with a generic invertible matrix turns any complex into a shifted one with the same f-vector and the same Betti numbers.
     I will discuss what happens when the acting matrix is not necessarily generic, but constrained by a partial order P on the vertex set. The resulting operation, poset algebraic shifting, produces a complex that is shifted only along P, and it comes with a dial: when P is an antichain nothing moves, when P is a chain one recovers Kalai's construction, and the interesting behaviour lives in between.
     This is joint work with Jean-Philippe Labbé.
-  
+
 - speaker: Vyjayanthi Chari
   affiliation: UC Riverside
   title:  Combinatorics of $q$-characters
@@ -110,7 +110,7 @@
   abstract: >
     We discuss the representation theory of quantum aﬃne $sl_{n+1}$. The irreducible representations of the algebra are indexed by unordered collections of pairs, consisting of a column of height $i$ and an integer $a$. The corresponding character theory is a refinement of the usual notion of $sl_{n+1}$ character theory.
     In this talk we shall focus on a family of representations and explain how the q-characters can be described using column tableaux and head/tail swap operators.
-    
+
 - speaker: Ian Cavey
   affiliation: UMass Amherst
   title: Polytopes associated to divisors on $\overline{M_{0,n}}$.
@@ -131,7 +131,7 @@
   abstract: >
     Schubert polynomials, introduced by Lascoux and Schutzenberger in 1982 as models for Schubert classes in the cohomology of flag manifolds, now count among the key characters in algebraic combinatorics.  These polynomials S_w(x1, x2, .. ) are indexed by permutations w; in addition to their origins in enumerative geometry, they admit many wonderful combinatorial descriptions.
     In this talk, I’ll discuss the integers N_w = S_w(1, 1, .. ) obtained by setting all variables equal to 1 in a Schubert polynomial.  About 10 years ago, in two apparently unrelated contexts, Merzon-Smirnov and Stanley asked about the maximum value of N_w, for w in the group of permutations of [n], and about the asymptotics of this value as n grows.  Morales-Pak-Panova addressed these questions for a special class of “layered permutations”, and gave precise asymptotic formulas in this case.  In general, however, computational barriers make exhaustive search intractable already around n=15.  I’ll explain how recent work with Panova and Petrov on (bumpless) pipe-dream sampling led us to find non-layered permutations with large N_w, why we think that the asymptotics may nonetheless be captured by layered permutations, and the extent to which new AI tools did or didn’t help us.
-    
+
 - speaker: Alexis Leroux-Lapierre
   affiliation: McGill University
   title: Structure de la catégorie O décalée
