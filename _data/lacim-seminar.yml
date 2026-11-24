@@ -18,9 +18,10 @@
 
 - speaker: Christophe Hohlweg
   affiliation: LACIM
-  title: TBA
+  title: Ordres convexes dans les systèmes de racines et espaces tangents quantiques
   date: 2026-11-27
-  abstract: >
+  abstract: > 
+    Nous considérons les ordres convexes (aussi appelés ordres de réflexion) sur les racines positives $\Phi^+$ d'un groupe de Weyl fini, qui sont en bijection avec les décompositions réduites du plus long élément $w_0$. Nous introduisons une condition combinatoire sur ces ordres, la tangence, et nous classifions les ordres convexes tangents à commutation près : ils sont obtenus en concaténant les représentants minimaux de plus grande longueur des classes latérales le long d'une chaîne de quotients paraboliques cominuscules. En particulier, il n'y en a pas en types $E_8$, $F_4$ et $G_2$. Un outil clé est une projection dans l'ordre faible à droite, associée à chaque racine positive $\beta$ qui est une descente-inversion à droite de w. La projection existe grâce à la théorie des tessons (shards) de Reading, et le résultat est valide pour tout groupe de Coxeter fini. Ce travail est motivé par la géométrie différentielle non commutative : les vecteurs de racines quantiques attachés à une décomposition réduite de $w_0$ engendrent un espace tangent quantique dans $U_q(g)$ si et seulement si cette décomposition est tangente. Travail en collaboration avec Alessandro Carotenuto et Paolo Papi.
 
 
 - speaker: Théo Pinet
